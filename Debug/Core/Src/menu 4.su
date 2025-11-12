@@ -1,0 +1,12 @@
+../Core/Src/menu.c:32:6:menu_send_logo	24	static
+../Core/Src/menu.c:38:6:menu_send_int_1	56	static
+../Core/Src/menu.c:51:6:menu_send_int_2	56	static
+../Core/Src/menu.c:63:6:menu_send_int_3	56	static
+../Core/Src/menu.c:75:6:menu_send_int_4	56	static
+../Core/Src/menu.c:88:6:menu_send_time	64	static
+../Core/Src/menu.c:98:6:menu_send_date	64	static
+../Core/Src/menu.c:111:6:menu_settings_run	24	static
+../Core/Src/menu.c:180:6:menu_settings_TimeDate_run	24	static
+../Core/Src/menu.c:272:6:menu_settings_TimeDateHour	32	static
+../Core/Src/menu.c:289:6:menu_programs_run	24	static
+../Core/Src/menu.c:367:6:menu_home_run	24	static

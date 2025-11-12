@@ -1,0 +1,4 @@
+../Core/Src/menu.c:32:6:menu_send_logo	24	static
+../Core/Src/menu.c:38:6:menu_send_int	56	static
+../Core/Src/menu.c:51:6:menu_start_run	16	static
+../Core/Src/menu.c:58:6:menu_programs_run	24	static
