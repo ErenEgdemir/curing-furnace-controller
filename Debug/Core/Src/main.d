@@ -31,8 +31,10 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8g2.h \
  /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8x8.h \
- ../Core/Inc/ds1307_for_stm32_hal.h ../Core/Inc/main.h ../Core/Inc/menu.h \
- ../Core/Inc/pi_control.h ../Core/Inc/settings.h
+ /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h \
+ /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/ds1307_for_stm32_hal.h \
+ /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/menu.h \
+ /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/settings.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
@@ -66,8 +68,7 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8g2.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8x8.h:
-../Core/Inc/ds1307_for_stm32_hal.h:
-../Core/Inc/main.h:
-../Core/Inc/menu.h:
-../Core/Inc/pi_control.h:
-../Core/Inc/settings.h:
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h:
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/ds1307_for_stm32_hal.h:
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/menu.h:
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/settings.h:
