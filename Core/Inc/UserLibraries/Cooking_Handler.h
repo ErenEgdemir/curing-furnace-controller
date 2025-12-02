@@ -11,66 +11,53 @@
 #include <stdint.h>
 #include "stm32f4xx_hal.h"
 #include "pi_control.h"
-#include "Sensor_Handler.h"
+#include "common_def.h"
+#include "types.h"
 
 #define PI_DT	0.1f
 #define TRUE	1
-#define FALSE	0
 
-
-typedef enum
+static inline float temp_drift(float sens, float avg)
 {
-	PENDING = 0,
-	STAGE_1,
-	STAGE_2,
-	STAGE_3,
-	STAGE_4,
-	STAGE_5,
-	STAGE_6,
-	FASTSTART,
-	ABORT,
-}CookingFlag;
+	float x = avg - sens;
 
+	return x;
+}
 
-typedef struct {
-	uint16_t temperature;
-	uint16_t duration;
-	uint8_t durationPX;
-	uint8_t state;
-	uint16_t changePeriod;
-	uint8_t changePeriodPX;
-	uint8_t fallTime;
-	float realTimeTemp;
-	float tempForMin[512];
-	float tempPerMin;
-	float tempPerMinDown;
-	uint32_t remTime;
-	uint16_t totalDuration;
+static inline void check_error(CookingCtx *c, Sens t){
 
-}stage_t;
+	uint8_t comp_temp = 0;
+	uint8_t furnice_temp = 0;
 
-typedef struct
-{
-	CookingFlag flag;
-	uint32_t counter;
-	stage_t *stage1;
-	stage_t *stage2;
-	stage_t *stage3;
-	stage_t *stage4;
-	stage_t *stage5;
-	stage_t *stage6;
-	stage_t *faststart;
-	uint8_t r1_duty;
-	uint8_t r2_duty;
-	uint8_t r3_duty;
-	uint8_t duty_mean;
-	uint8_t generated;
+	comp_temp = (t.sens1_temp + t.sens2_temp + t.sens3_temp) / 3;
+	furnice_temp = (t.sens4_temp + t.sens5_temp) / 2;
 
-}CookingCtx;
+	if(temp_drift(t.sens1_temp, comp_temp) > 5 || temp_drift(t.sens1_temp, comp_temp) < -5){
+		c->flag = ABORT;
+	}else if(temp_drift(t.sens2_temp, comp_temp) > 5 || temp_drift(t.sens2_temp, comp_temp) < -5){
+		c->flag = ABORT;
+	}else if(temp_drift(t.sens3_temp, comp_temp) > 5 || temp_drift(t.sens3_temp, comp_temp) < -5){
+		c->flag = ABORT;
+	}
+
+	if(temp_drift(t.sens4_temp, furnice_temp) > 10 || temp_drift(t.sens4_temp, furnice_temp) < -10){
+			c->flag = ABORT;
+	}else if(temp_drift(t.sens4_temp, furnice_temp) > 10 || temp_drift(t.sens4_temp, furnice_temp)< -10){
+		c->flag = ABORT;
+	}
+
+	if(t.sens1_temp > 250 || t.sens2_temp > 250 || t.sens3_temp > 250 || t.sens4_temp > 250 || t.sens5_temp > 250){
+		c->flag = ABORT;
+	}else if(t.sens1_temp == 0 || t.sens2_temp == 0 || t.sens3_temp == 0 || t.sens4_temp == 0 || t.sens5_temp == 0){
+		c->flag = ABORT;c->flag = ABORT;
+	}
+
+}
+
 
 void update_DutyCycle(CookingCtx *c, TIM_HandleTypeDef *htim);
 
-void cooking_handler(CookingCtx *c, Sens t);
+void Cooking_Handler(CookingCtx *c, Sens t, PI_Oven *pi1, PI_Oven *pi2, PI_Oven *pi3);
 
 
 #endif /* INC_USERLIBRARIES_COOKING_HANDLER_H_ */

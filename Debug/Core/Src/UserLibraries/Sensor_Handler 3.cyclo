@@ -1,0 +1,2 @@
+../Core/Src/UserLibraries/Sensor_Handler.c:11:6:TempSens_IRQ_Handler	8
+../Core/Src/UserLibraries/Sensor_Handler.c:73:6:Sens_Handler	6

@@ -1,0 +1,5 @@
+../Core/Src/UserLibraries/Button_Handler.c:17:20:display_goto	16	static
+../Core/Src/UserLibraries/Button_Handler.c:29:20:display_set	24	static
+../Core/Src/UserLibraries/Button_Handler.c:38:6:button_handler_encoder1	16	static
+../Core/Src/UserLibraries/Button_Handler.c:679:6:button_handler_encoder2	16	static
+../Core/Src/UserLibraries/Button_Handler.c:751:6:button_handler_encoder3	24	static

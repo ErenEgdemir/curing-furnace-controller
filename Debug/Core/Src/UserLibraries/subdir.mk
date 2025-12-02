@@ -1,22 +1,37 @@
 ################################################################################
 # Automatically-generated file. Do not edit!
-# Toolchain: GNU Tools for STM32 (13.3.rel1)
+# Toolchain: GNU Tools for STM32 (11.3.rel1)
 ################################################################################
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../Core/Src/UserLibraries/Cooking_Handler.c \
+../Core/Src/UserLibraries/Display_Handler.c \
+../Core/Src/UserLibraries/Encoder_Handler.c \
+../Core/Src/UserLibraries/Interrupt_Handler.c \
+../Core/Src/UserLibraries/Sensor_Handler.c \
 ../Core/Src/UserLibraries/ds1307_for_stm32_hal.c \
 ../Core/Src/UserLibraries/menu.c \
 ../Core/Src/UserLibraries/pi_control.c \
 ../Core/Src/UserLibraries/settings.c 
 
 OBJS += \
+./Core/Src/UserLibraries/Cooking_Handler.o \
+./Core/Src/UserLibraries/Display_Handler.o \
+./Core/Src/UserLibraries/Encoder_Handler.o \
+./Core/Src/UserLibraries/Interrupt_Handler.o \
+./Core/Src/UserLibraries/Sensor_Handler.o \
 ./Core/Src/UserLibraries/ds1307_for_stm32_hal.o \
 ./Core/Src/UserLibraries/menu.o \
 ./Core/Src/UserLibraries/pi_control.o \
 ./Core/Src/UserLibraries/settings.o 
 
 C_DEPS += \
+./Core/Src/UserLibraries/Cooking_Handler.d \
+./Core/Src/UserLibraries/Display_Handler.d \
+./Core/Src/UserLibraries/Encoder_Handler.d \
+./Core/Src/UserLibraries/Interrupt_Handler.d \
+./Core/Src/UserLibraries/Sensor_Handler.d \
 ./Core/Src/UserLibraries/ds1307_for_stm32_hal.d \
 ./Core/Src/UserLibraries/menu.d \
 ./Core/Src/UserLibraries/pi_control.d \
@@ -30,7 +45,7 @@ Core/Src/UserLibraries/%.o Core/Src/UserLibraries/%.su Core/Src/UserLibraries/%.
 clean: clean-Core-2f-Src-2f-UserLibraries
 
 clean-Core-2f-Src-2f-UserLibraries:
-	-$(RM) ./Core/Src/UserLibraries/ds1307_for_stm32_hal.cyclo ./Core/Src/UserLibraries/ds1307_for_stm32_hal.d ./Core/Src/UserLibraries/ds1307_for_stm32_hal.o ./Core/Src/UserLibraries/ds1307_for_stm32_hal.su ./Core/Src/UserLibraries/menu.cyclo ./Core/Src/UserLibraries/menu.d ./Core/Src/UserLibraries/menu.o ./Core/Src/UserLibraries/menu.su ./Core/Src/UserLibraries/pi_control.cyclo ./Core/Src/UserLibraries/pi_control.d ./Core/Src/UserLibraries/pi_control.o ./Core/Src/UserLibraries/pi_control.su ./Core/Src/UserLibraries/settings.cyclo ./Core/Src/UserLibraries/settings.d ./Core/Src/UserLibraries/settings.o ./Core/Src/UserLibraries/settings.su
+	-$(RM) ./Core/Src/UserLibraries/Cooking_Handler.cyclo ./Core/Src/UserLibraries/Cooking_Handler.d ./Core/Src/UserLibraries/Cooking_Handler.o ./Core/Src/UserLibraries/Cooking_Handler.su ./Core/Src/UserLibraries/Display_Handler.cyclo ./Core/Src/UserLibraries/Display_Handler.d ./Core/Src/UserLibraries/Display_Handler.o ./Core/Src/UserLibraries/Display_Handler.su ./Core/Src/UserLibraries/Encoder_Handler.cyclo ./Core/Src/UserLibraries/Encoder_Handler.d ./Core/Src/UserLibraries/Encoder_Handler.o ./Core/Src/UserLibraries/Encoder_Handler.su ./Core/Src/UserLibraries/Interrupt_Handler.cyclo ./Core/Src/UserLibraries/Interrupt_Handler.d ./Core/Src/UserLibraries/Interrupt_Handler.o ./Core/Src/UserLibraries/Interrupt_Handler.su ./Core/Src/UserLibraries/Sensor_Handler.cyclo ./Core/Src/UserLibraries/Sensor_Handler.d ./Core/Src/UserLibraries/Sensor_Handler.o ./Core/Src/UserLibraries/Sensor_Handler.su ./Core/Src/UserLibraries/ds1307_for_stm32_hal.cyclo ./Core/Src/UserLibraries/ds1307_for_stm32_hal.d ./Core/Src/UserLibraries/ds1307_for_stm32_hal.o ./Core/Src/UserLibraries/ds1307_for_stm32_hal.su ./Core/Src/UserLibraries/menu.cyclo ./Core/Src/UserLibraries/menu.d ./Core/Src/UserLibraries/menu.o ./Core/Src/UserLibraries/menu.su ./Core/Src/UserLibraries/pi_control.cyclo ./Core/Src/UserLibraries/pi_control.d ./Core/Src/UserLibraries/pi_control.o ./Core/Src/UserLibraries/pi_control.su ./Core/Src/UserLibraries/settings.cyclo ./Core/Src/UserLibraries/settings.d ./Core/Src/UserLibraries/settings.o ./Core/Src/UserLibraries/settings.su
 
 .PHONY: clean-Core-2f-Src-2f-UserLibraries
 

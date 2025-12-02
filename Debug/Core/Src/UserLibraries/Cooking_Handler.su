@@ -1,0 +1,4 @@
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:20:21:temp_drift	24	static
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:27:20:check_error	24	static
+../Core/Src/UserLibraries/Cooking_Handler.c:27:6:update_DutyCycle	16	static
+../Core/Src/UserLibraries/Cooking_Handler.c:35:6:Cooking_Handler	56	static

@@ -1,0 +1,9 @@
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Encoder_Handler.h:22:20:display_goto	1
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Encoder_Handler.h:28:20:display_set	1
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Encoder_Handler.h:33:20:set_value	5
+../Core/Src/UserLibraries/Encoder_Handler.c:37:6:button_handler_encoder1	150
+../Core/Src/UserLibraries/Encoder_Handler.c:678:6:button_handler_encoder2	17
+../Core/Src/UserLibraries/Encoder_Handler.c:754:6:button_handler_encoder3	3
+../Core/Src/UserLibraries/Encoder_Handler.c:779:6:tick_handler_encoder1	53
+../Core/Src/UserLibraries/Encoder_Handler.c:950:6:tick_handler_encoder2	8
+../Core/Src/UserLibraries/Encoder_Handler.c:984:6:tick_handler_encoder3	1

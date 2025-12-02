@@ -1,0 +1,14 @@
+../Core/Src/UserLibraries/settings.c:14:17:crc32_calc	32	static
+../Core/Src/UserLibraries/settings.c:27:24:FlashSizeKB	4	static
+../Core/Src/UserLibraries/settings.c:34:17:GetSector	16	static
+../Core/Src/UserLibraries/settings.c:55:12:Flash_EraseRange	56	static
+../Core/Src/UserLibraries/settings.c:75:12:Flash_ProgramWords	40	static
+../Core/Src/UserLibraries/settings.c:89:13:Flash_ReadWords	32	static
+../Core/Src/UserLibraries/settings.c:103:13:PickBases	16	static
+../Core/Src/UserLibraries/settings.c:119:12:ReadOne	24	static
+../Core/Src/UserLibraries/settings.c:133:12:WriteOne	10328	static
+../Core/Src/UserLibraries/settings.c:157:6:Settings_FillDefaults	24	static
+../Core/Src/UserLibraries/settings.c:179:6:Settings_Init	20600	static
+../Core/Src/UserLibraries/settings.c:200:14:Settings_Get	4	static
+../Core/Src/UserLibraries/settings.c:205:5:Settings_Save	16	static
+../Core/Src/UserLibraries/settings.c:219:6:Settings_ResetToDefaults	16	static
