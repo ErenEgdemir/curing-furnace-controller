@@ -112,13 +112,13 @@ The firmware is divided into several logical subsystems:
 Core/
   Inc/
     UserLibraries/
-      Cooking_Handler.h
-      Display_Handler.h
-      Encoder_Handler.h
-      Sensor_Handler.h
-      Helper_Functions.h
-      menu.h
-      types.h
+      Cooking_Handler.h      # Cooking state machine + PI control API
+      Display_Handler.h      # High-level display routing for all menu pages
+      Encoder_Handler.h      # Encoder tick + button handling
+      Sensor_Handler.h       # Sensor acquisition and conversion
+      Helper_Functions.h     # HAL glue + U8g2 hardware callbacks
+      menu.h                 # Menu page APIs (HOME, PROGRAMS, SETTINGS, etc.)
+      types.h                # Shared types (MenuCtx, CookingCtx, Sens, enums, etc.)
   Src/
     UserLibraries/
       Cooking_Handler.c
@@ -127,72 +127,117 @@ Core/
       Sensor_Handler.c
       Helper_Functions.c
       menu.c
+
 Drivers/
-  # STM32 HAL, CMSIS, BSP, etc.
-Building the Firmware
-Toolchain
+  # STM32 HAL, CMSIS, startup files, BSP, etc.
+```
 
-STM32CubeIDE (recommended)
+---
 
-or any ARM-GCC based toolchain with HAL and startup files set up
+## Building the Firmware
 
-Steps (STM32CubeIDE)
+### Toolchain
+- **STM32CubeIDE** (recommended)
+- or **ARM-GCC** with HAL + startup files configured manually
 
-Import the project as an existing STM32CubeIDE project
+### STM32CubeIDE Steps
+1. Clone the repository
+2. Open **STM32CubeIDE → Import → Existing Projects into Workspace**
+3. Select the project root folder
+4. Ensure the correct MCU is selected (**STM32F401xC**)
+5. Verify peripheral configuration:
+   - Clock tree
+   - TIM5 PWM (channels 2, 3, 4)
+   - TIM1 and TIM9 for periodic interrupts and debouncing
+   - SPI1 for temperature sensors (MAX_CS1..MAX_CS5)
+   - SPI2 for the LCD (U8g2 backend)
+   - I²C (DS1307 RTC)
+   - GPIO and interrupt mappings for encoders and buttons
+6. Build the project (Debug / Release)
+7. Flash onto the board using **ST-Link**
 
-Ensure the correct target MCU is selected (e.g. STM32F401xC)
+---
 
-Verify clock configuration and peripheral mappings (TIM, SPI, I2C, GPIO)
+## Runtime Behavior (High-Level Overview)
 
-Build the project (Debug or Release)
+### On Startup
+- All MAX31855 (or compatible) chip-select lines are set HIGH via `Temp_Sens_Init()`.
+- PI controllers and PWM outputs are initialized using `Cooking_Init()` and current settings.
+- A splash screen is shown.
+- The UI transitions to the **HOME** menu.
 
-Flash to target via ST-Link
+### Main Loop
+A simplified main loop typically performs:
 
-Runtime Behavior (High-Level)
-On startup:
+1. Check interrupt-driven flags:
+   - `sensorRead_flag` (TIM1 period elapsed)
+   - Encoder button flags (`IRQ_enc*_btn_flag`, TIM9 debounce)
+   - `SPI_flag` (SPI thermocouple frame complete)
+2. Run `Sens_Handler()` to acquire/update sensor values and RTC data.
+3. Run `Cooking_Handler()` to advance the cooking state machine.
+4. Call `Display_Handler()` to render the correct menu/page.
+5. Process encoder ticks via `tick_handler_encoder*()` and their button handlers.
 
-All sensor chip-selects are set to inactive (Temp_Sens_Init()).
+Real-time behavior (sampling rate, PI update period, UI refresh rate) is determined by timer configuration and `PI_DT`.
 
-PI controllers and PWM outputs are initialized (Cooking_Init()).
+---
 
-The menu system starts at HOME state.
+## Doxygen Documentation
 
-Main loop (simplified):
+The codebase is annotated with Doxygen-style comments for all public APIs and key internal helpers.
 
-Read sensor flags (set by timer/SPI interrupts)
+### Generate HTML Documentation
 
-Update sensor frame (Sens_Handler() + TempSens_IRQ_Handler())
-
-Run cooking state machine (Cooking_Handler())
-
-Refresh display (Display_Handler())
-
-Handle encoder ticks and button events to navigate menus and adjust settings
-
-Documentation (Doxygen)
-This project is documented using Doxygen.
-
-To generate HTML documentation:
-
-
+```bash
 doxygen Doxyfile
+```
+
 Then open:
 
-
+```text
 docs/html/index.html
-If you want to use this README as the main page in Doxygen, set in Doxyfile:
+```
 
+### Use README as Doxygen Main Page
 
+In `Doxyfile`, set:
+
+```text
 USE_MDFILE_AS_MAINPAGE = README.md
-Safety Notice
-This firmware controls hardware capable of generating dangerous temperatures.
-Before using it in a real furnace:
+```
 
-Verify all safety mechanisms (over-temperature, sensor drift checks, ABORT state).
+---
 
-Add independent hardware safety layers (thermal fuse, hardware limiters, E-stop).
+## Testing & Validation
 
-Validate all control parameters on a safe test bench.
+Before using the firmware in a production or high-value composite curing scenario, it is strongly recommended to:
 
-Use at your own risk.
+- Validate all temperature readings against a calibrated reference.
+- Test PI settings with dummy loads or low-power heaters.
+- Verify stage transitions (STAGE_1..6, FASTSTART) against expected timing.
+- Simulate sensor faults (open thermocouple, unplugged sensors) and confirm that the system enters **ABORT** safely.
+
+---
+
+## Safety Notice
+
+This firmware controls a heating system capable of reaching dangerous temperatures.
+
+Before connecting to a real furnace:
+
+- Ensure a **hardware safety layer** exists:
+  - Thermal fuse
+  - Independent mechanical thermostat or over-temperature cut-off
+  - Emergency stop (E-stop) button
+- Verify proper grounding and insulation of all high-voltage and high-current paths.
+- Validate that the **ABORT** state reliably disables heater outputs and, if desired, resets the system.
+
+> Use this firmware at your own risk. The author assumes no liability for damages resulting from improper use.
+
+---
+## Author
+
+**Eren Egdemir**
+
+Electrical Engineering Student at Yildiz Technical  University
 
