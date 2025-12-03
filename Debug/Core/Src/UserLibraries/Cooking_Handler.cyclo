@@ -1,4 +1,7 @@
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:20:21:temp_drift	1
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:27:20:check_error	21
-../Core/Src/UserLibraries/Cooking_Handler.c:27:6:update_DutyCycle	1
-../Core/Src/UserLibraries/Cooking_Handler.c:35:6:Cooking_Handler	29
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h:40:20:PI_Control_SetFilter	1
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h:43:20:PI_Control_SetSlew	1
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:71:21:temp_drift	1
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:113:20:check_error	21
+../Core/Src/UserLibraries/Cooking_Handler.c:65:6:Cooking_Init	1
+../Core/Src/UserLibraries/Cooking_Handler.c:85:6:update_DutyCycle	1
+../Core/Src/UserLibraries/Cooking_Handler.c:93:6:Cooking_Handler	29

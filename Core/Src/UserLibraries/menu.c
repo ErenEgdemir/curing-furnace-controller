@@ -1,8 +1,50 @@
-/*
- * menu.c
+/**
+ * @file    menu.c
+ * @brief   Rendering engine for all UI menu pages of the curing furnace controller.
  *
- *  Created on: Oct 16, 2025
- *      Author: erenegdemir
+ * This module implements the complete on-device graphical user interface built
+ * on top of the U8g2 library. Each function in this file corresponds to a
+ * dedicated screen or sub-menu in the system’s hierarchical UI state machine.
+ *
+ * The menu system is structured around:
+ *   - **MenuCtx** : holds the current menu state and navigation cursor
+ *   - **CookingCtx** : exposes live cooking-process data for visualization
+ *   - **Sens** : provides real-time sensor feedback (temperatures, time, etc.)
+ *   - **setting_t** : exposes user-configurable parameters (PI gains, offsets…)
+ *
+ * Major UI categories implemented in this file:
+ *
+ *   • **Home & Program Selection Screens**
+ *       - High-level navigation menus, program select pages,
+ *         advanced temperature-control setup screens.
+ *
+ *   • **Cooking Screens**
+ *       - Live cooking view, temperature adjustments, power tuning,
+ *         duration editing, and process-generation previews.
+ *
+ *   • **FastStart & Advanced TempControl Editors**
+ *       - Parameter editors for multi-stage temperature profiles
+ *         (T1–T6 stage editors, rise-time editors, generator page, etc.)
+ *
+ *   • **Settings Screens**
+ *       - System configuration interfaces (PI tuning, time/date settings,
+ *         temp-offset editing).
+ *
+ * Each UI function in this file is strictly *render-only*:
+ * they do not modify system state or logic, but instead draw the relevant
+ * menu page based on the input context structures.
+ *
+ * Navigation behavior (state transitions, cursor updates, encoder inputs)
+ * is performed externally by the menu/state machine handler and passed into
+ * these rendering functions as pure data.
+ *
+ * @note This module requires:
+ *       - U8g2 graphics library
+ *       - Global font configuration
+ *       - Properly initialized Display_Handler before use
+ *
+ * @date    Dec 3, 2025
+ * @author  Eren Egdemir
  */
 
 #include "menu.h"

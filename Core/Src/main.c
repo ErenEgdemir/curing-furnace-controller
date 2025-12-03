@@ -34,6 +34,7 @@
 #include "types.h"
 #include "Encoder_Handler.h"
 #include "Interrupt_Handler.h"
+#include "Helper_Functions.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -43,20 +44,6 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-
-/* USER INTERFACE STATE MACHINE DEFINES */
-
-
-
-#define CS_EN HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET)
-#define CS_DIS HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET)
-
-#define CLOCK_HIGH HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET)
-#define CLOCK_LOW HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET)
-
-#define TEMP_CAL 0.25
-
-
 
 /* USER CODE END PD */
 
@@ -90,17 +77,11 @@ static PI_Oven    pi1;
 static PI_Oven    pi2;
 static PI_Oven    pi3;
 
-//uint8_t sensorRead_flag = FALSE;
-
-AppSettings* cfg;
-
 static MenuCtx m;
 static CookingCtx c;
 static Sens t;
 
-
-//uint8_t buttonState = TRUE;
-
+AppSettings* cfg;
 
 setting_t setting;
 
@@ -108,8 +89,9 @@ encoder encoder1;
 encoder encoder2;
 encoder encoder3;
 
-uint32_t TIM_counter;
+u8g2_t display;
 
+uint32_t TIM_counter;
 
 /* USER CODE END PV */
 
@@ -136,48 +118,6 @@ static void MX_TIM9_Init(void);
 
 
 
-uint8_t u8x8_gpio_and_delay(u8x8_t *u8x8, uint8_t msg, uint8_t arg_int,
-		void *arg_ptr)
-{
-	switch (msg) {
-	case U8X8_MSG_DELAY_MILLI:
-		HAL_Delay(arg_int);
-		break;
-	case U8X8_MSG_GPIO_CS:
-		HAL_GPIO_WritePin(LCD_CS_GPIO_Port, LCD_CS_Pin, arg_int);
-		break;
-	case U8X8_MSG_GPIO_DC:
-//		HAL_GPIO_WritePin(DC_GPIO_Port, DC_Pin, arg_int);
-		break;
-	case U8X8_MSG_GPIO_RESET:
-		HAL_GPIO_WritePin(RESET_GPIO_Port, RESET_Pin, arg_int);
-		break;
-	}
-	return 1;
-}
-
-uint8_t u8x8_spi(u8x8_t *u8x8, uint8_t msg, uint8_t arg_int,
-		void *arg_ptr) {
-
-	switch (msg) {
-	case U8X8_MSG_BYTE_SET_DC:
-//		HAL_GPIO_WritePin(DC_GPIO_Port, DC_Pin, arg_int);
-		break;
-	case U8X8_MSG_BYTE_SEND:
-		HAL_SPI_Transmit(&hspi2, (uint8_t *)arg_ptr, arg_int, 1000);
-		break;
-	case U8X8_MSG_BYTE_START_TRANSFER:
-		HAL_GPIO_WritePin(LCD_CS_GPIO_Port, LCD_CS_Pin, GPIO_PIN_SET);
-		break;
-	case U8X8_MSG_BYTE_END_TRANSFER:
-		HAL_GPIO_WritePin(LCD_CS_GPIO_Port, LCD_CS_Pin, GPIO_PIN_RESET);
-		break;
-	}
-	return 1;
-}
-
-u8g2_t display;
-
 
 /* USER CODE END 0 */
 
@@ -188,11 +128,6 @@ u8g2_t display;
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-	HAL_GPIO_WritePin(MAX_CS1_GPIO_Port, MAX_CS1_Pin, GPIO_PIN_SET);
-	HAL_GPIO_WritePin(MAX_CS2_GPIO_Port, MAX_CS2_Pin, GPIO_PIN_SET);
-	HAL_GPIO_WritePin(MAX_CS3_GPIO_Port, MAX_CS3_Pin, GPIO_PIN_SET);
-	HAL_GPIO_WritePin(MAX_CS4_GPIO_Port, MAX_CS4_Pin, GPIO_PIN_SET);
-	HAL_GPIO_WritePin(MAX_CS5_GPIO_Port, MAX_CS5_Pin, GPIO_PIN_SET);
 
   /* USER CODE END 1 */
 
@@ -225,55 +160,22 @@ int main(void)
   MX_TIM5_Init();
   MX_TIM9_Init();
   /* USER CODE BEGIN 2 */
-
+	Temp_Sens_Init();
 	DS1307_Init(&hi2c1);
-
-	u8g2_Setup_st7920_s_128x64_f(&display, U8G2_R2, u8x8_spi,
-			u8x8_gpio_and_delay);
-	u8g2_InitDisplay(&display);
-	u8g2_SetPowerSave(&display, 0);
-
-	u8g2_ClearDisplay(&display);
-
-	u8g2_SendBuffer(&display);
-
-	u8g2_ClearBuffer(&display);
-	u8g2_SetFont(&display, u8g2_font_04b_03_tr);
-	u8g2_DrawStr(&display, 13, 5, "Composite Curing Furnace");
-	menu_send_setupLogo(&display, 2, 14);
-	u8g2_DrawStr(&display, 9, 62, "Developed by Eren Egdemir");
-	u8g2_DrawStr(&display, 45, 12, "Controller");
-	u8g2_SendBuffer(&display);
+	Display_Init(&display);
 
 	Settings_Init();
 	cfg = Settings_Get();
-
-
 	setting.kp = cfg->kp;
 	setting.ki = cfg->ki;
 	setting.slew = cfg->slew;
 	setting.max_pwr = cfg->maxPwr;
 
-	HAL_TIM_Encoder_Start_IT(&htim2, TIM_CHANNEL_ALL);
-	HAL_TIM_Encoder_Start_IT(&htim3, TIM_CHANNEL_ALL);
-	HAL_TIM_Encoder_Start_IT(&htim4, TIM_CHANNEL_ALL);
+	Encoder_Init();
+	Cooking_Init(setting, &pi1, &pi2, &pi3);
+
 	HAL_TIM_Base_Start_IT(&htim1);
-	HAL_TIM_PWM_Start(&htim5, TIM_CHANNEL_2);
-	HAL_TIM_PWM_Start(&htim5, TIM_CHANNEL_3);
-	HAL_TIM_PWM_Start(&htim5, TIM_CHANNEL_4);
 
-	PI_Control_Init(&pi1, setting.kp, setting.ki, 0.0f, setting.max_pwr);
-	PI_Control_SetFilter(&pi1, 0.6f);        // 0.3–0.7 tipik
-	PI_Control_SetSlew(&pi1, setting.slew);
-
-	PI_Control_Init(&pi2, setting.kp, setting.ki, 0.0f, setting.max_pwr);
-	PI_Control_SetFilter(&pi2, 0.6f);        // 0.3–0.7 tipik
-	PI_Control_SetSlew(&pi2, setting.slew);
-
-	PI_Control_Init(&pi3, setting.kp, setting.ki, 0.0f, setting.max_pwr);
-	PI_Control_SetFilter(&pi3, 0.6f);        // 0.3–0.7 tipik
-	PI_Control_SetSlew(&pi3, setting.slew);
-	HAL_Delay(1500);
 
   /* USER CODE END 2 */
 
@@ -290,12 +192,14 @@ int main(void)
 			button_handler_encoder1(&m, &c, t);
 			IRQ_enc1_btn_flag = FALSE;
 
-		}else if(IRQ_enc2_btn_flag == TRUE){
+		}
+		if(IRQ_enc2_btn_flag == TRUE){
 
 			button_handler_encoder2(&m, &c);
 			IRQ_enc2_btn_flag = FALSE;
 
-		}else if(IRQ_enc3_btn_flag == TRUE){
+		}
+		if(IRQ_enc3_btn_flag == TRUE){
 
 			button_handler_encoder3(&m, &setting, &pi1, &pi2, &pi3);
 			IRQ_enc3_btn_flag = FALSE;

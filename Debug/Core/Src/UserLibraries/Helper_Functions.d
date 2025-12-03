@@ -1,4 +1,6 @@
-Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
+Core/Src/UserLibraries/Helper_Functions.o: \
+ ../Core/Src/UserLibraries/Helper_Functions.c \
+ /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Helper_Functions.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../Core/Inc/stm32f4xx_hal_conf.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
@@ -31,24 +33,11 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8g2.h \
  /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8x8.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/ds1307_for_stm32_hal.h \
+ ../Core/Inc/main.h \
  /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/menu.h \
  /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/common_def.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/types.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Sensor_Handler.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Display_Handler.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/menu.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/settings.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/types.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Encoder_Handler.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/settings.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/ds1307_for_stm32_hal.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Interrupt_Handler.h \
- /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Helper_Functions.h
-../Core/Inc/main.h:
+ /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/types.h
+/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Helper_Functions.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
@@ -81,20 +70,7 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8g2.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Drivers/csrc/u8x8.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/ds1307_for_stm32_hal.h:
+../Core/Inc/main.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/menu.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/common_def.h:
 /Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/types.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Sensor_Handler.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Cooking_Handler.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/pi_control.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Display_Handler.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/menu.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/settings.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/types.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Encoder_Handler.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/settings.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/ds1307_for_stm32_hal.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Interrupt_Handler.h:
-/Users/erenegdemir/Desktop/Calismalar/Stm/oven_prototype/Core/Inc/UserLibraries/Helper_Functions.h:

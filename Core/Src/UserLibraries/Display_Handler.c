@@ -1,8 +1,37 @@
-/*
- * Display_Handler.c
+/**
+ * @file Display_Handler.c
+ * @brief Central display-state dispatcher for the curing oven UI system.
  *
- *  Created on: Dec 2, 2025
- *      Author: erenegdemir
+ * This module acts as the top-level router for all menu and cooking-related
+ * display screens. Based on the active UI state (m->flag), it forwards control
+ * to the corresponding menu rendering function. This keeps the application
+ * architecture modular and decouples UI state transitions from rendering logic.
+ *
+ * Functionality:
+ *  - Handles all display updates depending on the active menu or cooking state.
+ *  - Routes context pointers (MenuCtx, CookingCtx, Sens, setting_t) to the
+ *    correct UI function.
+ *  - Ensures that each screen is rendered consistently through U8G2 driver.
+ *
+ * Design Notes:
+ *  - This module does not contain drawing logic itself; the actual rendering
+ *    occurs inside menu_* functions.
+ *  - Switching on m->flag creates a clean, explicit, easy-to-debug UI state
+ *    machine.
+ *  - All states under HOME, PROGRAMS, COOKING, SETTINGS groups are handled.
+ *
+ * Dependencies:
+ *  - Requires Display_Handler.h for prototypes and UI state definitions.
+ *  - Relies on the U8G2 library for OLED drawing.
+ *  - Uses system context structures from MenuCtx, CookingCtx, Sens.
+ *
+ * Usage:
+ *  - Call Display_Handler() periodically in the main loop or inside a GUI task.
+ *
+ * @author
+ *    erenegdemir
+ * @date
+ *    Dec 2, 2025
  */
 
 #include "Display_Handler.h"   // kendi prototipin varsa

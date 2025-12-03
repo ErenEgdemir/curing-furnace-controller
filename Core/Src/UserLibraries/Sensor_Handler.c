@@ -1,8 +1,40 @@
-/*
- * Sensor_Handler.c
+/**
+ * @file    Sensor_Handler.c
+ * @brief   Sensor acquisition, SPI-based MAX6675/MAX31855 reading, and RTC data
+ *          retrieval for the composite curing furnace controller.
  *
- *  Created on: Nov 13, 2025
- *      Author: erenegdemir
+ * This module provides all sensor-handling logic required by the thermal
+ * management subsystem. It performs:
+ *
+ *  - High-speed temperature acquisition from multiple SPI thermocouple modules
+ *    using chip-select multiplexing
+ *  - Interrupt-driven temperature decoding (TempSens_IRQ_Handler)
+ *  - Staged sensor polling including real-time clock sampling (Sens_Handler)
+ *  - Initialization of all temperature sensor chip-select lines (Temp_Sens_Init)
+ *
+ * **Key functionality:**
+ *  - Converts 12-bit thermocouple data into signed 16-bit temperature values
+ *    with scaling (TEMP_CAL)
+ *  - Identifies which chip-select is active to route temperature into the
+ *    correct sensor slot (sens1_temp … sens5_temp)
+ *  - Ensures safe reset of all CS lines after each transaction
+ *  - Polls DS1307 RTC fields (date, month, year, hour, minute) in a time-sliced
+ *    sequence synchronized with the SPI state machine
+ *
+ * The module is designed to integrate with DMA-driven SPI reception and
+ * time-based scheduling managed externally (e.g., in the TIM1/TIM9 ISR layer).
+ *
+ * @dependencies
+ *      - STM32 HAL (SPI, GPIO)
+ *      - DS1307 HAL driver
+ *      - Global chip-select GPIO definitions
+ *      - Sens structure from types.h
+ *
+ * @note All temperature-related ISRs and handlers here are designed to be fast
+ *       and flag-based to minimize CPU load.
+ *
+ * @date    Dec 3, 2025
+ * @author  Eren Egdemir
  */
 
 #include "Sensor_Handler.h"
@@ -72,7 +104,6 @@ void Sens_Handler(Sens *t, uint32_t cntr, SPI_HandleTypeDef *hspi){
 		HAL_GPIO_WritePin(MAX_CS1_GPIO_Port, MAX_CS1_Pin,
 				GPIO_PIN_RESET);
 		HAL_SPI_Receive_DMA(hspi, (uint8_t*) t->buffer, 1);
-//				HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);
 		cntr++;
 		break;
 	case 1:
@@ -106,6 +137,15 @@ void Sens_Handler(Sens *t, uint32_t cntr, SPI_HandleTypeDef *hspi){
 	default:
 		break;
 	}
+}
+
+void Temp_Sens_Init(void)
+{
+	HAL_GPIO_WritePin(MAX_CS1_GPIO_Port, MAX_CS1_Pin, GPIO_PIN_SET);
+	HAL_GPIO_WritePin(MAX_CS2_GPIO_Port, MAX_CS2_Pin, GPIO_PIN_SET);
+	HAL_GPIO_WritePin(MAX_CS3_GPIO_Port, MAX_CS3_Pin, GPIO_PIN_SET);
+	HAL_GPIO_WritePin(MAX_CS4_GPIO_Port, MAX_CS4_Pin, GPIO_PIN_SET);
+	HAL_GPIO_WritePin(MAX_CS5_GPIO_Port, MAX_CS5_Pin, GPIO_PIN_SET);
 }
 
 

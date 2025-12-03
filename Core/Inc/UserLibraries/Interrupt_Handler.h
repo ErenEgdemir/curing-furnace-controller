@@ -1,8 +1,19 @@
-/*
- * Interrupt_Handler.h
+/**
+ * @file    Interrupt_Handler.h
+ * @brief   Centralized interrupt flag definitions and external handles.
  *
- *  Created on: Dec 2, 2025
- *      Author: erenegdemir
+ * This header exposes the global flags, encoder instances, and timer handles
+ * used by the interrupt service routines implemented in Interrupt_Handler.c.
+ * These flags are set by lightweight ISRs and consumed by higher-level
+ * application logic in the main execution loop.
+ *
+ * The module provides:
+ *  - Global volatile flags for sensor sampling, encoder button presses, and SPI events.
+ *  - External encoder structures updated by timer-based quadrature decoding.
+ *  - External timer handles used for debounce timing (TIM9).
+ *
+ * @date    03.12.2025
+ * @author  Eren Egdemir
  */
 
 #ifndef INC_USERLIBRARIES_INTERRUPT_HANDLER_H_

@@ -1,8 +1,25 @@
-/*
- * types.h
+/**
+ * @file    types.h
+ * @brief   Core data structures used across the composite curing furnace
+ *          controller, including settings, sensor frames, cooking stages,
+ *          context states, and encoder tracking.
  *
- *  Created on: Dec 2, 2025
- *      Author: erenegdemir
+ * This header defines all fundamental typedef structures that form the
+ * shared data model of the system:
+ *
+ *  - system settings (setting_t)
+ *  - raw and processed sensor data frames (Sens)
+ *  - full curing stage profiles with temperature curves (stage_t)
+ *  - main cooking state machine context (CookingCtx)
+ *  - menu navigation context (MenuCtx)
+ *  - quadrature encoder state tracking (encoder)
+ *
+ * These structures are used by all major subsystems:
+ *  cooking logic, menu rendering, sensor acquisition, interrupt handling,
+ *  PI control, and system configuration.
+ *
+ * @date    Dec 2, 2025
+ * @author  Eren Egdemir
  */
 
 #ifndef INC_USERLIBRARIES_TYPES_H_

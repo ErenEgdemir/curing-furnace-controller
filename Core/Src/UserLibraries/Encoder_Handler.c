@@ -1,39 +1,60 @@
-/*
- * Button_Handler.c
+/**
+ * @file    Encoder_Handler.c
+ * @brief   High-level event handlers for rotary encoders used in UI navigation,
+ *          parameter editing, and cooking profile configuration.
  *
- *  Created on: Nov 12, 2025
- *      Author: erenegdemir
+ * This module implements the runtime logic for all three rotary encoders:
+ *  - Encoder 1: Primary navigation and multi-level menu transitions.
+ *  - Encoder 2: Temperature editing and stage-specific parameter adjustments.
+ *  - Encoder 3: Power limit modification and PI controller re-initialization.
+ *
+ * The handlers in this file are responsible for processing:
+ *  - Encoder button press events      (button_handler_encoderX)
+ *  - Encoder rotation tick events     (tick_handler_encoderX)
+ *  - Encoder initialization           (Encoder_Init)
+ *
+ * Each handler updates the application’s UI and cooking contexts by modifying:
+ *  - Menu state (MenuCtx::flag)
+ *  - Selector counters (MenuCtx::counter)
+ *  - Cooking stages and temperature profiles (CookingCtx)
+ *  - Persistent system settings (setting_t)
+ *  - PI controller parameters for the heating system
+ *
+ * # Key Responsibilities
+ *  - Encapsulate all encoder-driven state machine transitions.
+ *  - Provide structured and deterministic UI navigation behavior.
+ *  - Ensure safe updates to cooking parameters (temperature, duration, rising time).
+ *  - Maintain user-friendly bounded adjustments using set_value().
+ *  - Reinitialize PI controllers when power limits change.
+ *
+ * # Design Notes
+ *  - All handlers are lightweight and suitable for ISR or high-frequency loops.
+ *  - No hardware interaction is performed directly except encoder timer start.
+ *  - All screen transitions use display_goto() and display_set() for clarity.
+ *  - Cooking safety and heater control remain fully isolated in Cooking_Handler.
+ *
+ * # Dependencies
+ *  - Encoder_Handler.h
+ *  - MenuCtx, CookingCtx, Sens structures
+ *  - display_goto(), display_set(), set_value() utilities
+ *  - PI_Control_Init(), PI_Control_Update()
+ *  - DS1307 time-setting functions for RTC
+ *
+ * @date    Nov 12, 2025
+ * @author  Eren Egdemir
  */
 
 #include <Encoder_Handler.h>
 
 
-/**
- * @brief Sets the menu flag and resets the menu counter.
- * @param[in,out] m  Menu context
- * @param[in]     f  Targeted menu flag.
- */
-//static inline void display_goto(MenuCtx *m, MenuFlag f)
-//{
-//	m->flag = f;
-//	m->counter = 0;
-//}
+void Encoder_Init(void)
+{
+	HAL_TIM_Encoder_Start_IT(&htim2, TIM_CHANNEL_ALL);
+	HAL_TIM_Encoder_Start_IT(&htim3, TIM_CHANNEL_ALL);
+	HAL_TIM_Encoder_Start_IT(&htim4, TIM_CHANNEL_ALL);
+}
 
-/**
- * @brief  Sets the menu flag and the menu counter.
- * @param[in,out] m  Menu context
- * @param[in]     f  Targeted menu flag.
- * @param[in]	  c  New counter value.
- */
-//static inline void display_set(MenuCtx *m, MenuFlag f, uint32_t c){
-//	m->flag = f;
-//	m->counter = c;
-//}
 
-/**
- * @brief  Handles menu switching operations of encoder 1 button.
- * @param[in,out] m  Menu context
- */
 void button_handler_encoder1(MenuCtx *m, CookingCtx *c, Sens t)
 {
 
@@ -671,10 +692,7 @@ void button_handler_encoder1(MenuCtx *m, CookingCtx *c, Sens t)
 
 }
 
-/**
- * @brief  Handles menu switching operations of encoder 2 button.
- * @param[in,out] m  Menu context
- */
+
 void button_handler_encoder2(MenuCtx *m, CookingCtx *c) {
 	switch (m->flag) {
 
@@ -771,11 +789,7 @@ void button_handler_encoder3(MenuCtx *m, setting_t *s, PI_Oven *pi1, PI_Oven *pi
 }
 
 
-/**
- * @brief  Handles tick boundries of encoder 1.
- * @param[in,out] e  encoder
- * @param[in,out] m  Menu context
- */
+
 void tick_handler_encoder1(encoder *e, MenuCtx *m)
 {
 	switch(m->flag){
@@ -941,12 +955,7 @@ void tick_handler_encoder1(encoder *e, MenuCtx *m)
 
 }
 
-/**
- * @brief  Handles tick boundries of encoder 2.
- * @param[in,out] e  Encoder context
- * @param[in,out] m  Menu context
- * @param[in] c Cooking context
- */
+
 void tick_handler_encoder2(encoder *e, MenuCtx *m, CookingCtx c)
 {
 	switch(c.flag){
@@ -976,11 +985,7 @@ void tick_handler_encoder2(encoder *e, MenuCtx *m, CookingCtx c)
 	}
 }
 
-/**
- * @brief  Handles tick boundries of encoder 3.
- * @param[in,out] e  Encoder Context
- * @param[in,out] m  Menu context
- */
+
 void tick_handler_encoder3(encoder *e, MenuCtx *m)
 {
 	set_value(e, &m->counter, 0, 100);

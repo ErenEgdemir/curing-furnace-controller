@@ -1,2 +1,3 @@
-../Core/Src/UserLibraries/Sensor_Handler.c:11:6:TempSens_IRQ_Handler	24	static
-../Core/Src/UserLibraries/Sensor_Handler.c:67:6:Sens_Handler	24	static
+../Core/Src/UserLibraries/Sensor_Handler.c:43:6:TempSens_IRQ_Handler	24	static
+../Core/Src/UserLibraries/Sensor_Handler.c:99:6:Sens_Handler	24	static
+../Core/Src/UserLibraries/Sensor_Handler.c:142:6:Temp_Sens_Init	8	static
