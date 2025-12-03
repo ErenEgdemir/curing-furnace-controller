@@ -1,0 +1,7 @@
+<map id="DS1307_SetClockHalt" name="DS1307_SetClockHalt">
+<area shape="rect" id="Node000001" title="Sets clock halt bit." alt="" coords="5,31,159,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a79774ef6c6e4636ea9266e7bf2e17fa5" title="Gets the byte in the designated DS1307 register." alt="" coords="207,5,354,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,31,194,29,189,30,159,36"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="207,55,354,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,50,194,57,189,57,159,55"/>
+</map>

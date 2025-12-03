@@ -1,0 +1,17 @@
+<map id="Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h" name="Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h">
+<area shape="rect" id="Node000001" title="CMSIS STM32F401xC Device Peripheral Access Layer Header File." alt="" coords="372,5,535,61"/>
+<area shape="rect" id="Node000002" href="$core__cm4_8h.html" title="CMSIS Cortex&#45;M4 Core Peripheral Access Layer Header File." alt="" coords="185,109,274,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,63,276,105,274,101,386,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,256,262,282"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="459,59,463,95,461,134,451,174,430,210,397,238,357,255,316,265,278,270,277,265,315,260,355,250,394,233,426,207,446,172,455,133,457,95,456,64"/>
+<area shape="rect" id="Node000007" href="$system__stm32f4xx_8h.html" title="CMSIS Cortex&#45;M4 Device System Source File for STM32F4xx devices." alt="" coords="491,109,634,135"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="488,59,538,99,533,99,487,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,131,87,152,43,167,27,175,17,184,8,203,13,219,29,231,53,242,117,256,184,265,179,266,116,261,52,247,26,236,9,222,3,203,13,181,24,171,41,162,85,147,186,127"/>
+<area shape="rect" id="Node000004" href="$cmsis__version_8h.html" title="CMSIS Core(M) Version definitions." alt="" coords="27,183,144,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="203,137,125,178,122,173,207,133"/>
+<area shape="rect" id="Node000005" href="$cmsis__compiler_8h.html" title="CMSIS compiler generic header file." alt="" coords="168,183,291,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="231,133,232,168,227,166,228,137"/>
+<area shape="rect" id="Node000006" href="$mpu__armv7_8h.html" title=" " alt="" coords="315,183,416,208"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="253,133,332,175,326,176,252,138"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="231,207,232,242,227,239,228,210"/>
+</map>

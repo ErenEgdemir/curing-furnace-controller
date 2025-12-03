@@ -1,0 +1,18 @@
+<map id="mui_send_cursor_msg" name="mui_send_cursor_msg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,158,197"/>
+<area shape="rect" id="Node000002" href="$mui_8c.html#a0e6ad053da579be1c964f60656e16adb" title=" " alt="" coords="206,164,345,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,182,193,184,188,185,158,187"/>
+<area shape="rect" id="Node000003" href="$mui_8c.html#a5e93b95b846d656609b0fb2b29114a3d" title=" " alt="" coords="393,96,548,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,161,418,128,424,127,331,166"/>
+<area shape="rect" id="Node000005" href="$mui_8c.html#a24b086d7505079b37f34e0b6577e7789" title=" " alt="" coords="800,96,924,121"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="345,186,429,188,531,186,642,176,751,156,789,143,823,130,828,128,791,148,752,162,642,182,531,191,429,193,346,191"/>
+<area shape="rect" id="Node000007" href="$mui_8c.html#a3d2fcdb9e7b822e5a5cad1b6bb6576fe" title=" " alt="" coords="425,222,516,248"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="345,200,413,219,407,219,345,205"/>
+<area shape="rect" id="Node000004" href="$mui_8c.html#a997dab004bc6680839562166ce702abb" title=" " alt="" coords="596,5,752,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="504,92,606,53,611,51,506,97"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="549,106,787,108,781,109,549,111"/>
+<area shape="rect" id="Node000006" href="$mui_8c.html#a9daeb1946d826632753fcccea9c5a58b" title=" " alt="" coords="606,121,742,146"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="548,115,594,123,589,124,549,121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="722,44,819,89,814,89,722,49"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="742,122,787,118,782,119,743,127"/>
+</map>

@@ -1,0 +1,106 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="The application entry point." alt="" coords="5,1077,55,1103"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8c.html#a7d11b3e0e988dbeb02cdc2c5a498ce1d" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="103,351,269,376"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,1077,31,994,40,857,61,691,78,605,100,523,131,448,168,387,167,392,136,451,105,524,83,607,66,692,45,857,36,994,34,1077"/>
+<area shape="rect" id="Node000018" href="$_encoder___handler_8c.html#a7733c636a31d27c67bda84f97ca18f91" title="Handles encoder 2 push&#45;button actions for cooking temperature changes." alt="" coords="103,19,269,44"/>
+<area shape="poly" id="edge10_Node000001_Node000018" title=" " alt="" coords="29,1077,32,884,42,562,51,395,63,246,80,131,89,91,100,66,119,50,117,55,105,69,94,93,85,132,69,246,56,395,47,562,37,884,34,1077"/>
+<area shape="rect" id="Node000019" href="$_encoder___handler_8c.html#ae8c7320e0d638bada6c2f3871abbc037" title="Handles menu switching operations of encoder 3 button." alt="" coords="103,80,269,106"/>
+<area shape="poly" id="edge12_Node000001_Node000019" title=" " alt="" coords="29,1077,34,896,46,599,55,445,67,307,82,200,91,163,100,139,114,123,134,111,131,116,118,127,105,142,96,165,87,201,73,307,61,445,51,600,39,897,34,1077"/>
+<area shape="rect" id="Node000021" href="$_cooking___handler_8c.html#ad64b34f6245a4bf4653cc8a8618f79a5" title="Main cooking state machine handler for the curing oven." alt="" coords="125,621,246,647"/>
+<area shape="poly" id="edge16_Node000001_Node000021" title=" " alt="" coords="29,1077,34,995,47,874,68,752,83,703,101,669,121,652,119,657,105,672,87,705,73,753,52,875,40,996,35,1077"/>
+<area shape="rect" id="Node000027" href="$_cooking___handler_8c.html#ace8a4e57921559cab773713a47591cfb" title="Initializes the cooking system and all PI controllers." alt="" coords="139,153,233,179"/>
+<area shape="poly" id="edge20_Node000001_Node000027" title=" " alt="" coords="29,1077,51,730,72,503,85,408,100,337,114,296,132,256,169,190,168,195,136,258,119,298,105,339,91,409,78,504,56,730,35,1077"/>
+<area shape="rect" id="Node000030" href="$_display___handler_8c.html#abe431c8853e77d3988a3a7b3b177eab2" title="Main display/UI dispatcher for all menu screens." alt="" coords="127,683,244,708"/>
+<area shape="poly" id="edge24_Node000001_Node000030" title=" " alt="" coords="29,1077,35,1003,48,896,69,789,83,747,101,718,115,708,112,713,105,721,88,749,74,791,53,896,40,1004,35,1077"/>
+<area shape="rect" id="Node000095" href="$_helper___functions_8c.html#a16325c82330e86bd14a392288c13980e" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="141,732,231,758"/>
+<area shape="poly" id="edge31_Node000001_Node000095" title=" " alt="" coords="30,1077,37,1012,51,919,72,828,85,792,101,767,128,751,125,756,105,771,90,794,77,829,56,920,42,1012,35,1077"/>
+<area shape="rect" id="Node000099" href="$ds1307__for__stm32__hal_8c.html#a7bf505f4dbf4253388c91a262cdd416c" title="Initializes the DS1307 module. Sets clock halt bit to 0 to start timing." alt="" coords="139,781,232,807"/>
+<area shape="poly" id="edge32_Node000001_Node000099" title=" " alt="" coords="28,1077,28,1029,36,959,45,921,58,883,76,848,101,816,126,801,123,806,104,820,81,851,63,885,50,923,41,960,34,1029,33,1077"/>
+<area shape="rect" id="Node000102" href="$_encoder___handler_8c.html#a1c8318d644fc2e61cc1ef9cb0710feb6" title="Initializes and starts all rotary encoder timers in interrupt mode." alt="" coords="139,831,233,856"/>
+<area shape="poly" id="edge33_Node000001_Node000102" title=" " alt="" coords="29,1077,32,1036,42,980,64,919,80,890,101,866,125,852,123,856,104,869,84,894,68,921,47,981,37,1037,34,1077"/>
+<area shape="rect" id="Node000103" href="$main_8c.html#a608dc9e9bcaf978f1611f3ec57670f64" title=" " alt="" coords="134,880,238,906"/>
+<area shape="poly" id="edge34_Node000001_Node000103" title=" " alt="" coords="30,1077,36,1044,48,1001,69,955,84,933,101,915,121,903,118,908,104,919,88,937,74,957,53,1002,41,1045,36,1077"/>
+<area shape="rect" id="Node000104" href="$main_8c.html#ae89fdd15729ad41a66911190fcbab23a" title="GPIO Initialization Function." alt="" coords="133,929,239,955"/>
+<area shape="poly" id="edge35_Node000001_Node000104" title=" " alt="" coords="33,1076,56,1022,75,991,101,964,120,954,117,959,104,968,80,994,60,1024,38,1077"/>
+<area shape="rect" id="Node000105" href="$main_8c.html#a4230d11f81d0b16e112f1cc3f40cb42f" title="I2C1 Initialization Function." alt="" coords="135,979,236,1004"/>
+<area shape="poly" id="edge36_Node000001_Node000105" title=" " alt="" coords="38,1076,64,1044,101,1013,122,1004,119,1009,104,1018,68,1048,43,1078"/>
+<area shape="rect" id="Node000107" href="$main_8c.html#a28dbf2494083ac5f39daa87bf09e4eb3" title="SPI1 Initialization Function." alt="" coords="135,1028,237,1054"/>
+<area shape="poly" id="edge37_Node000001_Node000107" title=" " alt="" coords="53,1080,102,1062,124,1057,121,1061,104,1067,57,1083"/>
+<area shape="rect" id="Node000108" href="$main_8c.html#ade0c8abfcfc1615647bfdd244bd1ee00" title="SPI2 Initialization Function." alt="" coords="135,1077,237,1103"/>
+<area shape="poly" id="edge38_Node000001_Node000108" title=" " alt="" coords="54,1088,121,1088,117,1092,57,1092"/>
+<area shape="rect" id="Node000109" href="$main_8c.html#a1d1beb7da60021ee1adbca294f28ba88" title="TIM1 Initialization Function." alt="" coords="134,1127,238,1152"/>
+<area shape="poly" id="edge39_Node000001_Node000109" title=" " alt="" coords="54,1097,104,1113,125,1120,120,1123,102,1118,56,1101"/>
+<area shape="rect" id="Node000110" href="$main_8c.html#af952250b2d49718b385e14a76fa7c1b8" title="TIM2 Initialization Function." alt="" coords="134,1176,238,1202"/>
+<area shape="poly" id="edge40_Node000001_Node000110" title=" " alt="" coords="40,1101,68,1132,104,1163,122,1172,117,1175,101,1167,64,1136,41,1106"/>
+<area shape="rect" id="Node000111" href="$main_8c.html#a73ff2ff527606fb2be261e9f85aab83c" title="TIM3 Initialization Function." alt="" coords="134,1225,238,1251"/>
+<area shape="poly" id="edge41_Node000001_Node000111" title=" " alt="" coords="35,1101,60,1156,80,1186,104,1212,122,1223,117,1225,101,1216,75,1190,56,1159,36,1106"/>
+<area shape="rect" id="Node000112" href="$main_8c.html#aa33f0698b12657979eb254584682d30d" title="TIM4 Initialization Function." alt="" coords="134,1275,238,1300"/>
+<area shape="poly" id="edge42_Node000001_Node000112" title=" " alt="" coords="33,1101,41,1135,53,1178,74,1223,88,1244,104,1261,122,1274,117,1276,101,1266,84,1247,69,1226,48,1180,36,1136,33,1106"/>
+<area shape="rect" id="Node000113" href="$main_8c.html#a7583181f2ba856da53571c33665f2c2d" title="TIM5 Initialization Function." alt="" coords="134,1324,238,1350"/>
+<area shape="poly" id="edge43_Node000001_Node000113" title=" " alt="" coords="31,1101,37,1144,47,1199,68,1259,84,1287,104,1311,122,1323,117,1326,101,1315,80,1290,64,1261,42,1201,32,1144,32,1106"/>
+<area shape="rect" id="Node000115" href="$main_8c.html#a0a27714aa6a2c91e546e7df583111cab" title="TIM9 Initialization Function." alt="" coords="134,1373,238,1399"/>
+<area shape="poly" id="edge44_Node000001_Node000115" title=" " alt="" coords="31,1100,34,1151,41,1220,50,1258,63,1295,81,1330,105,1360,122,1373,117,1375,101,1364,76,1333,58,1297,45,1259,36,1221,28,1151,31,1106"/>
+<area shape="rect" id="Node000116" href="$_sensor___handler_8c.html#adccd83099f4e278b9b879adc6dc2bab3" title="Sequential sensor and RTC acquisition handler for time&#45;sliced sampling." alt="" coords="134,1423,238,1448"/>
+<area shape="poly" id="edge45_Node000001_Node000116" title=" " alt="" coords="32,1101,42,1168,56,1260,77,1351,90,1386,105,1410,122,1423,117,1425,101,1413,85,1388,72,1352,51,1261,37,1169,33,1106"/>
+<area shape="rect" id="Node000123" href="$settings_8c.html#af7b43ffa50e3690b373bee8af75ebfc8" title=" " alt="" coords="137,1472,234,1498"/>
+<area shape="poly" id="edge46_Node000001_Node000123" title=" " alt="" coords="32,1101,40,1177,53,1284,74,1390,88,1431,105,1459,125,1474,120,1476,101,1463,83,1433,69,1391,48,1285,35,1177,32,1106"/>
+<area shape="rect" id="Node000124" href="$settings_8c.html#a2d6f1755dd0652863c8107f515acca76" title=" " alt="" coords="139,536,233,562"/>
+<area shape="poly" id="edge47_Node000001_Node000124" title=" " alt="" coords="29,1077,35,986,47,848,68,707,83,649,100,607,119,585,144,568,142,572,123,589,105,610,88,651,74,708,53,849,40,987,35,1077"/>
+<area shape="rect" id="Node000130" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="113,1521,258,1547"/>
+<area shape="poly" id="edge49_Node000001_Node000130" title=" " alt="" coords="32,1101,39,1185,50,1307,59,1371,71,1429,86,1476,105,1509,106,1511,101,1512,101,1512,81,1478,66,1430,54,1372,45,1308,33,1186,32,1106"/>
+<area shape="rect" id="Node000131" href="$_sensor___handler_8c.html#ad563a219c23840856c1ff19b00873c06" title="Initializes all MAX31855 chip&#45;select lines to the inactive state." alt="" coords="128,1571,244,1596"/>
+<area shape="poly" id="edge50_Node000001_Node000131" title=" " alt="" coords="32,1101,37,1193,47,1330,56,1402,68,1467,84,1521,105,1558,117,1569,112,1570,101,1561,79,1523,63,1469,51,1403,42,1331,32,1194,31,1106"/>
+<area shape="rect" id="Node000132" href="$_sensor___handler_8c.html#aa7594c33dd84429540a480a84623454c" title="Handles raw MAX31855 thermocouple IRQ data and updates sensor readings." alt="" coords="103,1620,269,1646"/>
+<area shape="poly" id="edge51_Node000001_Node000132" title=" " alt="" coords="31,1101,36,1202,44,1354,53,1433,65,1506,83,1567,93,1590,105,1607,106,1610,101,1610,101,1610,88,1592,78,1568,60,1508,48,1434,39,1354,30,1203,31,1106"/>
+<area shape="rect" id="Node000133" href="$_encoder___handler_8c.html#aee2aadf134b6efaee0888fb2cba8c687" title="Handles encoder 1 tick events and updates the menu counter with bounds." alt="" coords="110,1669,262,1695"/>
+<area shape="poly" id="edge52_Node000001_Node000133" title=" " alt="" coords="31,1101,34,1210,41,1377,50,1464,63,1545,81,1612,92,1637,105,1657,106,1659,101,1659,101,1660,87,1640,76,1613,57,1546,44,1465,36,1377,29,1210,31,1106"/>
+<area shape="rect" id="Node000135" href="$_encoder___handler_8c.html#a4c9476795328e5389b0176e876c46f09" title="Handles encoder 2 tick events for stage temperature adjustment." alt="" coords="110,1719,262,1744"/>
+<area shape="poly" id="edge53_Node000001_Node000135" title=" " alt="" coords="32,1101,42,1227,56,1420,78,1605,91,1671,105,1706,106,1708,101,1708,100,1709,86,1672,73,1605,51,1420,37,1228,32,1106"/>
+<area shape="rect" id="Node000136" href="$_encoder___handler_8c.html#a2f9c4f6ee43160e8097642ba8c6818ed" title="Handles encoder 3 tick events and updates the menu counter." alt="" coords="110,1768,262,1794"/>
+<area shape="poly" id="edge54_Node000001_Node000136" title=" " alt="" coords="32,1101,41,1236,55,1444,76,1645,90,1717,97,1741,105,1755,106,1758,101,1757,100,1758,92,1743,85,1718,71,1646,50,1444,36,1236,32,1106"/>
+<area shape="rect" id="Node000003" href="$_encoder___handler_8h.html#ae5c3ad75a7fc87df00c48b3aba560b27" title="Switches the menu context to a new state and resets its counter." alt="" coords="380,153,474,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,349,208,316,234,272,271,226,316,188,339,176,366,170,363,174,341,181,318,192,275,230,239,275,212,318,196,351"/>
+<area shape="rect" id="Node000004" href="$_encoder___handler_8h.html#a60bb70b85e7c5bc72558311b663c77a8" title="Sets the active menu state and its associated counter value." alt="" coords="383,5,470,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,350,226,282,266,191,277,147,281,110,289,75,299,58,315,40,340,25,370,18,366,22,342,30,319,44,303,61,294,77,286,111,283,148,272,192,231,284,197,351"/>
+<area shape="rect" id="Node000005" href="$ds1307__for__stm32__hal_8c.html#a9cdc8cc7acce7e7040fda3858d90abf1" title="Sets the current day of month." alt="" coords="365,252,488,278"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="204,349,254,317,316,286,352,276,348,280,318,291,256,322,208,352"/>
+<area shape="rect" id="Node000008" href="$ds1307__for__stm32__hal_8c.html#a29f106fdbec6282977e1c90a5db8bdfb" title="Sets the current hour, in 24h format." alt="" coords="365,301,488,327"/>
+<area shape="poly" id="edge5_Node000002_Node000008" title=" " alt="" coords="250,348,351,328,348,332,254,352"/>
+<area shape="rect" id="Node000009" href="$ds1307__for__stm32__hal_8c.html#a6815582909a22d9435ce74cbaae827f6" title="Sets the current minute." alt="" coords="360,351,494,376"/>
+<area shape="poly" id="edge6_Node000002_Node000009" title=" " alt="" coords="268,361,346,362,342,365,271,366"/>
+<area shape="rect" id="Node000010" href="$ds1307__for__stm32__hal_8c.html#ad949821dfc9a11678ac18141333fab86" title="Sets the current month." alt="" coords="361,400,492,426"/>
+<area shape="poly" id="edge7_Node000002_Node000010" title=" " alt="" coords="251,375,348,395,344,398,254,379"/>
+<area shape="rect" id="Node000011" href="$ds1307__for__stm32__hal_8c.html#a06c53178d7295510605b2714727f3fe7" title="Sets the current year." alt="" coords="366,449,487,475"/>
+<area shape="poly" id="edge8_Node000002_Node000011" title=" " alt="" coords="205,374,256,405,318,436,353,447,348,450,316,441,254,410,207,379"/>
+<area shape="rect" id="Node000012" href="$settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8" title=" " alt="" coords="374,499,480,524"/>
+<area shape="poly" id="edge9_Node000002_Node000012" title=" " alt="" coords="196,374,246,429,280,460,318,485,361,501,356,504,316,490,277,464,242,433,198,379"/>
+<area shape="poly" id="edge11_Node000018_Node000004" title=" " alt="" coords="268,25,370,20,366,23,271,29"/>
+<area shape="poly" id="edge13_Node000019_Node000003" title=" " alt="" coords="217,104,318,140,367,153,362,156,316,145,220,109"/>
+<area shape="poly" id="edge14_Node000019_Node000004" title=" " alt="" coords="216,78,316,40,370,27,366,31,318,45,220,81"/>
+<area shape="rect" id="Node000020" href="$pi__control_8c.html#a057099c10c45416289bdafea550d3709" title=" " alt="" coords="372,55,481,80"/>
+<area shape="poly" id="edge15_Node000019_Node000020" title=" " alt="" coords="268,82,359,73,355,77,271,86"/>
+<area shape="rect" id="Node000022" href="$_cooking___handler_8h.html#a296e14ea57fa7b575d8588e29f2666c6" title="Performs safety checks on sensor readings and aborts cooking on fault." alt="" coords="382,548,471,574"/>
+<area shape="poly" id="edge17_Node000021_Node000022" title=" " alt="" coords="217,619,316,582,369,570,365,574,318,587,221,623"/>
+<area shape="rect" id="Node000024" href="$pi__control_8c.html#a340bf8203a93b905da465e6a17867689" title=" " alt="" coords="360,597,493,623"/>
+<area shape="poly" id="edge18_Node000021_Node000024" title=" " alt="" coords="245,626,347,616,343,620,248,630"/>
+<area shape="rect" id="Node000026" href="$_cooking___handler_8c.html#ad723bed37029b4feb1f98d99f0ecd494" title="Updates PWM duty cycles for all heater channels." alt="" coords="362,647,491,672"/>
+<area shape="poly" id="edge19_Node000021_Node000026" title=" " alt="" coords="245,638,349,649,344,653,248,643"/>
+<area shape="poly" id="edge21_Node000027_Node000020" title=" " alt="" coords="208,151,316,89,359,77,356,81,318,94,212,155"/>
+<area shape="rect" id="Node000028" href="$pi__control_8h.html#ae397d6e89eec0e34825f6956a0c44f59" title=" " alt="" coords="357,203,496,228"/>
+<area shape="poly" id="edge22_Node000027_Node000028" title=" " alt="" coords="232,174,348,197,343,201,235,178"/>
+<area shape="rect" id="Node000029" href="$pi__control_8h.html#a9beed5856360b5acb2809f3e67451110" title=" " alt="" coords="357,104,496,130"/>
+<area shape="poly" id="edge23_Node000027_Node000029" title=" " alt="" coords="232,155,347,131,344,135,235,158"/>
+<area shape="rect" id="Node000031" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga35003e46f145cb8b37d0e7bd73368840" title=" " alt="" coords="317,696,536,722"/>
+<area shape="poly" id="edge25_Node000030_Node000031" title=" " alt="" coords="243,697,303,700,299,704,246,701"/>
+<area shape="rect" id="Node000038" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga69baf82c0a345baa1390606ef1a7b31f" title=" " alt="" coords="362,745,492,771"/>
+<area shape="poly" id="edge26_Node000030_Node000038" title=" " alt="" coords="232,707,270,717,318,732,348,740,344,743,316,737,268,722,235,711"/>
+<area shape="rect" id="Node000039" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#gac478658ea78e69d8fbab6f6cdfd234a9" title=" " alt="" coords="334,795,520,820"/>
+<area shape="poly" id="edge27_Node000030_Node000039" title=" " alt="" coords="244,705,271,717,287,734,295,751,303,767,319,781,327,787,322,789,315,786,299,770,290,753,282,737,267,722,246,710"/>
+<area shape="rect" id="Node000040" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga1aa5c3cf6a0d5ca7656b90f312be5366" title=" " alt="" coords="320,844,534,870"/>
+<area shape="poly" id="edge28_Node000030_Node000040" title=" " alt="" coords="244,703,271,717,283,732,290,747,295,776,300,805,307,818,319,831,323,835,318,837,315,835,302,821,295,806,290,777,285,748,279,735,267,722,246,708"/>
+<area shape="rect" id="Node000041" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga63a04cd379b2f391185196f61336c109" title=" " alt="" coords="322,893,531,919"/>
+<area shape="poly" id="edge29_Node000030_Node000041" title=" " alt="" coords="244,702,271,718,286,738,294,760,295,801,296,842,304,861,319,880,322,884,317,885,315,884,299,864,291,843,290,802,289,761,282,741,267,721,246,707"/>
+<area shape="rect" id="Node000042" href="$group___m_e_n_u___m_a_i_n___s_c_r_e_e_n_s.html#gab38c33502c246ac95646e229fa5a1e0b" title=" " alt="" coords="368,943,485,968"/>
+<area shape="poly" id="edge30_Node000030_Node000042" title=" " alt="" coords="244,701,271,718,290,745,297,772,298,800,295,827,292,853,293,879,300,905,319,930,335,941,356,950,351,952,332,946,315,933,296,907,287,880,286,853,289,826,293,799,292,773,285,747,267,721,246,706"/>
+<area shape="poly" id="edge48_Node000124_Node000012" title=" " alt="" coords="232,539,360,520,357,524,235,544"/>
+</map>

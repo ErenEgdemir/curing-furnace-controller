@@ -1,0 +1,17 @@
+<map id="u8g2_NextPage" name="u8g2_NextPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="499,104,614,130"/>
+<area shape="rect" id="Node000002" href="$u8g2__cleardisplay_8c.html#aa0a986ebb8f3f856d4e20c75d239bb8a" title=" " alt="" coords="280,5,412,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,94,492,69,450,45,412,32,412,26,452,40,495,65,532,94"/>
+<area shape="rect" id="Node000005" href="$u8g2__input__value_8c.html#a47185b5f901e12ed96bd1a11008571e7" title=" " alt="" coords="248,55,444,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="483,100,451,94,406,84,406,78,452,89,489,100"/>
+<area shape="rect" id="Node000006" href="$u8g2__message_8c.html#a493fe8dbe44fc14aa0ad2966231a3203" title=" " alt="" coords="252,104,440,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="481,117,441,119,441,114,486,116"/>
+<area shape="rect" id="Node000007" href="$u8g2__selection__list_8c.html#a17d2e6bd5891689a450e8d9529805b39" title=" " alt="" coords="241,153,451,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="488,133,452,145,407,155,406,150,451,140,483,134"/>
+<area shape="rect" id="Node000008" href="$u8log__u8g2_8c.html#a8443d53f932939877a543512e437cb77" title=" " alt="" coords="292,203,400,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="532,139,495,169,452,194,401,210,400,205,450,189,492,165,527,141"/>
+<area shape="rect" id="Node000003" href="$_helper___functions_8c.html#a16325c82330e86bd14a392288c13980e" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="103,5,193,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,20,194,21,193,16,268,17"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,20,57,20,54,16,89,16"/>
+</map>

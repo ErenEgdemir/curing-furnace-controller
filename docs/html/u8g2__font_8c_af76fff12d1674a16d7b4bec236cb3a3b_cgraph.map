@@ -1,0 +1,7 @@
+<map id="u8g2_IsGlyph" name="u8g2_IsGlyph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,107,31"/>
+<area shape="rect" id="Node000002" href="$u8g2__font_8c.html#ad71c6b7199fd619b68bf6cc8edc969c8" title=" " alt="" coords="155,5,328,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,16,142,18,137,18,107,21"/>
+<area shape="rect" id="Node000003" href="$u8g2__font_8c.html#a28207459010c3778b06d631db403d998" title=" " alt="" coords="376,5,514,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,16,363,18,358,18,329,21"/>
+</map>

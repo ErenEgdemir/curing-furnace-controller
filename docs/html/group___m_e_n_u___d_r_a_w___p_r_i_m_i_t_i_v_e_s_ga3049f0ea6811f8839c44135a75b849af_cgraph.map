@@ -1,0 +1,16 @@
+<map id="menu_send_fan" name="menu_send_fan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,119,60"/>
+<area shape="rect" id="Node000002" href="$u8g2__bitmap_8c.html#a50fd614a868e23f3f36a474c6536246a" title=" " alt="" coords="167,35,292,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,45,154,47,148,48,119,50"/>
+<area shape="rect" id="Node000003" href="$u8g2__bitmap_8c.html#ac8a2601ac7411a0bff00d6ac3aad7883" title=" " alt="" coords="340,9,475,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,36,327,34,322,34,293,41"/>
+<area shape="rect" id="Node000006" href="$u8g2__intersection_8c.html#a1eb2cace84437c80cb24c8936bcac2da" title=" " alt="" coords="523,60,659,86"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="292,49,510,66,505,68,292,55"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="526,8,656,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,19,513,21,508,22,476,24"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="457,33,530,55,525,55,457,38"/>
+<area shape="rect" id="Node000005" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="707,5,864,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="657,17,694,19,688,20,657,23"/>
+<area shape="rect" id="Node000007" href="$u8g2__intersection_8c.html#a3b357b864d8b3e0d3a3f2b74caf6b4ed" title=" " alt="" coords="715,55,856,96"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="659,71,702,74,697,74,659,76"/>
+</map>

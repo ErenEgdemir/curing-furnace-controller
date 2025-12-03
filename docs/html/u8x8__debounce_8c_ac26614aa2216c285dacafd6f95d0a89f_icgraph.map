@@ -1,0 +1,17 @@
+<map id="u8x8_find_first_diff" name="u8x8_find_first_diff">
+<area shape="rect" id="Node000001" title=" " alt="" coords="455,129,586,155"/>
+<area shape="rect" id="Node000002" href="$u8x8__debounce_8c.html#a53286360d5507dc73b864adcb650a4bc" title=" " alt="" coords="264,129,407,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,143,408,145,407,140,442,142"/>
+<area shape="rect" id="Node000003" href="$u8g2__input__value_8c.html#a47185b5f901e12ed96bd1a11008571e7" title=" " alt="" coords="12,5,209,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,118,268,81,242,61,214,45,189,34,188,29,217,40,245,57,272,77,315,118"/>
+<area shape="rect" id="Node000004" href="$u8g2__message_8c.html#a493fe8dbe44fc14aa0ad2966231a3203" title=" " alt="" coords="16,55,205,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,123,215,94,179,84,178,78,217,89,296,122"/>
+<area shape="rect" id="Node000005" href="$u8g2__selection__list_8c.html#a17d2e6bd5891689a450e8d9529805b39" title=" " alt="" coords="5,104,216,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="245,133,217,131,216,126,251,132"/>
+<area shape="rect" id="Node000006" href="$u8x8__input__value_8c.html#a45868d487878a799c8e87ab3e1c0c511" title=" " alt="" coords="12,153,209,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="245,152,210,158,208,153,250,151"/>
+<area shape="rect" id="Node000007" href="$u8x8__message_8c.html#a839fbc937bc4d1b0a696f96bba8b3018" title=" " alt="" coords="16,203,205,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="290,163,217,194,178,205,177,200,215,189,295,161"/>
+<area shape="rect" id="Node000008" href="$u8x8__selection__list_8c.html#a8ad25dc5375251344f3f0d8633a0b522" title=" " alt="" coords="5,252,216,278"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="314,165,271,207,217,243,189,254,188,249,214,238,268,203,309,168"/>
+</map>

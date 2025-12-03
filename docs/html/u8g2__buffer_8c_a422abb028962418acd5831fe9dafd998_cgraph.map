@@ -1,0 +1,5 @@
+<map id="u8g2_send_tile_row" name="u8g2_send_tile_row">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,142,31"/>
+<area shape="rect" id="Node000002" href="$u8x8__display_8c.html#aca81ff545019f4ec462ee63353409d99" title=" " alt="" coords="190,5,298,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,16,177,18,171,18,142,21"/>
+</map>

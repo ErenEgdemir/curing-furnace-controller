@@ -1,0 +1,5 @@
+<map id="check_error" name="check_error">
+<area shape="rect" id="Node000001" title="Performs safety checks on sensor readings and aborts cooking on fault." alt="" coords="5,5,95,31"/>
+<area shape="rect" id="Node000002" href="$_cooking___handler_8h.html#af33052d554ba9b1153bcaabbcdfc3bf8" title="Computes the instantaneous temperature drift between a sensor value and the average system temperatur..." alt="" coords="143,5,222,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,16,130,18,125,18,95,21"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="set_value" name="set_value">
+<area shape="rect" id="Node000001" title="Updates a variable based on encoder movement within given bounds." alt="" coords="302,55,379,80"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8c.html#aee2aadf134b6efaee0888fb2cba8c687" title="Handles encoder 1 tick events and updates the menu counter with bounds." alt="" coords="103,5,254,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,52,223,34,223,29,290,51"/>
+<area shape="rect" id="Node000004" href="$_encoder___handler_8c.html#a4c9476795328e5389b0176e876c46f09" title="Handles encoder 2 tick events for stage temperature adjustment." alt="" coords="103,55,254,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,68,254,70,254,65,289,67"/>
+<area shape="rect" id="Node000005" href="$_encoder___handler_8c.html#a2f9c4f6ee43160e8097642ba8c6818ed" title="Handles encoder 3 tick events and updates the menu counter." alt="" coords="103,104,254,130"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="290,83,224,106,222,101,284,84"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,55,55,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,38,104,45,56,61,54,57,102,40,122,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="85,69,56,70,55,65,89,66"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="117,99,102,95,55,79,55,73,104,90,123,98"/>
+</map>

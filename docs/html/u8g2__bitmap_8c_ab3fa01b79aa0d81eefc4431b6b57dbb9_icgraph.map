@@ -1,0 +1,5 @@
+<map id="u8g2_DrawHorizontalBitmap" name="u8g2_DrawHorizontalBitmap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="182,5,369,31"/>
+<area shape="rect" id="Node000002" href="$u8g2__bitmap_8c.html#a2784eab3fea8b5f2320351be1da83203" title=" " alt="" coords="5,5,134,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,18,134,21,134,16,169,18"/>
+</map>

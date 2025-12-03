@@ -1,0 +1,11 @@
+<map id="u8g2_apply_clip_window" name="u8g2_apply_clip_window">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,80,394,106"/>
+<area shape="rect" id="Node000002" href="$u8g2__setup_8c.html#a12c827534a7c1206b5b4130bff5617d7" title=" " alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,75,180,45,147,34,146,29,182,40,267,73"/>
+<area shape="rect" id="Node000003" href="$u8g2__setup_8c.html#a9698c3d8e8bb1814a050ac06175a7263" title=" " alt="" coords="5,55,181,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,82,181,80,181,75,216,81"/>
+<area shape="rect" id="Node000004" href="$u8g2__setup_8c.html#ad3d2b55536f9e04a57e5211bda8fbb29" title=" " alt="" coords="5,104,181,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,104,182,110,180,105,216,103"/>
+<area shape="rect" id="Node000005" href="$u8g2__setup_8c.html#aba79b18068619947bc1e1e3b5f15775d" title=" " alt="" coords="5,153,181,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="266,111,182,145,146,155,145,150,180,140,261,112"/>
+</map>

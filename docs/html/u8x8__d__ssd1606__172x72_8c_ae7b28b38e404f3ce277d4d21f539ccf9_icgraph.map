@@ -1,0 +1,15 @@
+<map id="u8x8_convert_tile_for_ssd1606" name="u8x8_convert_tile_for_ssd1606">
+<area shape="rect" id="Node000001" title=" " alt="" coords="859,71,1004,111"/>
+<area shape="rect" id="Node000002" href="$u8x8__d__ssd1606__172x72_8c.html#ad0bc55edbbac12d0c7caf6873a6f1226" title=" " alt="" coords="632,78,811,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="840,91,811,94,811,88,846,91"/>
+<area shape="rect" id="Node000003" href="$u8x8__d__ssd1606__172x72_8c.html#aef41a421aee97b3c3fc5b729ca4435e0" title=" " alt="" coords="416,71,584,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="614,91,585,94,585,88,619,91"/>
+<area shape="rect" id="Node000004" href="$u8x8__d__ssd1606__172x72_8c.html#a2bcd270265ec9848527f1a432cb9866d" title=" " alt="" coords="200,78,368,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,91,369,94,368,88,403,91"/>
+<area shape="rect" id="Node000005" href="$u8g2__d__setup_8c.html#a8b013580fddea5c55f23f3267d90a603" title=" " alt="" coords="5,5,152,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,74,145,49,145,44,229,72"/>
+<area shape="rect" id="Node000006" href="$u8g2__d__setup_8c.html#af6729eb52c34e794527f9c74dcbf03cf" title=" " alt="" coords="5,71,152,111"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="182,92,153,94,152,88,187,90"/>
+<area shape="rect" id="Node000007" href="$u8g2__d__setup_8c.html#a662736c9b33f32699d307861eb2e1026" title=" " alt="" coords="5,136,152,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="229,108,146,138,144,133,224,110"/>
+</map>

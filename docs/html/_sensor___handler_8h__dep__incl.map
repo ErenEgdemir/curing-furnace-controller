@@ -1,0 +1,7 @@
+<map id="Core/Inc/UserLibraries/Sensor_Handler.h" name="Core/Inc/UserLibraries/Sensor_Handler.h">
+<area shape="rect" id="Node000001" title="Definitions for thermocouple sensor acquisition, SPI&#45;based MAX31855 interface control,..." alt="" coords="86,5,239,46"/>
+<area shape="rect" id="Node000002" href="$_sensor___handler_8c.html" title="Sensor acquisition, SPI&#45;based MAX6675/MAX31855 reading, and RTC data retrieval for the composite curi..." alt="" coords="5,94,160,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,56,102,96,99,92,132,59"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title=": Main program body" alt="" coords="184,102,301,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,55,234,101,229,101,190,60"/>
+</map>

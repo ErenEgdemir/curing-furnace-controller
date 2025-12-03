@@ -1,0 +1,7 @@
+<map id="i2c_write_bit" name="i2c_write_bit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="336,5,430,31"/>
+<area shape="rect" id="Node000002" href="$u8x8__byte_8c.html#acfd13dd95746bcb405551b565918287c" title=" " alt="" coords="183,5,288,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,18,289,21,289,16,323,18"/>
+<area shape="rect" id="Node000003" href="$u8x8__byte_8c.html#ae22e25838cf8ad6a6502e5cb6c8ca699" title=" " alt="" coords="5,5,135,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,18,135,21,135,16,170,18"/>
+</map>

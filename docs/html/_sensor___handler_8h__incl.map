@@ -1,0 +1,16 @@
+<map id="Core/Inc/UserLibraries/Sensor_Handler.h" name="Core/Inc/UserLibraries/Sensor_Handler.h">
+<area shape="rect" id="Node000001" title="Definitions for thermocouple sensor acquisition, SPI&#45;based MAX31855 interface control,..." alt="" coords="106,5,259,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,168,123,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,48,99,68,74,95,65,123,63,153,58,151,59,122,70,93,96,64,132,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="157,168,222,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,45,191,153,186,151,181,48"/>
+<area shape="rect" id="Node000004" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="84,94,145,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,45,137,84,133,80,164,48"/>
+<area shape="rect" id="Node000005" href="$common__def_8h.html" title=" " alt="" coords="260,168,367,193"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="235,44,270,64,298,92,311,122,316,154,311,151,306,124,294,96,266,68,234,49"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title="Core data structures used across the composite curing furnace controller, including settings,..." alt="" coords="220,94,284,120"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="201,44,234,82,229,82,199,49"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="109,119,83,157,79,153,104,121"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="244,119,212,158,209,154,239,121"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="263,117,296,156,290,155,261,122"/>
+</map>

@@ -1,0 +1,105 @@
+<map id="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h" name="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h">
+<area shape="rect" id="Node000001" title="Header file of RCC HAL Extension module." alt="" coords="2413,5,2584,61"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__rcc_8h.html" title="Header file of RCC HAL module." alt="" coords="2413,109,2584,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2500,75,2501,110,2496,107,2497,79"/>
+<area shape="rect" id="Node000003" href="$stm32f4xx__hal__conf_8h.html" title=" " alt="" coords="2430,213,2567,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2500,178,2501,214,2496,211,2497,183"/>
+<area shape="rect" id="Node000004" href="$stm32f4xx__hal_8h.html" title="This file contains all the functions prototypes for the HAL module driver." alt="" coords="2406,301,2591,342"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2500,267,2501,303,2496,299,2497,271"/>
+<area shape="rect" id="Node000005" href="$_cooking___handler_8h.html" title="Public API for the cooking control subsystem." alt="" coords="349,398,501,438"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="2387,325,1480,347,953,367,733,379,567,393,503,402,501,397,566,387,733,373,952,361,1480,342,2392,324"/>
+<area shape="rect" id="Node000008" href="$_helper___functions_8h.html" title="Hardware&#45;abstraction helper layer for SPI&#45;driven ST7920 LCD using U8g2." alt="" coords="1629,582,1781,623"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="2388,325,2105,335,1755,348,1452,367,1354,379,1324,385,1310,392,1301,405,1298,418,1301,431,1310,444,1326,456,1347,465,1404,473,1473,472,1548,467,1624,462,1694,461,1751,469,1774,479,1791,492,1799,504,1800,517,1788,542,1766,565,1739,584,1737,579,1762,561,1784,539,1795,516,1793,506,1787,495,1771,483,1750,475,1693,466,1624,467,1549,472,1473,478,1403,478,1346,470,1323,461,1306,447,1296,433,1293,418,1296,403,1306,388,1322,380,1353,374,1452,362,1755,343,2105,330,2393,325"/>
+<area shape="rect" id="Node000010" href="$_interrupt___handler_8h.html" title="Centralized interrupt flag definitions and external handles." alt="" coords="578,398,731,438"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="2388,326,1776,350,1363,368,944,393,732,411,731,406,944,387,1363,363,1776,344,2393,325"/>
+<area shape="rect" id="Node000012" href="$_sensor___handler_8h.html" title="Definitions for thermocouple sensor acquisition, SPI&#45;based MAX31855 interface control,..." alt="" coords="756,494,908,534"/>
+<area shape="poly" id="edge13_Node000004_Node000012" title=" " alt="" coords="2388,324,2107,329,1740,339,1553,348,1380,359,1231,374,1119,393,1047,414,977,442,867,496,865,491,975,437,1045,409,1118,387,1231,369,1379,354,1553,342,1739,334,2107,324,2393,323"/>
+<area shape="rect" id="Node000014" href="$settings_8h.html" title=" " alt="" coords="121,494,273,534"/>
+<area shape="poly" id="edge16_Node000004_Node000014" title=" " alt="" coords="2387,325,1904,334,1240,348,639,367,436,379,372,386,338,393,299,413,264,441,214,495,210,491,261,437,296,409,336,387,371,380,435,374,639,362,1240,342,1903,329,2393,324"/>
+<area shape="rect" id="Node000018" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="1131,405,1245,431"/>
+<area shape="poly" id="edge22_Node000004_Node000018" title=" " alt="" coords="2388,325,2135,334,1810,346,1494,365,1363,378,1264,393,1217,407,1216,402,1263,387,1363,373,1493,360,1810,341,2135,329,2393,325"/>
+<area shape="rect" id="Node000027" href="$stm32f4xx__hal_8c.html" title="HAL module driver. This is the common part of the HAL initialization." alt="" coords="1320,398,1507,438"/>
+<area shape="poly" id="edge42_Node000004_Node000027" title=" " alt="" coords="2387,325,2222,332,2005,343,1763,362,1520,393,1485,400,1484,394,1519,387,1762,357,2004,337,2222,326,2393,324"/>
+<area shape="rect" id="Node000028" href="$stm32f4xx__hal__cortex_8c.html" title="CORTEX HAL module driver. This file provides firmware functions to manage the following functionaliti..." alt="" coords="1532,390,1703,446"/>
+<area shape="poly" id="edge43_Node000004_Node000028" title=" " alt="" coords="2388,327,2255,335,2086,347,1901,366,1716,393,1704,395,1703,390,1715,387,1900,361,2086,342,2254,330,2393,326"/>
+<area shape="rect" id="Node000029" href="$stm32f4xx__hal__dma_8c.html" title="DMA HAL module driver." alt="" coords="1728,390,1899,446"/>
+<area shape="poly" id="edge44_Node000004_Node000029" title=" " alt="" coords="2388,331,2169,355,2040,371,1912,393,1900,395,1899,390,1911,387,2039,366,2168,349,2393,330"/>
+<area shape="rect" id="Node000030" href="$stm32f4xx__hal__dma__ex_8c.html" title="DMA Extension HAL module driver This file provides firmware functions to manage the following functio..." alt="" coords="1924,390,2095,446"/>
+<area shape="poly" id="edge45_Node000004_Node000030" title=" " alt="" coords="2393,338,2256,364,2108,393,2096,396,2095,390,2107,387,2255,359,2388,339"/>
+<area shape="rect" id="Node000031" href="$stm32f4xx__hal__exti_8c.html" title="EXTI HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="2120,390,2291,446"/>
+<area shape="poly" id="edge46_Node000004_Node000031" title=" " alt="" coords="2425,347,2291,392,2289,387,2420,348"/>
+<area shape="rect" id="Node000032" href="$stm32f4xx__hal__flash_8c.html" title="FLASH HAL module driver. This file provides firmware functions to manage the following functionalitie..." alt="" coords="2316,390,2487,446"/>
+<area shape="poly" id="edge47_Node000004_Node000032" title=" " alt="" coords="2470,352,2431,392,2428,387,2465,354"/>
+<area shape="rect" id="Node000033" href="$stm32f4xx__hal__flash__ex_8c.html" title="Extended FLASH HAL module driver. This file provides firmware functions to manage the following funct..." alt="" coords="2512,390,2683,446"/>
+<area shape="poly" id="edge48_Node000004_Node000033" title=" " alt="" coords="2531,350,2571,390,2566,389,2529,355"/>
+<area shape="rect" id="Node000034" href="$stm32f4xx__hal__flash__ramfunc_8c.html" title="FLASH RAMFUNC module driver. This file provides a FLASH firmware functions which should be executed f..." alt="" coords="2708,390,2879,446"/>
+<area shape="poly" id="edge49_Node000004_Node000034" title=" " alt="" coords="2575,345,2711,390,2705,389,2575,350"/>
+<area shape="rect" id="Node000035" href="$stm32f4xx__hal__gpio_8c.html" title="GPIO HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="2904,390,3075,446"/>
+<area shape="poly" id="edge50_Node000004_Node000035" title=" " alt="" coords="2607,336,2743,358,2891,387,2906,393,2901,393,2890,393,2742,364,2606,341"/>
+<area shape="rect" id="Node000036" href="$stm32f4xx__hal__i2c_8c.html" title="I2C HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="3100,390,3271,446"/>
+<area shape="poly" id="edge51_Node000004_Node000036" title=" " alt="" coords="2607,328,2829,349,2959,366,3087,387,3102,393,3097,392,3086,393,2958,371,2829,355,2607,333"/>
+<area shape="rect" id="Node000037" href="$stm32f4xx__hal__i2c__ex_8c.html" title="I2C Extension HAL module driver. This file provides firmware functions to manage the following functi..." alt="" coords="3296,390,3467,446"/>
+<area shape="poly" id="edge52_Node000004_Node000037" title=" " alt="" coords="2607,324,2743,330,2912,342,3098,360,3283,387,3298,393,3293,392,3282,393,3097,366,2912,347,2743,335,2607,329"/>
+<area shape="rect" id="Node000038" href="$stm32f4xx__hal__pwr_8c.html" title="PWR HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="3492,390,3663,446"/>
+<area shape="poly" id="edge53_Node000004_Node000038" title=" " alt="" coords="2606,321,2775,325,2993,335,3236,355,3359,370,3479,387,3494,393,3489,392,3478,393,3358,375,3235,361,2993,341,2775,330,2607,326"/>
+<area shape="rect" id="Node000039" href="$stm32f4xx__hal__pwr__ex_8c.html" title="Extended PWR HAL module driver. This file provides firmware functions to manage the following functio..." alt="" coords="3688,390,3859,446"/>
+<area shape="poly" id="edge54_Node000004_Node000039" title=" " alt="" coords="2607,319,2807,321,3073,329,3373,350,3526,366,3675,387,3690,392,3685,392,3674,393,3525,372,3373,355,3073,335,2807,326,2607,324"/>
+<area shape="rect" id="Node000040" href="$stm32f4xx__hal__rcc_8c.html" title="RCC HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="3884,390,4055,446"/>
+<area shape="poly" id="edge55_Node000004_Node000040" title=" " alt="" coords="2606,323,3252,343,3610,362,3758,374,3871,387,3886,392,3881,392,3870,393,3758,379,3610,367,3252,348,2607,328"/>
+<area shape="rect" id="Node000041" href="$stm32f4xx__hal__rcc__ex_8c.html" title="Extension RCC HAL module driver. This file provides firmware functions to manage the following functi..." alt="" coords="4080,390,4251,446"/>
+<area shape="poly" id="edge56_Node000004_Node000041" title=" " alt="" coords="2606,322,2924,328,3346,340,3763,359,3936,372,4067,387,4082,392,4077,392,4066,393,3935,378,3762,365,3346,345,2924,333,2607,327"/>
+<area shape="rect" id="Node000042" href="$stm32f4xx__hal__spi_8c.html" title="SPI HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4276,390,4447,446"/>
+<area shape="poly" id="edge57_Node000004_Node000042" title=" " alt="" coords="2607,321,2960,326,3439,337,3915,357,4113,371,4263,387,4278,392,4273,392,4262,393,4112,376,3915,362,3438,343,2960,331,2607,327"/>
+<area shape="rect" id="Node000043" href="$stm32f4xx__hal__tim_8c.html" title="TIM HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4472,390,4643,446"/>
+<area shape="poly" id="edge58_Node000004_Node000043" title=" " alt="" coords="2606,321,2995,324,3530,335,4067,354,4290,369,4459,387,4474,392,4469,392,4458,393,4289,374,4066,360,3530,340,2995,330,2607,326"/>
+<area shape="rect" id="Node000044" href="$stm32f4xx__hal__tim__ex_8c.html" title="TIM HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4668,390,4839,446"/>
+<area shape="poly" id="edge59_Node000004_Node000044" title=" " alt="" coords="2607,320,3030,323,3622,332,3930,340,4219,352,4467,367,4655,387,4670,392,4665,392,4654,393,4467,373,4218,357,3930,346,3622,337,3030,328,2607,326"/>
+<area shape="rect" id="Node000006" href="$_cooking___handler_8c.html" title="Main cooking control module for the composite curing oven." alt="" coords="348,494,502,534"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="427,452,428,495,423,492,424,456"/>
+<area shape="rect" id="Node000007" href="$main_8c.html" title=": Main program body" alt="" coords="771,678,887,704"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="381,446,357,468,340,489,332,512,333,522,338,533,366,558,410,582,465,604,528,624,660,656,773,680,768,680,659,661,527,629,464,609,408,587,363,563,334,536,328,524,326,511,335,487,354,465,377,449"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="1616,623,1401,652,1195,671,888,690,888,685,1194,666,1400,647,1611,624"/>
+<area shape="rect" id="Node000009" href="$_helper___functions_8c.html" title="Hardware abstraction and display helper functions for the UI layer." alt="" coords="1629,671,1784,712"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1708,637,1708,672,1704,669,1704,640"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="611,446,588,468,571,489,563,511,563,522,568,533,587,561,612,586,669,627,729,656,785,678,779,678,727,661,666,632,608,591,583,565,563,536,558,523,557,510,566,486,584,464,606,449"/>
+<area shape="rect" id="Node000011" href="$_interrupt___handler_8c.html" title="Centralized interrupt service routines for timers, GPIO events, and SPI." alt="" coords="577,494,732,534"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="656,452,657,495,652,492,653,456"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="779,542,758,562,742,584,736,603,742,622,754,639,769,654,804,679,799,677,766,658,750,643,737,624,731,603,737,581,754,559,774,544"/>
+<area shape="rect" id="Node000013" href="$_sensor___handler_8c.html" title="Sensor acquisition, SPI&#45;based MAX6675/MAX31855 reading, and RTC data retrieval for the composite curi..." alt="" coords="752,582,906,623"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="833,548,832,584,828,580,829,552"/>
+<area shape="poly" id="edge21_Node000014_Node000007" title=" " alt="" coords="197,547,204,588,212,606,224,621,253,633,306,645,458,663,630,677,774,687,768,687,630,682,458,669,305,650,251,638,221,625,208,609,199,589,194,552"/>
+<area shape="rect" id="Node000015" href="$_encoder___handler_8h.html" title="High&#45;level rotary encoder interface for UI navigation and value editing." alt="" coords="234,582,387,623"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="235,541,288,582,282,582,234,547"/>
+<area shape="rect" id="Node000017" href="$settings_8c.html" title=" " alt="" coords="5,582,160,623"/>
+<area shape="poly" id="edge20_Node000014_Node000017" title=" " alt="" coords="157,546,110,584,107,580,161,542"/>
+<area shape="poly" id="edge19_Node000015_Node000007" title=" " alt="" coords="402,620,406,620,773,680,768,683,405,626,402,625"/>
+<area shape="rect" id="Node000016" href="$_encoder___handler_8c.html" title="High&#45;level event handlers for rotary encoders used in UI navigation, parameter editing,..." alt="" coords="233,671,388,712"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="312,637,313,672,308,669,309,641"/>
+<area shape="poly" id="edge39_Node000018_Node000007" title=" " alt="" coords="1195,444,1200,485,1199,533,1189,582,1178,605,1163,625,1144,639,1116,651,1043,669,962,682,888,689,888,684,961,676,1042,664,1114,646,1141,634,1159,621,1173,602,1184,580,1194,532,1195,485,1192,448"/>
+<area shape="poly" id="edge23_Node000018_Node000008" title=" " alt="" coords="1237,434,1391,491,1416,513,1426,522,1441,532,1514,553,1631,584,1626,584,1513,558,1439,537,1423,527,1412,516,1388,496,1236,439"/>
+<area shape="poly" id="edge37_Node000018_Node000011" title=" " alt="" coords="1113,431,744,496,733,499,731,493,743,491,1118,430"/>
+<area shape="poly" id="edge24_Node000018_Node000012" title=" " alt="" coords="1129,435,907,496,906,490,1124,436"/>
+<area shape="rect" id="Node000019" href="$ds1307__for__stm32__hal_8h.html" title=" " alt="" coords="932,494,1100,534"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="1155,438,1053,496,1051,491,1150,439"/>
+<area shape="rect" id="Node000020" href="$ds1307__for__stm32__hal_8c.html" title=" " alt="" coords="982,582,1149,623"/>
+<area shape="poly" id="edge38_Node000018_Node000020" title=" " alt="" coords="1174,442,1114,536,1080,584,1077,580,1110,533,1170,445"/>
+<area shape="rect" id="Node000021" href="$menu_8h.html" title="UI rendering and menu&#45;state interface for the curing furnace controller." alt="" coords="1225,494,1377,534"/>
+<area shape="poly" id="edge30_Node000018_Node000021" title=" " alt="" coords="1214,438,1280,494,1275,493,1213,443"/>
+<area shape="rect" id="Node000025" href="$stm32f4xx__hal__msp_8c.html" title="This file provides code for the MSP Initialization and de&#45;Initialization codes." alt="" coords="1452,494,1590,534"/>
+<area shape="poly" id="edge40_Node000018_Node000025" title=" " alt="" coords="1235,434,1265,443,1454,496,1449,496,1263,448,1235,439"/>
+<area shape="rect" id="Node000026" href="$stm32f4xx__it_8c.html" title="Interrupt Service Routines." alt="" coords="1614,501,1778,527"/>
+<area shape="poly" id="edge41_Node000018_Node000026" title=" " alt="" coords="1233,434,1264,443,1358,462,1433,471,1507,478,1603,491,1642,501,1637,501,1602,496,1507,483,1432,476,1358,467,1263,448,1232,439"/>
+<area shape="poly" id="edge29_Node000019_Node000007" title=" " alt="" coords="993,545,959,586,920,625,848,680,846,675,917,621,956,582,988,547"/>
+<area shape="poly" id="edge27_Node000019_Node000013" title=" " alt="" coords="962,541,872,584,871,579,957,542"/>
+<area shape="poly" id="edge26_Node000019_Node000015" title=" " alt="" coords="914,535,620,575,388,598,387,592,620,570,919,534"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="1036,546,1056,583,1052,581,1033,550"/>
+<area shape="poly" id="edge36_Node000021_Node000007" title=" " alt="" coords="1350,540,1374,559,1393,580,1401,602,1399,614,1392,625,1366,639,1318,650,1178,669,1020,682,888,690,888,685,1019,677,1178,664,1317,645,1364,634,1389,621,1394,612,1396,603,1389,583,1371,563,1348,546"/>
+<area shape="poly" id="edge34_Node000021_Node000008" title=" " alt="" coords="1393,532,1618,580,1631,585,1626,585,1617,585,1392,537"/>
+<area shape="rect" id="Node000022" href="$_display___handler_8h.html" title="Central UI rendering and menu&#45;screen dispatch module." alt="" coords="1453,582,1605,623"/>
+<area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="1367,538,1480,582,1475,581,1367,543"/>
+<area shape="rect" id="Node000024" href="$menu_8c.html" title="Rendering engine for all UI menu pages of the curing furnace controller." alt="" coords="1224,582,1378,623"/>
+<area shape="poly" id="edge35_Node000021_Node000024" title=" " alt="" coords="1303,548,1303,584,1299,580,1299,552"/>
+<area shape="poly" id="edge33_Node000022_Node000007" title=" " alt="" coords="1441,622,1435,626,1280,647,1127,665,888,688,888,683,1127,660,1280,642,1434,620,1435,623"/>
+<area shape="rect" id="Node000023" href="$_display___handler_8c.html" title="Central display&#45;state dispatcher for the curing oven UI system." alt="" coords="1451,671,1605,712"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="1531,637,1530,672,1526,669,1527,640"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="u8x8_d_ssd1320_128x72" name="u8x8_d_ssd1320_128x72">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,78,368,104"/>
+<area shape="rect" id="Node000002" href="$u8g2__d__setup_8c.html#a8f18262423948d6e0c6d2933a733f2e7" title=" " alt="" coords="5,5,152,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,74,145,49,145,44,229,72"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#a80cb65672d038a4e0f61dc2e3edc1e22" title=" " alt="" coords="5,71,152,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,92,153,94,152,88,187,90"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#a670dbc4f98368a7e394378ba7fe55c60" title=" " alt="" coords="5,136,152,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,108,146,138,144,133,224,110"/>
+</map>

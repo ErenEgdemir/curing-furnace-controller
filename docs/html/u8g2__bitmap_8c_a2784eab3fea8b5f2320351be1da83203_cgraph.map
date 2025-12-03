@@ -1,0 +1,14 @@
+<map id="u8g2_DrawBitmap" name="u8g2_DrawBitmap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,134,60"/>
+<area shape="rect" id="Node000002" href="$u8g2__bitmap_8c.html#ab3fa01b79aa0d81eefc4431b6b57dbb9" title=" " alt="" coords="182,9,369,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,37,169,35,164,36,135,42"/>
+<area shape="rect" id="Node000005" href="$u8g2__intersection_8c.html#a1eb2cace84437c80cb24c8936bcac2da" title=" " alt="" coords="417,60,552,86"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="134,49,402,65,401,70,134,54"/>
+<area shape="rect" id="Node000003" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="420,8,550,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,19,407,21,401,22,369,24"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="332,33,416,56,411,56,331,38"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="600,5,758,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="550,17,587,19,582,20,551,23"/>
+<area shape="rect" id="Node000006" href="$u8g2__intersection_8c.html#a3b357b864d8b3e0d3a3f2b74caf6b4ed" title=" " alt="" coords="609,55,749,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="552,71,596,74,591,74,553,76"/>
+</map>

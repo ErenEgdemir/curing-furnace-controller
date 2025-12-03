@@ -1,0 +1,9 @@
+<map id="u8x8_Setup" name="u8x8_Setup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,96,56"/>
+<area shape="rect" id="Node000002" href="$u8x8__setup_8c.html#a92db14b7811ac046177421f0eb7174da" title=" " alt="" coords="144,5,283,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,34,131,30,126,32,97,39"/>
+<area shape="rect" id="Node000004" href="$u8x8__display_8c.html#a5818b915a353d2be7c88cd1e11e9f78b" title=" " alt="" coords="145,55,282,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,47,132,55,127,56,96,53"/>
+<area shape="rect" id="Node000003" href="$u8x8_8h.html#a96748b0d240d98044813f3babd2be974" title=" " alt="" coords="331,5,451,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,16,318,18,313,18,284,21"/>
+</map>

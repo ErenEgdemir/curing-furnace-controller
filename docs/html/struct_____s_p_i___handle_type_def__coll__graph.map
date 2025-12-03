@@ -1,0 +1,13 @@
+<map id="__SPI_HandleTypeDef" name="__SPI_HandleTypeDef">
+<area shape="rect" id="Node000001" title="SPI handle Structure definition." alt="" coords="110,219,264,245"/>
+<area shape="rect" id="Node000002" href="$struct_s_p_i___type_def.html" title="Serial Peripheral Interface." alt="" coords="5,102,105,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,137,97,166,125,193,164,218,158,219,122,197,93,170,72,143"/>
+<area shape="rect" id="Node000003" href="$struct_s_p_i___init_type_def.html" title="SPI Configuration Structure definition." alt="" coords="128,102,246,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,142,189,220,185,218,185,145"/>
+<area shape="rect" id="Node000004" href="$struct_____d_m_a___handle_type_def.html" title="DMA handle Structure definition." alt="" coords="270,102,432,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="324,137,205,221,203,216,319,137"/>
+<area shape="rect" id="Node000005" href="$struct_d_m_a___stream___type_def.html" title="DMA Controller." alt="" coords="190,5,346,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="289,40,343,101,338,101,288,45"/>
+<area shape="rect" id="Node000006" href="$struct_d_m_a___init_type_def.html" title="DMA Configuration Structure definition." alt="" coords="371,5,496,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="416,42,385,80,363,104,360,100,381,76,411,45"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="HAL_TIM_Base_MspInit" name="HAL_TIM_Base_MspInit">
+<area shape="rect" id="Node000001" title="TIM_Base MSP Initialization This function configures the hardware resources used in this example." alt="" coords="5,80,170,106"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="246,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,77,217,40,238,35,233,37,219,45,122,82"/>
+<area shape="rect" id="Node000003" href="$group___d_m_a___exported___functions___group1.html#ga0fbcb690074233a03f2fa366dc22ff01" title=" " alt="" coords="242,55,352,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,80,230,75,225,77,171,85"/>
+<area shape="rect" id="Node000004" href="$group___c_o_r_t_e_x___exported___functions___group1.html#gaaad4492c1b25e006d69948a15790352a" title=" " alt="" coords="218,104,376,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,100,205,105,199,107,170,105"/>
+<area shape="rect" id="Node000005" href="$group___c_o_r_t_e_x___exported___functions___group1.html#ga8581a82025a4780efd00876a66e3e91b" title=" " alt="" coords="219,153,374,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,104,219,140,238,148,233,148,217,145,122,109"/>
+</map>

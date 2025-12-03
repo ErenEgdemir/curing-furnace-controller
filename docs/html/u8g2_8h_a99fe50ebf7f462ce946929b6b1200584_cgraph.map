@@ -1,0 +1,16 @@
+<map id="u8g2_GetXOffsetGlyph" name="u8g2_GetXOffsetGlyph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,162,96"/>
+<area shape="rect" id="Node000002" href="$u8g2__font_8c.html#a3dc8d30d85fb430dc4f7414f6c851aa1" title=" " alt="" coords="210,70,355,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,80,197,82,192,84,162,86"/>
+<area shape="rect" id="Node000003" href="$u8g2__font_8c.html#acf8d04e145c9baf43eabdd62bb92cdee" title=" " alt="" coords="414,5,566,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,67,397,51,402,50,332,72"/>
+<area shape="rect" id="Node000005" href="$u8g2__font_8c.html#ad71c6b7199fd619b68bf6cc8edc969c8" title=" " alt="" coords="403,120,576,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="340,94,420,115,415,115,339,99"/>
+<area shape="rect" id="Node000007" href="$u8g2__font_8c.html#a2ec927693f1b3c6609016dbf8c671503" title=" " alt="" coords="406,70,573,96"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="355,80,393,83,388,83,355,86"/>
+<area shape="rect" id="Node000004" href="$u8g2__font_8c.html#aee63c4e301593a8e54fa96c1a9b657b3" title=" " alt="" coords="624,31,777,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,32,611,40,606,40,566,37"/>
+<area shape="rect" id="Node000006" href="$u8g2__font_8c.html#a28207459010c3778b06d631db403d998" title=" " alt="" coords="631,120,770,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="577,130,619,132,614,132,577,135"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="573,68,606,65,612,64,574,73"/>
+</map>

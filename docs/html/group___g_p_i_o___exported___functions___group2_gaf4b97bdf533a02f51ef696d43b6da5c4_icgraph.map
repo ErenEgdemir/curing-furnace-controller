@@ -1,0 +1,24 @@
+<map id="HAL_GPIO_WritePin" name="HAL_GPIO_WritePin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,131,624,156"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#ae89fdd15729ad41a66911190fcbab23a" title="GPIO Initialization Function." alt="" coords="107,5,214,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,122,477,102,431,81,374,62,316,47,214,28,213,23,317,42,376,57,433,76,479,97,521,122"/>
+<area shape="rect" id="Node000004" href="$_sensor___handler_8c.html#adccd83099f4e278b9b879adc6dc2bab3" title="Sequential sensor and RTC acquisition handler for time&#45;sliced sampling." alt="" coords="109,56,212,82"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="488,126,432,114,314,93,213,78,212,73,315,87,433,109,494,126"/>
+<area shape="rect" id="Node000005" href="$_sensor___handler_8c.html#ad563a219c23840856c1ff19b00873c06" title="Initializes all MAX31855 chip&#45;select lines to the inactive state." alt="" coords="103,105,218,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="463,140,218,125,218,119,466,136"/>
+<area shape="rect" id="Node000006" href="$_sensor___handler_8c.html#aa7594c33dd84429540a480a84623454c" title="Handles raw MAX31855 thermocouple IRQ data and updates sensor readings." alt="" coords="266,156,432,182"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="463,155,433,161,432,156,468,154"/>
+<area shape="rect" id="Node000007" href="$_helper___functions_8c.html#a458b1587219ea54dccc399370a0e9813" title="GPIO and delay callback for the U8x8 graphics library." alt="" coords="276,205,422,231"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="511,162,433,197,400,207,399,202,431,192,506,164"/>
+<area shape="rect" id="Node000009" href="$_helper___functions_8c.html#ab7f6f9bf156a55c6aeadedc10dce9b12" title="Low&#45;level SPI byte callback for the U8x8 graphics library." alt="" coords="312,255,386,280"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="531,167,488,209,434,246,387,263,386,258,431,241,484,204,526,169"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,105,55,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,40,104,46,69,77,43,106,39,104,65,73,101,41,113,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="109,90,57,111,54,107,112,85"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="85,120,57,121,54,116,89,116"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="248,165,177,159,102,146,55,131,54,125,103,141,178,154,253,163"/>
+<area shape="rect" id="Node000008" href="$_helper___functions_8c.html#a16325c82330e86bd14a392288c13980e" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="115,207,206,232"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="258,219,206,222,206,217,263,218"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="117,199,101,190,67,161,43,134,43,129,71,157,104,185,122,198"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="295,255,206,234,206,228,300,254"/>
+</map>

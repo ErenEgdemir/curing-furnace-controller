@@ -1,0 +1,17 @@
+<map id="u8x8_d_ssd1362_common" name="u8x8_d_ssd1362_common">
+<area shape="rect" id="Node000001" title=" " alt="" coords="416,177,592,202"/>
+<area shape="rect" id="Node000002" href="$u8x8__d__ssd1362_8c.html#a77c815a82ba5f8ace04d15cac928f668" title=" " alt="" coords="200,177,368,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,190,369,192,368,187,403,189"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#ad98a0cdcfdbf8860409772f73674ab46" title=" " alt="" coords="5,5,152,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,165,213,115,150,61,132,49,130,44,153,57,216,111,265,164"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#a9bcfd69f9e17ebf7df84a9df02a7dc4a" title=" " alt="" coords="5,71,152,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="240,171,151,127,126,115,125,109,153,122,245,168"/>
+<area shape="rect" id="Node000005" href="$u8g2__d__setup_8c.html#aa30de9e1b27a0cbb92582d4c9d1a434f" title=" " alt="" coords="5,136,152,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="183,175,153,171,151,166,188,173"/>
+<area shape="rect" id="Node000006" href="$u8g2__d__setup_8c.html#ad7ada2425e7cb13d601d081c0a1fd969" title=" " alt="" coords="5,201,152,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="182,207,153,213,151,208,187,204"/>
+<area shape="rect" id="Node000007" href="$u8g2__d__setup_8c.html#a25b313ecde91d4e5fa3c0e556fd2db7a" title=" " alt="" coords="5,267,152,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="240,212,153,256,126,268,124,264,151,251,244,208"/>
+<area shape="rect" id="Node000008" href="$u8g2__d__setup_8c.html#ad2f96f70e2371928083bd26e1f82f043" title=" " alt="" coords="5,332,152,373"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="264,213,216,268,153,321,132,334,129,329,150,317,212,264,260,216"/>
+</map>

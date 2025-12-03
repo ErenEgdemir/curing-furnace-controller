@@ -1,0 +1,12 @@
+<map id="HAL_GetTick" name="HAL_GetTick">
+<area shape="rect" id="Node000001" title="Provides a tick value in millisecond." alt="" coords="572,5,672,31"/>
+<area shape="rect" id="Node000002" href="$group___h_a_l___exported___functions___group2.html#gab1dc1e6b438daacfe38a312a90221330" title="This function provides minimum delay (in milliseconds) based on variable incremented." alt="" coords="435,5,524,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,18,524,21,524,16,559,18"/>
+<area shape="rect" id="Node000003" href="$_helper___functions_8c.html#a16325c82330e86bd14a392288c13980e" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="103,5,193,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,21,194,21,194,16,421,16"/>
+<area shape="rect" id="Node000005" href="$_helper___functions_8c.html#a458b1587219ea54dccc399370a0e9813" title="GPIO and delay callback for the U8x8 graphics library." alt="" coords="241,31,387,56"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="423,27,388,35,388,30,417,27"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,20,56,21,55,16,89,17"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="223,30,193,28,193,22,228,30"/>
+</map>

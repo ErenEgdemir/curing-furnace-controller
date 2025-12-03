@@ -1,0 +1,13 @@
+<map id="u8g2_IsAllValidUTF8" name="u8g2_IsAllValidUTF8">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,149,80"/>
+<area shape="rect" id="Node000002" href="$u8g2__font_8c.html#a824b38a921b33ea7e7feeadc098398b7" title=" " alt="" coords="197,29,317,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,55,184,52,179,53,149,60"/>
+<area shape="rect" id="Node000006" href="$u8x8__8x8_8c.html#a5f8c579a32e4b0bff96d5e95d231cff5" title=" " alt="" coords="202,79,312,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,74,189,82,183,82,149,80"/>
+<area shape="rect" id="Node000003" href="$u8g2__font_8c.html#ad71c6b7199fd619b68bf6cc8edc969c8" title=" " alt="" coords="365,5,538,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,32,352,30,347,31,318,37"/>
+<area shape="rect" id="Node000005" href="$u8x8__8x8_8c.html#a9f58fa7f7fd849a3c7684cad7183d0a5" title=" " alt="" coords="400,55,503,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="317,47,388,59,383,59,317,53"/>
+<area shape="rect" id="Node000004" href="$u8g2__font_8c.html#a28207459010c3778b06d631db403d998" title=" " alt="" coords="586,5,725,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="539,16,574,18,568,18,539,21"/>
+</map>

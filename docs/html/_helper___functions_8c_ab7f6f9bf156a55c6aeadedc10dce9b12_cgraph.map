@@ -1,0 +1,7 @@
+<map id="u8x8_spi" name="u8x8_spi">
+<area shape="rect" id="Node000001" title="Low&#45;level SPI byte callback for the U8x8 graphics library." alt="" coords="5,31,79,56"/>
+<area shape="rect" id="Node000002" href="$group___g_p_i_o___exported___functions___group2.html#gaf4b97bdf533a02f51ef696d43b6da5c4" title=" " alt="" coords="127,5,270,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,35,114,31,109,33,80,40"/>
+<area shape="rect" id="Node000003" href="$group___s_p_i___exported___functions___group2.html#gaca4b7bb29640435fb30d7eb89ce0fd62" title=" " alt="" coords="131,55,266,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,46,118,54,113,56,79,52"/>
+</map>

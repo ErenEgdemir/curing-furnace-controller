@@ -1,0 +1,27 @@
+var u8x8__d__uc1611_8c =
+[
+    [ "u8x8_d_uc1611_cg160160", "u8x8__d__uc1611_8c.html#a55630f41f403d26bcb7dbcaf9c54fc54", null ],
+    [ "u8x8_d_uc1611_common", "u8x8__d__uc1611_8c.html#a8f42fdb9cab8c97a512d11237ddf411f", null ],
+    [ "u8x8_d_uc1611_ea_dogm240", "u8x8__d__uc1611_8c.html#a8a182b53f0f703cb2d611e1b21bd0e07", null ],
+    [ "u8x8_d_uc1611_ea_dogxl240", "u8x8__d__uc1611_8c.html#afb5aeb91bd16d788b57f68a5a7aa4349", null ],
+    [ "u8x8_d_uc1611_ew50850", "u8x8__d__uc1611_8c.html#a13eddd453136246b581928ea0d50e01d", null ],
+    [ "u8x8_d_uc1611_ids4073", "u8x8__d__uc1611_8c.html#a077dbd0ebdc96c9ac555cca22cc078da", null ],
+    [ "u8x8_d_uc1611_alt_flip0_seq", "u8x8__d__uc1611_8c.html#abfd1710da0849d050f52698580f228fb", null ],
+    [ "u8x8_d_uc1611_alt_flip1_seq", "u8x8__d__uc1611_8c.html#a02632e860bc3b6cee020f9ee343b70a1", null ],
+    [ "u8x8_d_uc1611_cg160160_init_seq", "u8x8__d__uc1611_8c.html#a2e5689988a849a26789ac3b52f3fcd45", null ],
+    [ "u8x8_d_uc1611_ea_dogm240_init_seq", "u8x8__d__uc1611_8c.html#a230d00dbf9b7dbbd6b46a88d9c353dd3", null ],
+    [ "u8x8_d_uc1611_ea_dogxl240_init_seq", "u8x8__d__uc1611_8c.html#a18347e3f7a877e84fa892e05616fd585", null ],
+    [ "u8x8_d_uc1611_ew50850_init_seq", "u8x8__d__uc1611_8c.html#aab0a8f636ce8db432c01cfdcd2adf3bb", null ],
+    [ "u8x8_d_uc1611_ids4073_init_seq", "u8x8__d__uc1611_8c.html#aa3b97ca0b06c974b996a1eeaf247a8a0", null ],
+    [ "u8x8_d_uc1611_powersave0_seq", "u8x8__d__uc1611_8c.html#a03316bacc65a8ca61ed0724ebef15527", null ],
+    [ "u8x8_d_uc1611_powersave1_seq", "u8x8__d__uc1611_8c.html#ab45cedf378ae716bd18e04f014b10528", null ],
+    [ "u8x8_d_uc1611s_flip0_seq", "u8x8__d__uc1611_8c.html#af4cd7e3a4f4527abd26b71bfa0f26adf", null ],
+    [ "u8x8_d_uc1611s_flip1_seq", "u8x8__d__uc1611_8c.html#af95f70a73ed48e1baf8c69e80ec8fe84", null ],
+    [ "u8x8_d_uc1611s_powersave0_seq", "u8x8__d__uc1611_8c.html#a93ec0ed664f085f32b72e21d52721f62", null ],
+    [ "u8x8_d_uc1611s_powersave1_seq", "u8x8__d__uc1611_8c.html#a1e5aed9feb21eb0d2eb9b459914b29f4", null ],
+    [ "u8x8_uc1611_240x128_display_info", "u8x8__d__uc1611_8c.html#a28ac895432298470e1d603e7a5251a97", null ],
+    [ "u8x8_uc1611_240x64_display_info", "u8x8__d__uc1611_8c.html#af4673a3fce73f5257736b6133a4efcb6", null ],
+    [ "u8x8_uc1611_256x128_display_info", "u8x8__d__uc1611_8c.html#a45f28e6e69aa722471a87c18c3a618e0", null ],
+    [ "u8x8_uc1611_cg160160_display_info", "u8x8__d__uc1611_8c.html#a19fffcd7f3baf3ca6d8ad94d79113c12", null ],
+    [ "u8x8_uc1611_ew50850_display_info", "u8x8__d__uc1611_8c.html#a9b23d05c3aae3132c18fe43e7a36c6e6", null ]
+];

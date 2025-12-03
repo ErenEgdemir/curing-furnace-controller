@@ -1,0 +1,7 @@
+<map id="DS1307_GetRegByte" name="DS1307_GetRegByte">
+<area shape="rect" id="Node000001" title="Gets the byte in the designated DS1307 register." alt="" coords="5,31,153,56"/>
+<area shape="rect" id="Node000002" href="$group___i2_c___exported___functions___group2.html#ga6b3cef8c309e88ed6d3b8deba149aac9" title=" " alt="" coords="202,5,380,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,32,189,30,184,31,153,37"/>
+<area shape="rect" id="Node000003" href="$group___i2_c___exported___functions___group2.html#ga9440a306e25c7bd038cfa8619ec9a830" title=" " alt="" coords="201,55,381,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,49,188,55,182,56,153,54"/>
+</map>

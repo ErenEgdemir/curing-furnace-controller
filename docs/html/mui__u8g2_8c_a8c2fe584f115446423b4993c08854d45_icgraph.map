@@ -1,0 +1,7 @@
+<map id="u8g2_DrawCheckbox" name="u8g2_DrawCheckbox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,42,378,68"/>
+<area shape="rect" id="Node000002" href="$mui__u8g2_8c.html#a0a321d26cc9642efd1a43d17348b779d" title=" " alt="" coords="21,5,168,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,43,169,39,169,33,219,42"/>
+<area shape="rect" id="Node000003" href="$mui__u8g2_8c.html#a1abefb61ed99e4991fa257f3253e9a27" title=" " alt="" coords="5,70,184,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,67,185,74,184,68,219,66"/>
+</map>

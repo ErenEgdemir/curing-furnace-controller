@@ -1,0 +1,15 @@
+<map id="u8x8_SendF" name="u8x8_SendF">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,100,130"/>
+<area shape="rect" id="Node000002" href="$u8x8__cad_8c.html#a7020bcee2bf0eed66fc3256414fab800" title=" " alt="" coords="148,104,271,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,114,135,115,130,118,101,119"/>
+<area shape="rect" id="Node000003" href="$u8x8__cad_8c.html#a50921e2a43213e02cdcacc1283a34ead" title=" " alt="" coords="322,5,477,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,101,266,71,318,40,334,35,329,38,320,45,269,75,228,106"/>
+<area shape="rect" id="Node000004" href="$u8x8__cad_8c.html#a4c915a67aa246918a739f6994b814c10" title=" " alt="" coords="332,55,466,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="261,101,334,84,330,86,263,106"/>
+<area shape="rect" id="Node000005" href="$u8x8__cad_8c.html#aafc0432df25e072cbe0c98e81e6a4085" title=" " alt="" coords="328,104,470,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="271,114,315,116,310,117,272,119"/>
+<area shape="rect" id="Node000006" href="$u8x8__cad_8c.html#a05634b21ee49d08570607dc2f33d9c96" title=" " alt="" coords="328,153,470,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="262,128,335,148,329,149,262,133"/>
+<area shape="rect" id="Node000007" href="$u8x8__cad_8c.html#aeb74727dac62a4776a502d9906d74a9d" title=" " alt="" coords="319,203,479,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="227,128,269,158,320,189,334,197,329,197,318,194,266,163,226,133"/>
+</map>

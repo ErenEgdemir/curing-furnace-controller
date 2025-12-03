@@ -1,0 +1,12 @@
+<map id="Core/Inc/UserLibraries/settings.h" name="Core/Inc/UserLibraries/settings.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="166,5,319,46"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8h.html" title="High&#45;level rotary encoder interface for UI navigation and value editing." alt="" coords="53,94,205,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,57,156,96,153,91,207,54"/>
+<area shape="rect" id="Node000004" href="$main_8c.html" title=": Main program body" alt="" coords="184,190,301,216"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="245,60,245,190,240,189,240,63"/>
+<area shape="rect" id="Node000005" href="$settings_8c.html" title=" " alt="" coords="280,94,434,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="281,53,334,93,329,94,280,58"/>
+<area shape="rect" id="Node000003" href="$_encoder___handler_8c.html" title="High&#45;level event handlers for rotary encoders used in UI navigation, parameter editing,..." alt="" coords="5,183,160,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,147,95,184,91,181,109,150"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="168,142,230,190,224,190,166,147"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HAL_TIM_Base_Start_IT" name="HAL_TIM_Base_Start_IT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="236,31,404,56"/>
+<area shape="rect" id="Node000002" href="$group___g_p_i_o___exported___functions___group2.html#ga0cd91fd3a9608559c2a87a8ba6cba55f" title=" " alt="" coords="5,5,188,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,33,188,31,188,26,223,32"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="72,55,121,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,55,122,68,121,62,223,54"/>
+</map>

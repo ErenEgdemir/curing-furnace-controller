@@ -1,0 +1,9 @@
+<map id="DS1307_Init" name="DS1307_Init">
+<area shape="rect" id="Node000001" title="Initializes the DS1307 module. Sets clock halt bit to 0 to start timing." alt="" coords="5,31,99,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#ab5e25ca784eb54cef145b064d98519b8" title="Sets clock halt bit." alt="" coords="147,31,300,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,41,134,43,129,44,99,46"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#a79774ef6c6e4636ea9266e7bf2e17fa5" title="Gets the byte in the designated DS1307 register." alt="" coords="348,5,495,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,31,335,29,330,30,301,36"/>
+<area shape="rect" id="Node000004" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="348,55,495,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="300,50,336,57,330,57,300,55"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="crc32_calc" name="crc32_calc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="603,29,687,55"/>
+<area shape="rect" id="Node000002" href="$settings_8c.html#a380289df6daa284e9262a3ea742f9f87" title=" " alt="" coords="340,5,416,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,38,417,24,417,19,590,37"/>
+<area shape="rect" id="Node000005" href="$settings_8c.html#a099d1aa0867c231024cf2b0f510beee0" title=" " alt="" coords="479,55,555,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="590,53,555,63,555,57,585,54"/>
+<area shape="rect" id="Node000003" href="$settings_8c.html#a2d6f1755dd0652863c8107f515acca76" title=" " alt="" coords="143,5,237,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,19,238,21,237,16,327,17"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,30,56,42,54,37,129,26"/>
+<area shape="rect" id="Node000006" href="$settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8" title=" " alt="" coords="325,55,431,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="461,68,432,70,432,65,466,67"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="309,51,237,33,238,28,314,50"/>
+<area shape="rect" id="Node000007" href="$_encoder___handler_8c.html#a7d11b3e0e988dbeb02cdc2c5a498ce1d" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="107,55,273,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="307,68,274,70,273,65,312,67"/>
+<area shape="rect" id="Node000008" href="$settings_8c.html#aae3244c64654cfc71df22fe4de706775" title=" " alt="" coords="103,104,277,130"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="314,84,242,106,241,101,309,85"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="89,54,56,50,55,45,94,51"/>
+</map>

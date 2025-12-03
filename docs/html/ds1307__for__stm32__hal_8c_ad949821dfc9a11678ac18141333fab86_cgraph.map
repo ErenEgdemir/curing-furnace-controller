@@ -1,0 +1,7 @@
+<map id="DS1307_SetMonth" name="DS1307_SetMonth">
+<area shape="rect" id="Node000001" title="Sets the current month." alt="" coords="5,31,137,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a03131e49923848c14db7af42d893af11" title="Encodes a decimal number to binaty&#45;coded decimal for storage in registers." alt="" coords="185,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,32,172,30,167,31,138,37"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="186,55,332,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,49,173,56,168,56,137,55"/>
+</map>

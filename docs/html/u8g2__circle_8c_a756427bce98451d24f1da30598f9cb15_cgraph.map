@@ -1,0 +1,11 @@
+<map id="u8g2_draw_ellipse" name="u8g2_draw_ellipse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,134,31"/>
+<area shape="rect" id="Node000002" href="$u8g2__circle_8c.html#ad9a38e1258d055eefd582c289cc6f70f" title=" " alt="" coords="182,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,16,168,18,163,18,134,21"/>
+<area shape="rect" id="Node000003" href="$u8g2__hvline_8c.html#a3a389e6557911ee8c8b349d89bfca19a" title=" " alt="" coords="407,5,523,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,16,394,18,389,18,359,21"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="571,5,702,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="524,16,559,18,553,18,524,21"/>
+<area shape="rect" id="Node000005" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="750,5,907,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="702,16,737,18,731,18,702,21"/>
+</map>

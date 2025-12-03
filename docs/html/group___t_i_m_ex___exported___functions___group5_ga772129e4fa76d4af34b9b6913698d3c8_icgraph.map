@@ -1,0 +1,19 @@
+<map id="HAL_TIMEx_MasterConfigSynchronization" name="HAL_TIMEx_MasterConfigSynchronization">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,104,525,130"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1d1beb7da60021ee1adbca294f28ba88" title="TIM1 Initialization Function." alt="" coords="103,5,206,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,99,187,34,188,29,345,96"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#af952250b2d49718b385e14a76fa7c1b8" title="TIM2 Initialization Function." alt="" coords="103,55,206,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="308,101,207,81,207,76,312,99"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a73ff2ff527606fb2be261e9f85aab83c" title="TIM3 Initialization Function." alt="" coords="103,104,206,130"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="236,118,207,119,206,114,241,116"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#aa33f0698b12657979eb254584682d30d" title="TIM4 Initialization Function." alt="" coords="103,153,206,179"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="307,134,207,158,206,153,312,133"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a7583181f2ba856da53571c33665f2c2d" title="TIM5 Initialization Function." alt="" coords="103,203,206,228"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="346,137,188,205,186,200,340,135"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,104,55,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,41,104,44,69,76,43,105,39,102,66,72,101,40,109,37"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="104,89,57,109,54,105,107,84"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="85,119,56,119,54,114,89,115"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="104,148,55,129,55,124,108,146"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="105,195,101,194,66,162,41,132,42,127,69,158,104,189,110,195"/>
+</map>

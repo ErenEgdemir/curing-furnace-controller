@@ -1,0 +1,11 @@
+<map id="u8x8_d_a2printer_common" name="u8x8_d_a2printer_common">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,78,602,104"/>
+<area shape="rect" id="Node000002" href="$u8x8__d__a2printer_8c.html#a61de29f0f65bb3de1981b025033f731f" title=" " alt="" coords="201,78,377,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,91,378,94,377,88,412,91"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#acd5f4e561203388caaf2825802e0823e" title=" " alt="" coords="5,5,153,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,74,147,49,147,44,233,72"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#adcaf56285f00eac9f866c178112f6b6f" title=" " alt="" coords="5,71,153,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="183,92,154,94,153,88,188,90"/>
+<area shape="rect" id="Node000005" href="$u8g2__d__setup_8c.html#a62720c550f54ee51fc386db5e02940a9" title=" " alt="" coords="5,136,153,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="233,108,148,138,146,133,228,110"/>
+</map>

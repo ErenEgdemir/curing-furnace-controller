@@ -1,0 +1,9 @@
+<map id="u8x8_gpio_and_delay" name="u8x8_gpio_and_delay">
+<area shape="rect" id="Node000001" title="GPIO and delay callback for the U8x8 graphics library." alt="" coords="5,31,152,56"/>
+<area shape="rect" id="Node000002" href="$group___h_a_l___exported___functions___group2.html#gab1dc1e6b438daacfe38a312a90221330" title="This function provides minimum delay (in milliseconds) based on variable incremented." alt="" coords="227,5,316,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,31,214,25,209,27,153,36"/>
+<area shape="rect" id="Node000004" href="$group___g_p_i_o___exported___functions___group2.html#gaf4b97bdf533a02f51ef696d43b6da5c4" title=" " alt="" coords="200,55,343,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,50,187,56,181,57,152,55"/>
+<area shape="rect" id="Node000003" href="$group___h_a_l___exported___functions___group2.html#gac9b3a85a73735ac840d0dcb59bc0fdd6" title="Provides a tick value in millisecond." alt="" coords="391,5,491,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,16,378,18,373,18,316,21"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Functions and Instructions Reference" name="Functions and Instructions Reference">
+<area shape="rect" id="Node000003" href="$group___c_m_s_i_s___core___cache_functions.html" title="Functions that configure Instruction and Data cache." alt="" coords="458,5,578,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,72,395,113"/>
+<area shape="rect" id="Node000005" href="$group___c_m_s_i_s___core___n_v_i_c_functions.html" title="Functions that manage interrupts and exceptions via the NVIC." alt="" coords="460,55,575,80"/>
+<area shape="rect" id="Node000006" href="$group___c_m_s_i_s___core___pac_key_functions.html" title="Functions that access the PAC keys." alt="" coords="452,104,583,130"/>
+<area shape="rect" id="Node000004" href="$group___c_m_s_i_s___core___reg_acc_functions.html" title=" " alt="" coords="443,154,592,194"/>
+<area shape="rect" id="Node000002" href="$group___c_m_s_i_s__register__aliases.html" title="Register alias definitions for backwards compatibility." alt="" coords="5,72,172,113"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="HAL_DMA_IRQHandler" name="HAL_DMA_IRQHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,55,404,80"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__it_8c.html#a1b70a4441662b1d6548e803499da414f" title="This function handles DMA1 stream0 global interrupt." alt="" coords="5,5,196,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,52,162,34,162,29,250,50"/>
+<area shape="rect" id="Node000003" href="$stm32f4xx__it_8c.html#aaf6ce196dde98712e1223b99766e06c0" title="This function handles DMA2 stream0 global interrupt." alt="" coords="5,55,196,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,68,196,70,196,65,231,67"/>
+<area shape="rect" id="Node000004" href="$stm32f4xx__it_8c.html#a877135f6494d6923d6f6ec32d75d9eeb" title="This function handles DMA2 stream3 global interrupt." alt="" coords="5,104,196,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,84,163,106,162,101,245,85"/>
+</map>

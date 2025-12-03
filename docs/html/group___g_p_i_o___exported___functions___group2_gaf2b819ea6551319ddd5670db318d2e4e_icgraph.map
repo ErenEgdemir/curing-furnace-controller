@@ -1,0 +1,9 @@
+<map id="HAL_GPIO_ReadPin" name="HAL_GPIO_ReadPin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="370,31,514,56"/>
+<area shape="rect" id="Node000002" href="$group___t_i_m___exported___functions___group9.html#ga8a3b0ad512a6e6c6157440b68d395eac" title="Period elapsed interrupt callback for sensor acquisition and encoder button debouncing." alt="" coords="103,5,322,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,34,323,33,323,28,357,34"/>
+<area shape="rect" id="Node000003" href="$_sensor___handler_8c.html#aa7594c33dd84429540a480a84623454c" title="Handles raw MAX31855 thermocouple IRQ data and updates sensor readings." alt="" coords="129,55,296,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="357,52,296,61,296,56,352,53"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,55,55,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,70,55,70,55,65,115,65"/>
+</map>

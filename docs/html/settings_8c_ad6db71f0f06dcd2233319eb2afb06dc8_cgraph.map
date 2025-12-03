@@ -1,0 +1,13 @@
+<map id="Settings_Save" name="Settings_Save">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,112,80"/>
+<area shape="rect" id="Node000002" href="$settings_8c.html#a099d1aa0867c231024cf2b0f510beee0" title=" " alt="" coords="160,55,235,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,65,146,67,141,68,113,70"/>
+<area shape="rect" id="Node000003" href="$settings_8c.html#a4e82adbe8e7465e73fe5573e2f23feff" title=" " alt="" coords="314,5,398,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,53,302,35,297,37,236,58"/>
+<area shape="rect" id="Node000004" href="$settings_8c.html#af838c64d30ac3267d3b35de1a4724ff8" title=" " alt="" coords="290,55,422,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="235,65,277,67,272,68,236,70"/>
+<area shape="rect" id="Node000006" href="$settings_8c.html#aa4ab36820523554e5a8e20e08a1191d5" title=" " alt="" coords="283,104,429,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="236,76,301,99,296,99,235,82"/>
+<area shape="rect" id="Node000005" href="$settings_8c.html#a952de060fcbb978749e6a5476bba9775" title=" " alt="" coords="477,55,558,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,65,464,67,459,68,423,70"/>
+</map>

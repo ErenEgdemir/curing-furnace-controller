@@ -1,0 +1,7 @@
+<map id="TempSens_IRQ_Handler" name="TempSens_IRQ_Handler">
+<area shape="rect" id="Node000001" title="Handles raw MAX31855 thermocouple IRQ data and updates sensor readings." alt="" coords="5,31,172,56"/>
+<area shape="rect" id="Node000002" href="$group___g_p_i_o___exported___functions___group2.html#gaf2b819ea6551319ddd5670db318d2e4e" title=" " alt="" coords="220,5,364,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,30,207,28,202,30,173,36"/>
+<area shape="rect" id="Node000003" href="$group___g_p_i_o___exported___functions___group2.html#gaf4b97bdf533a02f51ef696d43b6da5c4" title=" " alt="" coords="220,55,364,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,51,207,57,202,57,172,56"/>
+</map>

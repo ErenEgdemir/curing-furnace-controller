@@ -1,0 +1,7 @@
+<map id="HAL_SPI_Receive_DMA" name="HAL_SPI_Receive_DMA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,5,422,31"/>
+<area shape="rect" id="Node000002" href="$_sensor___handler_8c.html#adccd83099f4e278b9b879adc6dc2bab3" title="Sequential sensor and RTC acquisition handler for time&#45;sliced sampling." alt="" coords="103,5,206,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,18,206,21,206,16,241,18"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,19,55,21,55,16,90,17"/>
+</map>

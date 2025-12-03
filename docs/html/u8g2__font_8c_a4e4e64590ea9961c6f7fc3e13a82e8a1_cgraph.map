@@ -1,0 +1,33 @@
+<map id="u8g2_font_draw_glyph" name="u8g2_font_draw_glyph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,277,157,302"/>
+<area shape="rect" id="Node000002" href="$u8g2__font_8c.html#a803de3452dc17fb79d27b0ed268b8e0a" title=" " alt="" coords="209,194,374,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,274,243,224,241,228,117,279"/>
+<area shape="rect" id="Node000013" href="$u8g2__font_8c.html#ad71c6b7199fd619b68bf6cc8edc969c8" title=" " alt="" coords="205,301,378,326"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="157,296,192,301,187,303,158,301"/>
+<area shape="rect" id="Node000003" href="$u8g2__font_8c.html#a4767328637403157b6f1a7e8b45d10af" title=" " alt="" coords="649,70,784,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,192,353,146,387,122,425,103,478,88,533,79,637,76,632,78,533,84,479,93,427,108,390,127,356,151,306,196"/>
+<area shape="rect" id="Node000004" href="$u8g2__font_8c.html#abf2d2fb54e1b1bc0a4120d45d792e3a2" title=" " alt="" coords="649,169,784,194"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="374,199,636,185,632,188,375,205"/>
+<area shape="rect" id="Node000005" href="$u8g2__font_8c.html#acf8d04e145c9baf43eabdd62bb92cdee" title=" " alt="" coords="433,320,585,361"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="308,218,360,260,427,306,437,313,432,313,425,311,356,264,307,223"/>
+<area shape="rect" id="Node000006" href="$u8g2__font_8c.html#aee63c4e301593a8e54fa96c1a9b657b3" title=" " alt="" coords="640,263,793,303"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="374,217,593,255,628,264,622,264,592,260,374,223"/>
+<area shape="rect" id="Node000007" href="$u8g2__font_8c.html#acab31c34ccefbd650a13fe86d1d6479b" title=" " alt="" coords="434,118,585,144"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="330,191,458,148,453,151,332,196"/>
+<area shape="rect" id="Node000010" href="$u8g2__font_8c.html#a2ec927693f1b3c6609016dbf8c671503" title=" " alt="" coords="426,270,592,296"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="331,218,458,264,453,265,330,223"/>
+<area shape="rect" id="Node000011" href="$u8g2__intersection_8c.html#a1eb2cace84437c80cb24c8936bcac2da" title=" " alt="" coords="442,14,577,40"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="300,192,349,130,384,93,424,59,455,45,451,48,428,64,388,97,353,133,304,195"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="584,317,623,309,628,307,586,322"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="567,115,645,99,640,101,569,120"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="565,142,649,164,644,165,565,147"/>
+<area shape="rect" id="Node000008" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="651,120,782,145"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="584,129,639,131,633,132,585,134"/>
+<area shape="rect" id="Node000009" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="841,120,998,145"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="782,130,828,132,822,133,783,135"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="592,280,627,283,622,283,593,286"/>
+<area shape="rect" id="Node000012" href="$u8g2__intersection_8c.html#a3b357b864d8b3e0d3a3f2b74caf6b4ed" title=" " alt="" coords="646,5,787,46"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="576,24,634,25,628,27,578,29"/>
+<area shape="rect" id="Node000014" href="$u8g2__font_8c.html#a28207459010c3778b06d631db403d998" title=" " alt="" coords="440,385,578,410"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="321,324,427,370,449,380,444,379,425,375,320,330"/>
+</map>

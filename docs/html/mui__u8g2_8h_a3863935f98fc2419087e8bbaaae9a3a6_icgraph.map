@@ -1,0 +1,27 @@
+<map id="mui_u8g2_draw_button_pf" name="mui_u8g2_draw_button_pf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="429,177,602,202"/>
+<area shape="rect" id="Node000002" href="$mui__u8g2_8c.html#a6ec491f7024dff2ba8b50f92a8f22ba5" title=" " alt="" coords="225,5,368,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,165,444,114,413,86,380,61,359,49,358,44,382,57,416,82,447,110,497,165"/>
+<area shape="rect" id="Node000003" href="$mui__u8g2_8c.html#aebd0f408c5c25e2c15ad5231e00d373f" title=" " alt="" coords="212,71,381,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,170,380,127,352,115,351,109,382,122,478,169"/>
+<area shape="rect" id="Node000006" href="$mui__u8g2_8c.html#a4ec7d1a7b54001518f23739da0c1dad9" title=" " alt="" coords="221,136,372,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="411,175,373,170,372,165,416,173"/>
+<area shape="rect" id="Node000007" href="$mui__u8g2_8c.html#a89b6976186f370c6c5a9ae282c66b3e9" title=" " alt="" coords="221,201,372,242"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="411,206,373,213,371,208,416,204"/>
+<area shape="rect" id="Node000008" href="$mui__u8g2_8c.html#a83fc6d27c9a4bf4de948acc512cee4d9" title=" " alt="" coords="212,267,381,307"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="472,211,382,256,353,268,351,264,380,251,477,209"/>
+<area shape="rect" id="Node000011" href="$mui__u8g2_8c.html#a034455ad23b9ab5553724e64ce21c68b" title=" " alt="" coords="212,332,381,373"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="496,213,447,269,416,296,382,321,359,334,357,329,380,317,413,292,443,265,491,216"/>
+<area shape="rect" id="Node000004" href="$mui__u8g2_8c.html#a40d72b5d9b1c0a68adfd486bcb4ca68e" title=" " alt="" coords="5,37,164,78"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="194,77,165,73,163,68,198,74"/>
+<area shape="rect" id="Node000005" href="$mui__u8g2_8c.html#aea1f4e962dcb359ae6c7a3bc07cfe35b" title=" " alt="" coords="5,103,164,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="194,108,166,113,163,109,198,104"/>
+<area shape="rect" id="Node000009" href="$mui__u8g2_8c.html#a9113c78f4e29ff63d9e917e46ecc3792" title=" " alt="" coords="5,201,164,242"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="211,263,153,245,153,240,216,261"/>
+<area shape="rect" id="Node000010" href="$mui__u8g2_8c.html#af7ca51a8b39cc26a0f89eebc202163ff" title=" " alt="" coords="5,267,164,307"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="194,288,165,290,164,284,199,286"/>
+<area shape="rect" id="Node000012" href="$mui__u8g2_8c.html#af2082be454f33d66087653761bfdc443" title=" " alt="" coords="5,332,164,373"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="194,353,165,355,164,350,199,352"/>
+<area shape="rect" id="Node000013" href="$mui__u8g2_8c.html#aa51993f963bb5cb8923085e1b66ad8d8" title=" " alt="" coords="5,397,164,438"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="216,377,154,399,152,394,211,378"/>
+</map>

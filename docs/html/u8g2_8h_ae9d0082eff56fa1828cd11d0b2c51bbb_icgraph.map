@@ -1,0 +1,11 @@
+<map id="u8g2_m_9_5_1" name="u8g2_m_9_5_1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,112,344,137"/>
+<area shape="rect" id="Node000002" href="$u8g2__d__setup_8c.html#a1ca0556417036d42924599e793325098" title=" " alt="" coords="5,5,187,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,103,185,61,159,49,158,44,188,57,260,102"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#a1cca3fad8bf3a7deb868c84c087f7ef1" title=" " alt="" coords="14,71,178,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,113,179,108,178,103,222,112"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#a6b872e16ba85ca231c7b28a1621e6421" title=" " alt="" coords="23,136,169,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,137,171,147,169,142,222,135"/>
+<area shape="rect" id="Node000005" href="$u8g2__d__setup_8c.html#a4388fb5ca02857ce4a493377be13c756" title=" " alt="" coords="23,201,169,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,146,188,191,160,203,158,198,185,186,254,147"/>
+</map>

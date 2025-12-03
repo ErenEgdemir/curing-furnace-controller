@@ -1,0 +1,27 @@
+<map id="Core/Src/UserLibraries/Cooking_Handler.c" name="Core/Src/UserLibraries/Cooking_Handler.c">
+<area shape="rect" id="Node000001" title="Main cooking control module for the composite curing oven." alt="" coords="375,5,530,46"/>
+<area shape="rect" id="Node000002" href="$_cooking___handler_8h.html" title="Public API for the cooking control subsystem." alt="" coords="215,94,346,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,48,322,90,320,85,412,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,168,148,193"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="373,42,292,65,204,96,150,127,104,160,101,156,147,123,202,92,290,60,377,40"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="371,94,534,120"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="454,44,455,80,450,77,451,49"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="559,94,666,120"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="493,44,577,87,572,87,492,49"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="690,94,751,120"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="520,44,678,92,673,93,519,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="375,241,439,267"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,119,237,137,218,154,208,173,208,183,212,192,226,207,242,220,281,237,322,247,362,253,357,253,321,252,279,242,240,224,222,211,208,195,202,184,202,172,214,151,234,133,255,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,168,339,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="282,118,283,153,278,151,279,122"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="244,122,126,165,124,160,247,118"/>
+<area shape="rect" id="Node000006" href="$pi__control_8h.html" title=" " alt="" coords="363,168,451,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="302,118,375,159,370,160,302,123"/>
+<area shape="rect" id="Node000007" href="$common__def_8h.html" title=" " alt="" coords="492,241,600,267"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="347,116,473,139,525,152,553,166,561,180,563,196,558,228,554,225,558,196,556,182,549,170,524,157,472,144,347,121"/>
+<area shape="rect" id="Node000008" href="$types_8h.html" title="Core data structures used across the composite curing furnace controller, including settings,..." alt="" coords="475,168,539,193"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="319,118,463,164,457,165,319,123"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="409,192,409,227,405,224,405,195"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="493,193,438,234,436,229,488,195"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="515,191,534,229,530,226,512,196"/>
+</map>

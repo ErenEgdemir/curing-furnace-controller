@@ -1,0 +1,27 @@
+<map id="pg_DrawPolygon" name="pg_DrawPolygon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,126,179"/>
+<area shape="rect" id="Node000002" href="$u8g2__polygon_8c.html#a0bfde8c640c9ff3d30adb17d762b7929" title=" " alt="" coords="181,80,252,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,150,176,111,173,115,95,155"/>
+<area shape="rect" id="Node000010" href="$u8g2__polygon_8c.html#af6e1085b90cdc15da687bbeb804f6143" title=" " alt="" coords="174,177,259,203"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="126,173,161,180,156,182,127,178"/>
+<area shape="rect" id="Node000003" href="$u8g2__polygon_8c.html#a8d903d95498f52b0ea299ac4d34cad4b" title=" " alt="" coords="336,5,405,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,77,306,40,323,35,319,37,308,45,241,82"/>
+<area shape="rect" id="Node000007" href="$u8g2__polygon_8c.html#aba68ffe822d79b869825eaf7538647d7" title=" " alt="" coords="327,55,413,80"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="251,85,314,76,309,78,253,90"/>
+<area shape="rect" id="Node000009" href="$u8g2__polygon_8c.html#a310d987a198c7d6c0754971701807a66" title=" " alt="" coords="332,104,409,130"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="252,96,319,108,314,109,252,101"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#a71693f142580bdf7b1f8c97e16c88705" title=" " alt="" coords="481,5,603,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,16,468,17,463,19,406,21"/>
+<area shape="rect" id="Node000005" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="651,5,781,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="603,16,638,18,633,19,604,21"/>
+<area shape="rect" id="Node000006" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="829,5,986,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="781,16,816,18,811,19,782,21"/>
+<area shape="rect" id="Node000008" href="$u8g2__polygon_8c.html#a904bcb92a529b77f2d03eb3d1b3986ba" title=" " alt="" coords="508,55,576,80"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="413,65,495,67,490,68,414,70"/>
+<area shape="rect" id="Node000011" href="$u8g2__polygon_8c.html#a686c3632a4eebcbcf823bd39aeb7d527" title=" " alt="" coords="338,153,402,179"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="259,181,326,173,321,174,260,186"/>
+<area shape="rect" id="Node000012" href="$u8g2__polygon_8c.html#ac884e1b884925a42e1edb9eaa2b6e754" title=" " alt="" coords="307,203,433,228"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="259,194,295,202,289,203,259,200"/>
+<area shape="rect" id="Node000013" href="$u8g2__polygon_8c.html#ad3c446a79adc4822c165ebbe9d80bc2b" title=" " alt="" coords="340,252,400,278"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="240,201,308,238,329,250,324,249,306,243,239,206"/>
+</map>

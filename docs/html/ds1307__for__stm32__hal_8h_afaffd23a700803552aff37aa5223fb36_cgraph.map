@@ -1,0 +1,7 @@
+<map id="DS1307_GetSecond" name="DS1307_GetSecond">
+<area shape="rect" id="Node000001" title="Gets the current second. Clock halt bit not included." alt="" coords="5,31,146,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a5b8b8428f424c10ec1ac76c1848740c5" title="Decodes the raw binary value stored in registers to decimal format." alt="" coords="194,5,343,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,32,181,29,175,31,147,37"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#a79774ef6c6e4636ea9266e7bf2e17fa5" title="Gets the byte in the designated DS1307 register." alt="" coords="195,55,342,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,50,182,56,177,57,146,55"/>
+</map>

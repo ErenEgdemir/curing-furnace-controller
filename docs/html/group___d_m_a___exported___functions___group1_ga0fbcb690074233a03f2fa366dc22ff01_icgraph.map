@@ -1,0 +1,7 @@
+<map id="HAL_DMA_Init" name="HAL_DMA_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,31,327,56"/>
+<area shape="rect" id="Node000002" href="$group___s_p_i___exported___functions___group1.html#ga17f583be14b22caffa6c4e56dcd035ef" title="SPI MSP Initialization This function configures the hardware resources used in this example." alt="" coords="24,5,151,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,35,151,29,151,24,205,33"/>
+<area shape="rect" id="Node000003" href="$group___t_i_m___exported___functions___group1.html#ga818f4d5d1e2f417438d281b4ac9efb9c" title="TIM_Base MSP Initialization This function configures the hardware resources used in this example." alt="" coords="5,55,170,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,53,171,59,170,54,205,52"/>
+</map>

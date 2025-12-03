@@ -1,0 +1,5 @@
+<map id="External Wakeup Interrupt Controller Registers" name="External Wakeup Interrupt Controller Registers">
+<area shape="rect" id="Node000001" title="Type definitions for the External Wakeup Interrupt Controller Registers (EWIC)." alt="" coords="194,5,366,46"/>
+<area shape="rect" id="Node000003" href="$group___err_bnk___type.html" title="Type definitions for the Error Banking Registers (ERRBNK)." alt="" coords="414,5,629,46"/>
+<area shape="rect" id="Node000002" href="$group___pwr_mod_ctl___type.html" title="Type definitions for the Power Mode Control Registers (PWRMODCTL)." alt="" coords="5,5,146,46"/>
+</map>

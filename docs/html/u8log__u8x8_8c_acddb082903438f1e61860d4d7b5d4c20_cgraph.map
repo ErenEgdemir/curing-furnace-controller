@@ -1,0 +1,9 @@
+<map id="u8x8_DrawLogLine" name="u8x8_DrawLogLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,138,56"/>
+<area shape="rect" id="Node000002" href="$u8x8__8x8_8c.html#af77ede00c2f71d3b2be6fae5bea34f0a" title=" " alt="" coords="186,31,307,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,41,173,43,168,44,138,46"/>
+<area shape="rect" id="Node000003" href="$u8x8__display_8c.html#aca81ff545019f4ec462ee63353409d99" title=" " alt="" coords="373,5,481,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,32,360,27,355,28,308,38"/>
+<area shape="rect" id="Node000004" href="$u8x8__8x8_8c.html#a690b5560d2e4fd3c301d06ef27adc606" title=" " alt="" coords="355,55,499,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,49,343,56,337,56,307,54"/>
+</map>

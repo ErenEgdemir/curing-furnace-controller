@@ -1,0 +1,20 @@
+<map id="mui_send_cursor_enter_msg" name="mui_send_cursor_enter_msg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,194,197"/>
+<area shape="rect" id="Node000002" href="$mui_8c.html#a10a3d50efaff22a647a46cea4d1c95a2" title=" " alt="" coords="242,172,394,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,182,229,184,223,185,195,187"/>
+<area shape="rect" id="Node000003" href="$mui_8c.html#a0e6ad053da579be1c964f60656e16adb" title=" " alt="" coords="442,164,581,205"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,182,429,184,424,185,394,187"/>
+<area shape="rect" id="Node000004" href="$mui_8c.html#a5e93b95b846d656609b0fb2b29114a3d" title=" " alt="" coords="629,96,785,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,161,655,128,660,127,567,166"/>
+<area shape="rect" id="Node000006" href="$mui_8c.html#a24b086d7505079b37f34e0b6577e7789" title=" " alt="" coords="1036,96,1160,121"/>
+<area shape="poly" id="edge10_Node000003_Node000006" title=" " alt="" coords="582,186,665,188,767,186,878,176,987,156,1026,143,1059,130,1064,128,1028,148,989,162,879,182,767,191,665,193,582,191"/>
+<area shape="rect" id="Node000008" href="$mui_8c.html#a3d2fcdb9e7b822e5a5cad1b6bb6576fe" title=" " alt="" coords="661,222,753,248"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="582,200,649,220,644,219,581,205"/>
+<area shape="rect" id="Node000005" href="$mui_8c.html#a997dab004bc6680839562166ce702abb" title=" " alt="" coords="833,5,988,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="740,92,842,53,847,52,742,97"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="785,106,1023,108,1018,109,785,111"/>
+<area shape="rect" id="Node000007" href="$mui_8c.html#a9daeb1946d826632753fcccea9c5a58b" title=" " alt="" coords="843,121,978,146"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="785,115,830,123,825,123,785,121"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="959,44,1056,89,1050,89,958,49"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="978,122,1018,119,1023,118,979,127"/>
+</map>

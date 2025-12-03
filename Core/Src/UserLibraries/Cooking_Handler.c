@@ -172,7 +172,7 @@ void Cooking_Handler(CookingCtx *c, Sens t, PI_Oven *pi1, PI_Oven *pi2, PI_Oven 
 		if(i >= c->stage2->totalDuration){
 			if(c->stage3->state == TRUE){
 
-				c->flag = STAGE_2;
+				c->flag = STAGE_3;
 				i = 0;
 				k = 0;
 			}else c->flag = ABORT;

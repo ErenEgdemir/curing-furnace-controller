@@ -1,0 +1,13 @@
+<map id="display_set" name="display_set">
+<area shape="rect" id="Node000001" title="Sets the active menu state and its associated counter value." alt="" coords="317,55,404,80"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8c.html#a7d11b3e0e988dbeb02cdc2c5a498ce1d" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="103,5,269,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,52,234,34,234,29,305,51"/>
+<area shape="rect" id="Node000004" href="$_encoder___handler_8c.html#a7733c636a31d27c67bda84f97ca18f91" title="Handles encoder 2 push&#45;button actions for cooking temperature changes." alt="" coords="103,55,269,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="299,68,270,70,269,65,304,67"/>
+<area shape="rect" id="Node000005" href="$_encoder___handler_8c.html#ae8c7320e0d638bada6c2f3871abbc037" title="Handles menu switching operations of encoder 3 button." alt="" coords="103,104,269,130"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="305,83,235,106,233,101,299,84"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,55,55,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,37,104,45,56,61,54,56,102,40,125,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="85,69,56,70,54,65,89,66"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="120,99,102,95,55,79,55,74,104,90,125,99"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="u8g2_read_font_info" name="u8g2_read_font_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,144,56"/>
+<area shape="rect" id="Node000002" href="$u8g2__font_8c.html#a57418beb38fdd33d42a074d622d933d7" title=" " alt="" coords="193,5,328,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,31,180,29,175,30,145,37"/>
+<area shape="rect" id="Node000003" href="$u8g2__font_8c.html#a28207459010c3778b06d631db403d998" title=" " alt="" coords="192,55,330,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,50,179,56,173,57,144,55"/>
+</map>

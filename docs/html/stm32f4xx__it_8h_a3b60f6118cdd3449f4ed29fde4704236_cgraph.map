@@ -1,0 +1,5 @@
+<map id="TIM1_BRK_TIM9_IRQHandler" name="TIM1_BRK_TIM9_IRQHandler">
+<area shape="rect" id="Node000001" title="This function handles TIM1 break interrupt and TIM9 global interrupt." alt="" coords="5,5,205,31"/>
+<area shape="rect" id="Node000002" href="$group___t_i_m___exported___functions___group7.html#ga2dc3ef34340412aa8a01d734d2ff8f88" title=" " alt="" coords="253,5,406,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,16,240,18,234,18,205,21"/>
+</map>

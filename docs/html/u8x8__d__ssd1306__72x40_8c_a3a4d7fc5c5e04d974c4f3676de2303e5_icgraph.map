@@ -1,0 +1,17 @@
+<map id="u8x8_d_ssd1306_72x40_generic" name="u8x8_d_ssd1306_72x40_generic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,169,588,210"/>
+<area shape="rect" id="Node000002" href="$u8x8__d__ssd1306__72x40_8c.html#ada7f3e367f1b1c36f2082d5df1b08c71" title=" " alt="" coords="200,177,379,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,190,380,192,379,187,414,189"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#a6b872e16ba85ca231c7b28a1621e6421" title=" " alt="" coords="5,5,152,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,165,215,115,150,61,131,49,130,44,153,57,219,111,270,165"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#adf830c490cdc38d37ad3d2199dfae34e" title=" " alt="" coords="5,71,152,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,171,151,127,126,114,124,109,153,122,249,169"/>
+<area shape="rect" id="Node000005" href="$u8g2__d__setup_8c.html#a3c7c36fba332de9b0bd9d7a9ad79ae40" title=" " alt="" coords="5,136,152,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="187,175,153,170,151,165,191,173"/>
+<area shape="rect" id="Node000006" href="$u8g2__d__setup_8c.html#a4388fb5ca02857ce4a493377be13c756" title=" " alt="" coords="5,201,152,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="183,207,153,213,151,208,187,204"/>
+<area shape="rect" id="Node000007" href="$u8g2__d__setup_8c.html#a250cf53ecbeb7a2df2b2ec9c8ab62be1" title=" " alt="" coords="5,267,152,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="244,211,153,256,126,268,124,264,151,251,248,208"/>
+<area shape="rect" id="Node000008" href="$u8g2__d__setup_8c.html#a688ac2e7796edc63378120f893988cdd" title=" " alt="" coords="5,332,152,373"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="269,213,219,267,153,321,132,334,129,329,150,317,215,264,265,215"/>
+</map>

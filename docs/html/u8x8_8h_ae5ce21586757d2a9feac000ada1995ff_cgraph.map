@@ -1,0 +1,20 @@
+<map id="u8x8_d_ist7920_128x128" name="u8x8_d_ist7920_128x128">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,174,206"/>
+<area shape="rect" id="Node000002" href="$u8x8__cad_8c.html#a50921e2a43213e02cdcacc1283a34ead" title=" " alt="" coords="233,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,178,143,112,178,73,220,40,231,36,228,40,223,44,182,77,147,115,101,181"/>
+<area shape="rect" id="Node000003" href="$u8x8__cad_8c.html#a4c915a67aa246918a739f6994b814c10" title=" " alt="" coords="243,55,378,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,178,152,134,185,110,220,89,236,84,232,88,223,94,188,115,155,139,106,181"/>
+<area shape="rect" id="Node000004" href="$u8x8__cad_8c.html#aafc0432df25e072cbe0c98e81e6a4085" title=" " alt="" coords="239,104,382,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,177,258,133,255,137,131,182"/>
+<area shape="rect" id="Node000005" href="$u8x8__cad_8c.html#a05634b21ee49d08570607dc2f33d9c96" title=" " alt="" coords="447,180,589,206"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,190,433,191,430,195,174,195"/>
+<area shape="rect" id="Node000006" href="$u8x8__cad_8c.html#a60fbb1a88ebff6cbaaa1d717a12b2b96" title=" " alt="" coords="224,205,396,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,200,211,205,206,208,175,205"/>
+<area shape="rect" id="Node000007" href="$u8x8__cad_8c.html#aeb74727dac62a4776a502d9906d74a9d" title=" " alt="" coords="230,255,390,280"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="123,204,223,241,245,249,240,250,221,246,123,209"/>
+<area shape="rect" id="Node000008" href="$u8x8__display_8c.html#a8b6dbb59d3b8eb6e21f1acbb9bcc0bc8" title=" " alt="" coords="222,304,399,330"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="105,204,155,247,188,270,223,290,236,298,231,298,220,295,185,275,152,251,104,209"/>
+<area shape="rect" id="Node000009" href="$u8x8__display_8c.html#aa3f86e8b5d15f1537e873c2c6d44205d" title=" " alt="" coords="234,354,387,394"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="100,203,148,269,183,307,223,340,231,347,226,346,220,344,179,310,144,272,98,209"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="396,205,434,203,429,204,398,210"/>
+</map>

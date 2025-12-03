@@ -1,0 +1,5 @@
+<map id="SysTick_Handler" name="SysTick_Handler">
+<area shape="rect" id="Node000001" title="This function handles System tick timer." alt="" coords="5,5,127,31"/>
+<area shape="rect" id="Node000002" href="$group___h_a_l___exported___functions___group2.html#gaba5b726bfedd013bf7bb5a51d5c4f188" title="This function is called to increment a global variable &quot;uwTick&quot; used as application time base." alt="" coords="175,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,16,162,18,157,18,127,21"/>
+</map>

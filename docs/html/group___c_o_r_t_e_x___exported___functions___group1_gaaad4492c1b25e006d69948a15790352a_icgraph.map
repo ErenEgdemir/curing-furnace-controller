@@ -1,0 +1,14 @@
+<map id="HAL_NVIC_EnableIRQ" name="HAL_NVIC_EnableIRQ">
+<area shape="rect" id="Node000001" title=" " alt="" coords="333,80,491,106"/>
+<area shape="rect" id="Node000002" href="$group___t_i_m___exported___functions___group1.html#ga818f4d5d1e2f417438d281b4ac9efb9c" title="TIM_Base MSP Initialization This function configures the hardware resources used in this example." alt="" coords="112,5,276,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,74,284,45,250,34,250,29,286,40,369,73"/>
+<area shape="rect" id="Node000003" href="$group___t_i_m___exported___functions___group6.html#ga1a8e1103bfcc56c2626ed5cf546391d1" title="TIM_Encoder MSP Initialization This function configures the hardware resources used in this example." alt="" coords="103,55,285,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,82,286,81,285,75,320,81"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a608dc9e9bcaf978f1611f3ec57670f64" title=" " alt="" coords="142,104,246,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,104,246,114,245,109,320,103"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#ae89fdd15729ad41a66911190fcbab23a" title="GPIO Initialization Function." alt="" coords="141,153,247,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,111,286,145,248,156,247,151,284,140,363,112"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,129,55,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="125,130,56,141,54,136,128,125"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="123,158,55,148,55,143,127,154"/>
+</map>

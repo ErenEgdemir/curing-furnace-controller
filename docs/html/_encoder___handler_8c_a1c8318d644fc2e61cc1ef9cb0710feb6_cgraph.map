@@ -1,0 +1,5 @@
+<map id="Encoder_Init" name="Encoder_Init">
+<area shape="rect" id="Node000001" title="Initializes and starts all rotary encoder timers in interrupt mode." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="Node000002" href="$group___t_i_m___exported___functions___group6.html#ga9a573a3203752709841acab8412f541e" title=" " alt="" coords="148,5,334,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,16,134,18,129,18,100,21"/>
+</map>

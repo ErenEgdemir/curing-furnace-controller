@@ -1,0 +1,16 @@
+<map id="u8g2_struct" name="u8g2_struct">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,306,397,332"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="412,308,420,312,423,320,415,329,398,333,396,327,412,325,418,319,416,316,412,313"/>
+<area shape="rect" id="Node000004" href="$structu8g2__cb__struct.html" title=" " alt="" coords="297,453,407,478"/>
+<area shape="poly" id="edge6_Node000004_Node000001" title=" " alt="" coords="305,339,290,353,279,366,271,383,268,397,270,411,279,427,291,440,308,453,303,452,287,444,274,430,265,413,263,397,266,381,274,364,286,349,300,341"/>
+<area shape="rect" id="Node000002" href="$structu8x8__struct.html" title=" " alt="" coords="43,152,133,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,183,333,304,329,307,121,188"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="121,144,147,146,156,154,159,164,154,177,141,184,125,185,109,180,107,175,125,180,140,179,150,174,154,164,152,157,145,151,124,149"/>
+<area shape="rect" id="Node000003" href="$structu8x8__display__info__struct.html" title=" " alt="" coords="5,5,171,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,44,91,151,85,151,88,49"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="384,440,392,428,400,397,392,366,381,349,368,335,369,330,385,345,397,364,406,397,397,430,386,444"/>
+<area shape="rect" id="Node000005" href="$struct__u8g2__font__decode__t.html" title=" " alt="" coords="279,152,425,177"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="354,191,354,307,350,305,350,195"/>
+<area shape="rect" id="Node000006" href="$struct__u8g2__font__info__t.html" title=" " alt="" coords="448,152,573,177"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="500,189,474,234,438,276,411,294,384,308,382,304,409,290,434,272,470,231,496,193"/>
+</map>

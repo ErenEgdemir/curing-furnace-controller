@@ -1,0 +1,6 @@
+<map id="Backwards Compatibility Aliases" name="Backwards Compatibility Aliases">
+<area shape="rect" id="Node000003" href="$group___c_m_s_i_s___core___function_interface.html" title=" " alt="" coords="383,5,558,46"/>
+<area shape="rect" id="Node000004" href="$group___c_m_s_i_s___core___n_v_i_c_functions.html" title="Functions that manage interrupts and exceptions via the NVIC." alt="" coords="413,70,528,96"/>
+<area shape="rect" id="Node000002" href="$group___c_m_s_i_s__core__base.html" title="Definitions for base addresses, unions, and structures." alt="" coords="5,42,121,68"/>
+<area shape="rect" id="Node000001" title="Register alias definitions for backwards compatibility." alt="" coords="169,35,335,75"/>
+</map>

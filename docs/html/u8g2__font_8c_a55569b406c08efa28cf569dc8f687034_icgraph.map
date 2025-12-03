@@ -1,0 +1,13 @@
+<map id="u8g2_font_2x_decode_glyph" name="u8g2_font_2x_decode_glyph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="788,23,936,64"/>
+<area shape="rect" id="Node000002" href="$u8g2__font_8c.html#aad71e4106f8a6cf6a8f175b628eeb36a" title=" " alt="" coords="567,31,740,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="769,44,740,46,740,41,775,43"/>
+<area shape="rect" id="Node000003" href="$u8g2__font_8c.html#a072fb12e8b4f92b731ef51d03bffeed4" title=" " alt="" coords="382,31,519,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="549,44,520,46,520,41,554,43"/>
+<area shape="rect" id="Node000004" href="$u8g2__font_8c.html#a7824308fc9b82b6d691fa9ff37e45ac1" title=" " alt="" coords="190,31,334,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,44,334,46,334,41,369,43"/>
+<area shape="rect" id="Node000005" href="$u8g2__font_8c.html#ac89e2e7cf4372c263aa1c999edc87d81" title=" " alt="" coords="13,5,134,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,32,134,29,134,24,177,31"/>
+<area shape="rect" id="Node000006" href="$u8g2__font_8c.html#a73658b78da35d0c2ae9d00d065dc0d51" title=" " alt="" coords="5,55,142,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="171,55,142,61,142,56,177,54"/>
+</map>

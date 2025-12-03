@@ -1,0 +1,5 @@
+<map id="i2c_read_scl_and_delay" name="i2c_read_scl_and_delay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,166,31"/>
+<area shape="rect" id="Node000002" href="$u8x8__byte_8c.html#a6c4212d071e31f948d32cad6f3656daf" title=" " alt="" coords="214,5,290,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,16,201,18,195,18,166,21"/>
+</map>

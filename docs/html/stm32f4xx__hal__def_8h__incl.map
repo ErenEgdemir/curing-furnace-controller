@@ -1,0 +1,9 @@
+<map id="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h" name="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h">
+<area shape="rect" id="Node000001" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="128,5,299,61"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx_8h.html" title="CMSIS STM32F4xx Device Peripheral Access Layer Header File." alt="" coords="5,109,99,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,62,89,104,87,99,160,61"/>
+<area shape="rect" id="Node000003" href="$stm32__hal__legacy_8h.html" title="This file contains aliases definition for the STM32Cube HAL constants macros and functions maintained..." alt="" coords="123,109,304,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,59,216,95,211,92,211,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="328,109,397,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,59,331,101,326,101,259,64"/>
+</map>

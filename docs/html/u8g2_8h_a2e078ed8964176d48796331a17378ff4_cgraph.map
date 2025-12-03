@@ -1,0 +1,11 @@
+<map id="u8g2_SendBuffer" name="u8g2_SendBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,127,56"/>
+<area shape="rect" id="Node000002" href="$u8g2__buffer_8c.html#a55d89b87938f4aa3069b22f16c27b75c" title=" " alt="" coords="186,5,310,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,32,173,28,168,30,128,38"/>
+<area shape="rect" id="Node000005" href="$u8x8__display_8c.html#a4a1017cf7a7e1f03fce580a5994a4409" title=" " alt="" coords="175,55,321,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="127,49,162,55,156,56,127,54"/>
+<area shape="rect" id="Node000003" href="$u8g2__buffer_8c.html#a422abb028962418acd5831fe9dafd998" title=" " alt="" coords="369,5,505,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,16,356,18,351,18,310,21"/>
+<area shape="rect" id="Node000004" href="$u8x8__display_8c.html#aca81ff545019f4ec462ee63353409d99" title=" " alt="" coords="553,5,662,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="506,16,540,18,535,18,506,21"/>
+</map>

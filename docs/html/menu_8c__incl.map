@@ -1,0 +1,21 @@
+<map id="Core/Src/UserLibraries/menu.c" name="Core/Src/UserLibraries/menu.c">
+<area shape="rect" id="Node000001" title="Rendering engine for all UI menu pages of the curing furnace controller." alt="" coords="144,5,298,46"/>
+<area shape="rect" id="Node000002" href="$menu_8h.html" title="UI rendering and menu&#45;state interface for the curing furnace controller." alt="" coords="189,94,253,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,44,223,79,218,77,220,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,66,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,123,81,165,79,160,190,118"/>
+<area shape="rect" id="Node000004" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="89,168,150,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,122,151,160,148,156,206,119"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="235,241,300,267"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="218,118,212,154,211,174,215,192,227,212,242,231,237,230,222,215,210,194,206,174,206,154,215,122"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="225,168,286,193"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="228,117,246,154,240,153,226,122"/>
+<area shape="rect" id="Node000008" href="$common__def_8h.html" title=" " alt="" coords="340,241,448,267"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="253,107,287,112,323,122,359,140,388,166,396,180,400,196,401,228,396,224,395,197,391,182,384,169,356,144,321,127,285,117,254,113"/>
+<area shape="rect" id="Node000009" href="$types_8h.html" title="Core data structures used across the composite curing furnace controller, including settings,..." alt="" coords="310,168,374,193"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="242,118,311,159,306,160,241,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="61,241,178,267"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,192,122,227,117,224,118,196"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="332,193,292,233,289,228,327,195"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="352,191,379,229,374,228,350,196"/>
+</map>

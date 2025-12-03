@@ -1,0 +1,7 @@
+<map id="DS1307_GetDayOfWeek" name="DS1307_GetDayOfWeek">
+<area shape="rect" id="Node000001" title="Gets the current day of week." alt="" coords="5,31,173,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a5b8b8428f424c10ec1ac76c1848740c5" title="Decodes the raw binary value stored in registers to decimal format." alt="" coords="221,5,370,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,31,208,29,203,30,174,36"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#a79774ef6c6e4636ea9266e7bf2e17fa5" title="Gets the byte in the designated DS1307 register." alt="" coords="222,55,369,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,51,209,57,203,57,173,56"/>
+</map>

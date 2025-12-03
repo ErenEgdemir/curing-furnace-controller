@@ -1,0 +1,7 @@
+<map id="HAL_TIM_PWM_Init" name="HAL_TIM_PWM_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,5,396,31"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a7583181f2ba856da53571c33665f2c2d" title="TIM5 Initialization Function." alt="" coords="103,5,206,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,18,206,21,206,16,241,18"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,19,55,21,55,16,90,17"/>
+</map>

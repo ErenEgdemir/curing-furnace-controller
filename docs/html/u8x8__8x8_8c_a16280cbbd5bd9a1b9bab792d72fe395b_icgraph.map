@@ -1,0 +1,11 @@
+<map id="u8x8_draw_1x2_subglyph" name="u8x8_draw_1x2_subglyph">
+<area shape="rect" id="Node000001" title=" " alt="" coords="585,31,757,56"/>
+<area shape="rect" id="Node000002" href="$u8x8__8x8_8c.html#ace65c2396c3e36fd2705a5dde080a0a2" title=" " alt="" coords="395,31,537,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,44,538,46,538,41,572,43"/>
+<area shape="rect" id="Node000003" href="$u8x8__8x8_8c.html#a645b7db958ab1ff1ca299516b3270400" title=" " alt="" coords="196,31,347,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,44,348,46,348,41,382,43"/>
+<area shape="rect" id="Node000004" href="$u8x8__8x8_8c.html#aab90e0fd655bf8cac196eb6db29c5155" title=" " alt="" coords="5,5,148,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,32,148,30,148,25,183,31"/>
+<area shape="rect" id="Node000005" href="$u8x8__8x8_8c.html#a075c29b9f8841f9334f4b0900072c9d1" title=" " alt="" coords="6,55,147,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="177,55,148,61,147,56,183,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HAL_DMA_DeInit" name="HAL_DMA_DeInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,31,361,56"/>
+<area shape="rect" id="Node000002" href="$group___s_p_i___exported___functions___group1.html#gabadc4d4974af1afd943e8d13589068e1" title="SPI MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="24,5,168,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,34,168,30,168,25,222,33"/>
+<area shape="rect" id="Node000003" href="$group___t_i_m___exported___functions___group1.html#ga13352a6c9cb3225511e5f29dbb894e84" title="TIM_Base MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="5,55,187,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,53,188,59,187,54,222,52"/>
+</map>

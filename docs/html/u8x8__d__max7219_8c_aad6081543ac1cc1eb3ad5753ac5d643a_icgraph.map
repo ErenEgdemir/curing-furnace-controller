@@ -1,0 +1,9 @@
+<map id="u8x8_d_max7219_8x8" name="u8x8_d_max7219_8x8">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,78,355,104"/>
+<area shape="rect" id="Node000002" href="$u8g2__d__setup_8c.html#aacc03a84992693b188609e304c0a825d" title=" " alt="" coords="5,5,156,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,74,145,49,145,44,226,72"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#aa785bd1de63990523ca207d47a19086a" title=" " alt="" coords="5,71,156,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,92,156,94,155,88,191,90"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#a33dc460f036ed2056646258268f8c654" title=" " alt="" coords="5,136,156,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,108,146,138,144,133,221,110"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="HAL_SYSTICK_Config" name="HAL_SYSTICK_Config">
+<area shape="rect" id="Node000001" title=" " alt="" coords="421,31,579,56"/>
+<area shape="rect" id="Node000002" href="$group___h_a_l___exported___functions___group1.html#ga44d1542f9985b2243b14a41070cc41cc" title="This function configures the source of the time base. The time source is configured to have 1ms time ..." alt="" coords="276,31,373,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,44,374,46,374,41,408,43"/>
+<area shape="rect" id="Node000003" href="$group___h_a_l___exported___functions___group1.html#gaecac54d350c3730e6831eb404e557dc4" title="This function is used to initialize the HAL Library; it must be the first instruction to be executed ..." alt="" coords="129,5,202,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,34,202,27,202,21,263,33"/>
+<area shape="rect" id="Node000005" href="$group___h_a_l___exported___functions___group2.html#ga47f2dd240b2aed823a76b11496f37690" title="Set new tick Freq." alt="" coords="103,55,228,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="263,53,228,61,228,55,258,53"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,20,55,21,54,16,116,16"/>
+</map>

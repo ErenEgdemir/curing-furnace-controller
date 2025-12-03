@@ -1,0 +1,9 @@
+<map id="HAL_TIM_Encoder_MspInit" name="HAL_TIM_Encoder_MspInit">
+<area shape="rect" id="Node000001" title="TIM_Encoder MSP Initialization This function configures the hardware resources used in this example." alt="" coords="5,55,188,80"/>
+<area shape="rect" id="Node000002" href="$group___g_p_i_o___exported___functions___group1.html#ga41bda93b6dd639e4905fdb1454eff98e" title=" " alt="" coords="259,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,51,246,33,241,35,158,57"/>
+<area shape="rect" id="Node000003" href="$group___c_o_r_t_e_x___exported___functions___group1.html#gaaad4492c1b25e006d69948a15790352a" title=" " alt="" coords="236,55,394,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,65,223,67,217,68,188,70"/>
+<area shape="rect" id="Node000004" href="$group___c_o_r_t_e_x___exported___functions___group1.html#ga8581a82025a4780efd00876a66e3e91b" title=" " alt="" coords="237,104,392,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,78,243,99,237,101,157,84"/>
+</map>

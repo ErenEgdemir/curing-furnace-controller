@@ -1,0 +1,11 @@
+<map id="u8x8_DrawLog" name="u8x8_DrawLog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,114,56"/>
+<area shape="rect" id="Node000002" href="$u8log__u8x8_8c.html#acddb082903438f1e61860d4d7b5d4c20" title=" " alt="" coords="162,31,294,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,41,149,43,143,44,114,46"/>
+<area shape="rect" id="Node000003" href="$u8x8__8x8_8c.html#af77ede00c2f71d3b2be6fae5bea34f0a" title=" " alt="" coords="342,31,463,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,41,329,43,324,44,294,46"/>
+<area shape="rect" id="Node000004" href="$u8x8__display_8c.html#aca81ff545019f4ec462ee63353409d99" title=" " alt="" coords="529,5,638,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,32,511,28,517,28,464,38"/>
+<area shape="rect" id="Node000005" href="$u8x8__8x8_8c.html#a690b5560d2e4fd3c301d06ef27adc606" title=" " alt="" coords="511,55,656,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="464,49,499,56,494,56,464,54"/>
+</map>

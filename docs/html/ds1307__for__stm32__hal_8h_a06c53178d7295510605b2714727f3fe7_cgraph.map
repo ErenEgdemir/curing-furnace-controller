@@ -1,0 +1,7 @@
+<map id="DS1307_SetYear" name="DS1307_SetYear">
+<area shape="rect" id="Node000001" title="Sets the current year." alt="" coords="5,31,127,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a03131e49923848c14db7af42d893af11" title="Encodes a decimal number to binaty&#45;coded decimal for storage in registers." alt="" coords="175,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,32,162,30,157,31,128,38"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="176,55,322,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,49,163,56,158,56,127,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tick_handler_encoder1" name="tick_handler_encoder1">
+<area shape="rect" id="Node000001" title="Handles encoder 1 tick events and updates the menu counter with bounds." alt="" coords="5,5,157,31"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8h.html#acba5cb9300b88336c95b24a58d3a3e31" title="Updates a variable based on encoder movement within given bounds." alt="" coords="205,5,282,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,192,18,187,18,157,21"/>
+</map>

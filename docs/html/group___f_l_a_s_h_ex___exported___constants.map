@@ -1,0 +1,22 @@
+<map id="FLASH Exported Constants" name="FLASH Exported Constants">
+<area shape="rect" id="Node000002" href="$group___f_l_a_s_h_ex.html" title="FLASH HAL Extension module driver." alt="" coords="5,489,86,515"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="134,489,318,515"/>
+<area shape="rect" id="Node000012" href="$group___f_l_a_s_h_ex___advanced___option___type.html" title=" " alt="" coords="377,5,576,31"/>
+<area shape="rect" id="Node000011" href="$group___f_l_a_s_h_ex___b_o_r___reset___level.html" title=" " alt="" coords="391,55,562,80"/>
+<area shape="rect" id="Node000014" href="$group___f_l_a_s_h_ex___banks.html" title=" " alt="" coords="424,104,529,130"/>
+<area shape="rect" id="Node000019" href="$group___f_l_a_s_h_ex___dual___boot.html" title=" " alt="" coords="414,153,540,179"/>
+<area shape="rect" id="Node000015" href="$group___f_l_a_s_h_ex___mass_erase__bit.html" title=" " alt="" coords="398,203,555,228"/>
+<area shape="rect" id="Node000008" href="$group___f_l_a_s_h_ex___option___bytes___i_watchdog.html" title=" " alt="" coords="404,252,549,293"/>
+<area shape="rect" id="Node000018" href="$group___f_l_a_s_h_ex___option___bytes___p_c___read_write___protection.html" title=" " alt="" coords="390,318,563,358"/>
+<area shape="rect" id="Node000007" href="$group___f_l_a_s_h_ex___option___bytes___read___protection.html" title=" " alt="" coords="404,383,549,424"/>
+<area shape="rect" id="Node000017" href="$group___f_l_a_s_h_ex___option___bytes___write___protection.html" title=" " alt="" coords="404,448,549,489"/>
+<area shape="rect" id="Node000010" href="$group___f_l_a_s_h_ex___option___bytes__n_r_s_t___s_t_d_b_y.html" title=" " alt="" coords="404,514,549,554"/>
+<area shape="rect" id="Node000009" href="$group___f_l_a_s_h_ex___option___bytes__n_r_s_t___s_t_o_p.html" title=" " alt="" coords="404,579,549,620"/>
+<area shape="rect" id="Node000006" href="$group___f_l_a_s_h_ex___option___type.html" title=" " alt="" coords="408,644,546,670"/>
+<area shape="rect" id="Node000016" href="$group___f_l_a_s_h_ex___sectors.html" title=" " alt="" coords="420,693,533,719"/>
+<area shape="rect" id="Node000020" href="$group___f_l_a_s_h_ex___selection___protection___mode.html" title=" " alt="" coords="366,743,587,768"/>
+<area shape="rect" id="Node000003" href="$group___f_l_a_s_h_ex___type___erase.html" title=" " alt="" coords="410,792,544,818"/>
+<area shape="rect" id="Node000004" href="$group___f_l_a_s_h_ex___voltage___range.html" title=" " alt="" coords="400,841,554,867"/>
+<area shape="rect" id="Node000005" href="$group___f_l_a_s_h_ex___w_r_p___state.html" title=" " alt="" coords="409,891,544,916"/>
+<area shape="rect" id="Node000013" href="$group___f_l_a_s_h___latency.html" title=" " alt="" coords="420,940,534,966"/>
+</map>

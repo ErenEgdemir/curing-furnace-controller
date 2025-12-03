@@ -1,0 +1,9 @@
+<map id="u8x8_DrawUTF8Lines" name="u8x8_DrawUTF8Lines">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,55,415,80"/>
+<area shape="rect" id="Node000002" href="$u8x8__input__value_8c.html#a45868d487878a799c8e87ab3e1c0c511" title=" " alt="" coords="12,5,209,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,52,174,34,174,29,264,50"/>
+<area shape="rect" id="Node000003" href="$u8x8__message_8c.html#a839fbc937bc4d1b0a696f96bba8b3018" title=" " alt="" coords="16,55,205,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,68,205,70,205,65,251,67"/>
+<area shape="rect" id="Node000004" href="$u8x8__selection__list_8c.html#a8ad25dc5375251344f3f0d8633a0b522" title=" " alt="" coords="5,104,216,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,84,174,106,173,101,259,85"/>
+</map>

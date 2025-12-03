@@ -1,0 +1,5 @@
+<map id="DMA2_Stream3_IRQHandler" name="DMA2_Stream3_IRQHandler">
+<area shape="rect" id="Node000001" title="This function handles DMA2 stream3 global interrupt." alt="" coords="5,5,196,31"/>
+<area shape="rect" id="Node000002" href="$group___d_m_a___exported___functions___group2.html#ga8c8564d06f6d39b702af1c5cbb7dd54a" title=" " alt="" coords="244,5,404,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,16,231,18,225,18,196,21"/>
+</map>

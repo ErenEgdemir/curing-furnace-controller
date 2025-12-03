@@ -1,0 +1,9 @@
+<map id="button_handler_encoder3" name="button_handler_encoder3">
+<area shape="rect" id="Node000001" title="Handles menu switching operations of encoder 3 button." alt="" coords="5,55,172,80"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8h.html#ae5c3ad75a7fc87df00c48b3aba560b27" title="Switches the menu context to a new state and resets its counter." alt="" coords="227,5,321,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,51,215,33,210,36,141,57"/>
+<area shape="rect" id="Node000003" href="$_encoder___handler_8h.html#a60bb70b85e7c5bc72558311b663c77a8" title="Sets the active menu state and its associated counter value." alt="" coords="230,55,318,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,65,217,67,212,68,172,70"/>
+<area shape="rect" id="Node000004" href="$pi__control_8c.html#a057099c10c45416289bdafea550d3709" title=" " alt="" coords="220,104,328,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,78,211,99,206,100,139,84"/>
+</map>

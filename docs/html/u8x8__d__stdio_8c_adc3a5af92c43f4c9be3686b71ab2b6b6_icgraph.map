@@ -1,0 +1,7 @@
+<map id="bitmap_place_tile" name="bitmap_place_tile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="320,5,442,31"/>
+<area shape="rect" id="Node000002" href="$u8x8__d__stdio_8c.html#a628af0e0f442e51eb5c12a302003814f" title=" " alt="" coords="174,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,18,273,21,273,16,307,18"/>
+<area shape="rect" id="Node000003" href="$u8x8__d__stdio_8c.html#aba9a26c7015cfc57788ae56bdded71d3" title=" " alt="" coords="5,5,126,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,18,126,21,126,16,161,18"/>
+</map>

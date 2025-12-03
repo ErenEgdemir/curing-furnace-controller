@@ -1,0 +1,16 @@
+<map id="menu_send_flame" name="menu_send_flame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,133,60"/>
+<area shape="rect" id="Node000002" href="$u8g2__bitmap_8c.html#a50fd614a868e23f3f36a474c6536246a" title=" " alt="" coords="181,35,306,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,45,168,47,162,48,134,50"/>
+<area shape="rect" id="Node000003" href="$u8g2__bitmap_8c.html#ac8a2601ac7411a0bff00d6ac3aad7883" title=" " alt="" coords="354,9,489,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,36,341,34,336,34,307,41"/>
+<area shape="rect" id="Node000006" href="$u8g2__intersection_8c.html#a1eb2cace84437c80cb24c8936bcac2da" title=" " alt="" coords="537,60,673,86"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="306,49,524,66,519,68,306,55"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="540,8,670,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,19,527,21,522,22,490,24"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="471,33,544,55,539,55,471,38"/>
+<area shape="rect" id="Node000005" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="721,5,878,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="671,17,708,19,702,20,671,23"/>
+<area shape="rect" id="Node000007" href="$u8g2__intersection_8c.html#a3b357b864d8b3e0d3a3f2b74caf6b4ed" title=" " alt="" coords="729,55,870,96"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="673,71,716,74,711,74,673,76"/>
+</map>

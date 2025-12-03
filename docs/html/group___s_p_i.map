@@ -1,0 +1,9 @@
+<map id="SPI" name="SPI">
+<area shape="rect" id="Node000001" title="SPI HAL module driver." alt="" coords="221,104,264,130"/>
+<area shape="rect" id="Node000004" href="$group___s_p_i___exported___constants.html" title=" " alt="" coords="314,5,477,31"/>
+<area shape="rect" id="Node000007" href="$group___s_p_i___exported___functions.html" title=" " alt="" coords="312,55,478,80"/>
+<area shape="rect" id="Node000005" href="$group___s_p_i___exported___macros.html" title=" " alt="" coords="322,104,468,130"/>
+<area shape="rect" id="Node000003" href="$group___s_p_i___exported___types.html" title=" " alt="" coords="326,153,464,179"/>
+<area shape="rect" id="Node000006" href="$group___s_p_i___private___macros.html" title=" " alt="" coords="328,203,463,228"/>
+<area shape="rect" id="Node000002" href="$group___s_t_m32_f4xx___h_a_l___driver.html" title=" " alt="" coords="5,104,173,130"/>
+</map>

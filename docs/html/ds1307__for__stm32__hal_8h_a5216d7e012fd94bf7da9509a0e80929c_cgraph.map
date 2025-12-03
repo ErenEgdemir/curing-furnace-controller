@@ -1,0 +1,5 @@
+<map id="DS1307_GetTimeZoneMin" name="DS1307_GetTimeZoneMin">
+<area shape="rect" id="Node000001" title="Gets the stored UTC minute offset." alt="" coords="5,5,181,31"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a79774ef6c6e4636ea9266e7bf2e17fa5" title="Gets the byte in the designated DS1307 register." alt="" coords="229,5,376,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,16,215,18,210,18,181,21"/>
+</map>

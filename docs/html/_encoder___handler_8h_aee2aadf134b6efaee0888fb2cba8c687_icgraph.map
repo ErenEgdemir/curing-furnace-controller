@@ -1,0 +1,5 @@
+<map id="tick_handler_encoder1" name="tick_handler_encoder1">
+<area shape="rect" id="Node000001" title="Handles encoder 1 tick events and updates the menu counter with bounds." alt="" coords="103,5,254,31"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,19,55,21,55,16,90,17"/>
+</map>

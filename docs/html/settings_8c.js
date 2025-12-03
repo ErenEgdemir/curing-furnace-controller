@@ -1,0 +1,25 @@
+var settings_8c =
+[
+    [ "FLASH_VR", "settings_8c.html#a3f6eab4d2a78392d3a7cb8e6ba683989", null ],
+    [ "SETTINGS_BASE_256K", "settings_8c.html#a5d87d6ff57bd24bf7ff2f547e227e4f0", null ],
+    [ "SETTINGS_BASE_512K_A", "settings_8c.html#a379fcf5cacec385d34ba2a5f77b18264", null ],
+    [ "SETTINGS_BASE_512K_B", "settings_8c.html#a37c086d6127404de89563f10a96d5c87", null ],
+    [ "crc32_calc", "settings_8c.html#a4e82adbe8e7465e73fe5573e2f23feff", null ],
+    [ "Flash_EraseRange", "settings_8c.html#af838c64d30ac3267d3b35de1a4724ff8", null ],
+    [ "Flash_ProgramWords", "settings_8c.html#aa4ab36820523554e5a8e20e08a1191d5", null ],
+    [ "Flash_ReadWords", "settings_8c.html#a167b3b5d5a49fb25fefbe3b3562f020a", null ],
+    [ "FlashSizeKB", "settings_8c.html#a2ae7b19689c7ad34dd721f2baa37cf1a", null ],
+    [ "GetSector", "settings_8c.html#a952de060fcbb978749e6a5476bba9775", null ],
+    [ "PickBases", "settings_8c.html#a3794bbdf0415670e6b42e952736da6ab", null ],
+    [ "ReadOne", "settings_8c.html#a380289df6daa284e9262a3ea742f9f87", null ],
+    [ "Settings_FillDefaults", "settings_8c.html#a68fc40b7ffb09031c2d8bf9fd07d742e", null ],
+    [ "Settings_Get", "settings_8c.html#af7b43ffa50e3690b373bee8af75ebfc8", null ],
+    [ "Settings_Init", "settings_8c.html#a2d6f1755dd0652863c8107f515acca76", null ],
+    [ "Settings_ResetToDefaults", "settings_8c.html#aae3244c64654cfc71df22fe4de706775", null ],
+    [ "Settings_Save", "settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8", null ],
+    [ "WriteOne", "settings_8c.html#a099d1aa0867c231024cf2b0f510beee0", null ],
+    [ "g_baseA", "settings_8c.html#abb7973762c567d7bb7457b817d917d2c", null ],
+    [ "g_baseB", "settings_8c.html#a01d1b33e023a6ab6c34f635c49649c2f", null ],
+    [ "g_settings", "settings_8c.html#a7b62273527067a31b5b4075e6090c688", null ],
+    [ "g_usingB", "settings_8c.html#a5d443765c1d4c60bd67ea33ada3e5a3d", null ]
+];

@@ -1,0 +1,17 @@
+<map id="u8x8_d_ssd1317_generic" name="u8x8_d_ssd1317_generic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="409,177,577,202"/>
+<area shape="rect" id="Node000002" href="$u8x8__d__ssd1317_8c.html#a2ae6f83865d0980891f0b217fc8e90e8" title=" " alt="" coords="200,177,361,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,190,362,192,361,187,396,189"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#acc392dfaed0a2f24a6d265d9c1fde22e" title=" " alt="" coords="5,5,152,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,165,211,114,182,86,150,61,132,49,130,44,153,57,185,82,215,111,262,164"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#a13f14175f457b5995af2421d627e0536" title=" " alt="" coords="5,71,152,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,171,150,127,126,114,125,109,153,122,243,168"/>
+<area shape="rect" id="Node000005" href="$u8g2__d__setup_8c.html#a83aec9d67f339b29a98ad49243964d66" title=" " alt="" coords="5,136,152,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="182,175,153,171,151,166,186,173"/>
+<area shape="rect" id="Node000006" href="$u8g2__d__setup_8c.html#a9ac4cdb87d685d226f8985ca41b11d35" title=" " alt="" coords="5,201,152,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="182,206,153,213,151,208,186,204"/>
+<area shape="rect" id="Node000007" href="$u8g2__d__setup_8c.html#a68f4ecc19b48a435cba91790674ac137" title=" " alt="" coords="5,267,152,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="237,212,153,256,127,268,124,264,151,251,241,208"/>
+<area shape="rect" id="Node000008" href="$u8g2__d__setup_8c.html#a09844bbc1a81b0e87142f1354af66a51" title=" " alt="" coords="5,332,152,373"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="262,213,215,268,153,321,132,334,130,329,150,317,211,264,257,216"/>
+</map>

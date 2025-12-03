@@ -3,32 +3,38 @@
  * @brief   Public API for the cooking control subsystem.
  *
  * This header exposes the interfaces for:
- *   - Cooking_Init()       : PI kontrolcülerini ve PWM çıkışlarını başlatır.
- *   - Cooking_Handler()    : Fırının ana pişirme durum makinesini yürütür.
- *   - update_DutyCycle()   : Hesaplanan görev döngülerini TIM PWM kanallarına yazar.
- *   - temp_drift()         : Sensör–ortalama sıcaklık sapmasını hesaplar.
- *   - check_error()        : Sensör sapması, aşırı sıcaklık ve sensör arızalarını kontrol eder.
+ *   - Cooking_Init()       : Initializes PI controllers and PWM outputs.
+ *   - Cooking_Handler()    : Executes the main cooking state machine.
+ *   - update_DutyCycle()   : Writes computed duty cycles to TIM PWM channels.
+ *   - temp_drift()         : Computes sensor-to-average temperature deviation.
+ *   - check_error()        : Evaluates sensor drift, overtemperature, and
+ *                            sensor fault conditions.
  *
- * Temel bileşenler:
- *   - CookingCtx           : Pişirme sırasındaki durum, profil indexleri, görev döngüleri ve
- *                            kalan süre bilgilerini tutar.
- *   - CookingFlag          : Pişirme durum makinesi bayrakları (PENDING, STAGE_1..6, FASTSTART, ABORT).
- *   - Sens                 : Tüm sıcaklık sensörlerinden okunan anlık değerleri içerir.
- *   - PI_Oven              : Her bir ısıtıcı bölgesi için PI kontrol yapısını temsil eder.
+ * Core components:
+ *   - CookingCtx           : Holds runtime state, profile indices, duty cycles,
+ *                            and remaining time information during cooking.
+ *   - CookingFlag          : Enumeration of all cooking machine states
+ *                            (PENDING, STAGE_1..6, FASTSTART, ABORT).
+ *   - Sens                 : Structure containing instantaneous readings from
+ *                            all temperature sensors.
+ *   - PI_Oven              : PI controller object for each heating zone.
  *
- * Tipik kullanım:
- *   1. Sistem açılışında ve ayarlar yüklendikten sonra Cooking_Init() çağrılır.
- *   2. Sabit zaman adımıyla (PI_DT) ana kontrol döngüsünde Cooking_Handler() çağrılır.
- *   3. update_DutyCycle() doğrudan Cooking_Handler() içinde kullanılır.
- *   4. Güvenlik ve hata kontrolleri check_error() ile yapılır.
+ * Typical usage:
+ *   1. After system startup and settings load, call Cooking_Init().
+ *   2. Call Cooking_Handler() periodically in the main loop using a fixed
+ *      time step defined by PI_DT.
+ *   3. Duty cycles are updated internally through update_DutyCycle().
+ *   4. Safety conditions are continuously enforced using check_error().
  *
- * Notlar:
- *   - Bu modül, TIM5 PWM kanallarını (CH2, CH3, CH4) kullanarak üç ısıtıcı bölgesini sürer.
- *   - PI_DT sabiti, PI_Control_Update() fonksiyonuna verilen zaman adımını tanımlar.
- *   - Güvenlik ihlallerinde CookingCtx->flag, ABORT durumuna çekilir ve sistem reset’e gidebilir.
+ * Notes:
+ *   - This subsystem drives three heating zones using TIM5 PWM channels
+ *     (CH2, CH3, CH4).
+ *   - The PI_DT constant defines the time step for PI_Control_Update().
+ *   - On any safety violation, CookingCtx->flag transitions to ABORT,
+ *     potentially leading to a full system reset.
  *
- * @author
- *   Eren Eğdemir
+ * @date    Dec 03, 2025
+ * @author  Eren Egdemir
  */
 
 #ifndef INC_USERLIBRARIES_COOKING_HANDLER_H_
@@ -126,16 +132,16 @@ static inline void check_error(CookingCtx *c, Sens t){
 		c->flag = ABORT;
 	}
 
-	if(temp_drift(t.sens4_temp, furnice_temp) > 10 || temp_drift(t.sens4_temp, furnice_temp) < -10){
+	if(temp_drift(t.sens4_temp, furnice_temp) > 10 || temp_drift(t.sens5_temp, furnice_temp) < -10){
 			c->flag = ABORT;
-	}else if(temp_drift(t.sens4_temp, furnice_temp) > 10 || temp_drift(t.sens4_temp, furnice_temp)< -10){
+	}else if(temp_drift(t.sens4_temp, furnice_temp) > 10 || temp_drift(t.sens5_temp, furnice_temp)< -10){
 		c->flag = ABORT;
 	}
 
 	if(t.sens1_temp > 250 || t.sens2_temp > 250 || t.sens3_temp > 250 || t.sens4_temp > 250 || t.sens5_temp > 250){
 		c->flag = ABORT;
 	}else if(t.sens1_temp == 0 || t.sens2_temp == 0 || t.sens3_temp == 0 || t.sens4_temp == 0 || t.sens5_temp == 0){
-		c->flag = ABORT;c->flag = ABORT;
+		c->flag = ABORT;
 	}
 
 }

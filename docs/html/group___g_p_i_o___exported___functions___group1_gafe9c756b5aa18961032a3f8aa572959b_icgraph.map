@@ -1,0 +1,9 @@
+<map id="HAL_GPIO_DeInit" name="HAL_GPIO_DeInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,55,382,80"/>
+<area shape="rect" id="Node000002" href="$group___i2_c___exported___functions___group1.html#ga2ec8d9b09854c732e2feed549278f048" title="I2C MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="34,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,52,163,34,164,29,247,50"/>
+<area shape="rect" id="Node000003" href="$group___s_p_i___exported___functions___group1.html#gabadc4d4974af1afd943e8d13589068e1" title="SPI MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="33,55,177,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,68,178,70,177,65,240,67"/>
+<area shape="rect" id="Node000004" href="$group___t_i_m___exported___functions___group6.html#ga77c8216735a5b1374ea948737eed8a18" title="TIM_Encoder MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="5,104,205,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,84,164,106,163,101,241,85"/>
+</map>

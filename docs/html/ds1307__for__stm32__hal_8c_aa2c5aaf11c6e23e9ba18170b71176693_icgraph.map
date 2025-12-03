@@ -1,0 +1,5 @@
+<map id="DS1307_GetClockHalt" name="DS1307_GetClockHalt">
+<area shape="rect" id="Node000001" title="Gets clock halt bit." alt="" coords="193,5,347,31"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a45354642733d85f6e7f54792e23e2cde" title="Sets the current second." alt="" coords="5,5,145,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,18,145,21,145,16,180,18"/>
+</map>

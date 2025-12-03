@@ -1,0 +1,9 @@
+<map id="HAL_SPI_MspInit" name="HAL_SPI_MspInit">
+<area shape="rect" id="Node000001" title="SPI MSP Initialization This function configures the hardware resources used in this example." alt="" coords="5,55,132,80"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="185,5,286,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,52,177,35,173,37,116,57"/>
+<area shape="rect" id="Node000003" href="$group___d_m_a___exported___functions___group1.html#ga0fbcb690074233a03f2fa366dc22ff01" title=" " alt="" coords="181,55,290,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,65,168,67,163,68,132,70"/>
+<area shape="rect" id="Node000004" href="$group___g_p_i_o___exported___functions___group1.html#ga41bda93b6dd639e4905fdb1454eff98e" title=" " alt="" coords="180,104,292,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,78,177,98,172,100,115,84"/>
+</map>

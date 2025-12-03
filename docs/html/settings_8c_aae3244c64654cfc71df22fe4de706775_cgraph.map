@@ -1,0 +1,17 @@
+<map id="Settings_ResetToDefaults" name="Settings_ResetToDefaults">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,180,56"/>
+<area shape="rect" id="Node000002" href="$settings_8c.html#a68fc40b7ffb09031c2d8bf9fd07d742e" title=" " alt="" coords="228,5,370,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,30,214,28,209,30,181,35"/>
+<area shape="rect" id="Node000003" href="$settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8" title=" " alt="" coords="246,55,352,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,51,233,59,228,60,180,56"/>
+<area shape="rect" id="Node000004" href="$settings_8c.html#a099d1aa0867c231024cf2b0f510beee0" title=" " alt="" coords="418,55,493,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="352,65,405,67,400,68,353,70"/>
+<area shape="rect" id="Node000005" href="$settings_8c.html#a4e82adbe8e7465e73fe5573e2f23feff" title=" " alt="" coords="572,5,657,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="493,53,555,36,560,35,494,59"/>
+<area shape="rect" id="Node000006" href="$settings_8c.html#af838c64d30ac3267d3b35de1a4724ff8" title=" " alt="" coords="548,55,681,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="493,65,536,67,530,68,494,70"/>
+<area shape="rect" id="Node000008" href="$settings_8c.html#aa4ab36820523554e5a8e20e08a1191d5" title=" " alt="" coords="541,104,688,130"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="494,76,559,99,554,99,493,82"/>
+<area shape="rect" id="Node000007" href="$settings_8c.html#a952de060fcbb978749e6a5476bba9775" title=" " alt="" coords="736,55,816,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="681,65,723,67,717,68,681,70"/>
+</map>

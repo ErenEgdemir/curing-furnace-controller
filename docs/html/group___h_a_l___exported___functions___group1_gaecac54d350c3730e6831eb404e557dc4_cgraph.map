@@ -1,0 +1,13 @@
+<map id="HAL_Init" name="HAL_Init">
+<area shape="rect" id="Node000001" title="This function is used to initialize the HAL Library; it must be the first instruction to be executed ..." alt="" coords="5,79,78,104"/>
+<area shape="rect" id="Node000002" href="$group___h_a_l___exported___functions___group1.html#ga44d1542f9985b2243b14a41070cc41cc" title="This function configures the source of the time base. The time source is configured to have 1ms time ..." alt="" coords="181,29,278,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,78,125,64,168,55,163,57,126,69,79,83"/>
+<area shape="rect" id="Node000005" href="$stm32f4xx__hal__msp_8c.html#gae4fb8e66865c87d0ebab74a726a6891f" title="Initialize the MSP." alt="" coords="181,79,278,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="78,89,167,89,163,94,78,94"/>
+<area shape="rect" id="Node000006" href="$group___c_o_r_t_e_x___exported___functions___group1.html#gad9be53e08b1498adea006e5e037f238f" title=" " alt="" coords="126,128,333,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="78,100,126,114,156,124,151,124,125,119,78,106"/>
+<area shape="rect" id="Node000003" href="$group___c_o_r_t_e_x___exported___functions___group1.html#ga8581a82025a4780efd00876a66e3e91b" title=" " alt="" coords="382,5,537,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,35,369,27,364,29,279,40"/>
+<area shape="rect" id="Node000004" href="$group___c_o_r_t_e_x___exported___functions___group1.html#gac3a3f0d53c315523a8e6e7bcac1940cf" title=" " alt="" coords="381,55,538,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="278,45,368,57,363,58,279,50"/>
+</map>

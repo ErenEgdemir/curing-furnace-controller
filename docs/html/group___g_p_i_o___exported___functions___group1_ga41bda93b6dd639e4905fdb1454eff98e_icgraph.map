@@ -1,0 +1,18 @@
+<map id="HAL_GPIO_Init" name="HAL_GPIO_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,104,600,130"/>
+<area shape="rect" id="Node000002" href="$group___i2_c___exported___functions___group1.html#gabe01a202c27b23fc150aa66af3130073" title="I2C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="286,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,94,480,69,438,45,411,34,411,29,440,40,483,65,519,94"/>
+<area shape="rect" id="Node000003" href="$group___s_p_i___exported___functions___group1.html#ga17f583be14b22caffa6c4e56dcd035ef" title="SPI MSP Initialization This function configures the hardware resources used in this example." alt="" coords="285,55,411,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,100,402,84,402,78,477,99"/>
+<area shape="rect" id="Node000004" href="$group___t_i_m___exported___functions___group6.html#ga1a8e1103bfcc56c2626ed5cf546391d1" title="TIM_Encoder MSP Initialization This function configures the hardware resources used in this example." alt="" coords="257,104,439,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,117,440,119,439,114,475,116"/>
+<area shape="rect" id="Node000005" href="$stm32f4xx__hal__msp_8c.html#ae70bce6c39d0b570a7523b86738cec4b" title=" " alt="" coords="271,153,425,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="477,134,403,155,401,150,472,135"/>
+<area shape="rect" id="Node000008" href="$main_8c.html#ae89fdd15729ad41a66911190fcbab23a" title="GPIO Initialization Function." alt="" coords="103,204,209,230"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="521,139,484,170,440,194,380,211,318,220,259,223,209,223,209,218,259,218,317,215,379,206,438,189,481,166,516,141"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a7583181f2ba856da53571c33665f2c2d" title="TIM5 Initialization Function." alt="" coords="104,155,208,180"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="253,167,208,170,207,164,258,166"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,180,55,206"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,183,56,191,54,185,91,179"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="85,205,55,200,55,195,90,203"/>
+</map>

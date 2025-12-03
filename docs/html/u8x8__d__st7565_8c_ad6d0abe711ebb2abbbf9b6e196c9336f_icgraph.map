@@ -1,0 +1,9 @@
+<map id="u8x8_d_st7565_zolen_128x64" name="u8x8_d_st7565_zolen_128x64">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,71,375,111"/>
+<area shape="rect" id="Node000002" href="$u8g2__d__setup_8c.html#a1d1d5d53511b5164c72a9ee6ccdb9ec2" title=" " alt="" coords="5,5,180,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,67,160,49,160,44,223,65"/>
+<area shape="rect" id="Node000003" href="$u8g2__d__setup_8c.html#a7d9aebecec6f57ea7b708cfd102f90c7" title=" " alt="" coords="5,71,180,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,92,180,94,180,88,215,90"/>
+<area shape="rect" id="Node000004" href="$u8g2__d__setup_8c.html#a5a91b87fd16f3c8c0ec584fd3e59ed74" title=" " alt="" coords="5,136,180,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,116,161,138,159,133,217,117"/>
+</map>

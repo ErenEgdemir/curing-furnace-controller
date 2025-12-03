@@ -1,0 +1,9 @@
+<map id="menu_send_logo" name="menu_send_logo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="433,5,553,31"/>
+<area shape="rect" id="Node000002" href="$group___m_e_n_u___m_a_i_n___s_c_r_e_e_n_s.html#gab38c33502c246ac95646e229fa5a1e0b" title=" " alt="" coords="268,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,18,386,21,386,16,421,18"/>
+<area shape="rect" id="Node000003" href="$_display___handler_8c.html#abe431c8853e77d3988a3a7b3b177eab2" title="Main display/UI dispatcher for all menu screens." alt="" coords="103,5,220,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,18,220,21,220,16,255,18"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,19,55,21,55,16,89,17"/>
+</map>

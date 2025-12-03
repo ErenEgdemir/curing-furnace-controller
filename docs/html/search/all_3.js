@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['c_0',['c',['../main_8c.html#a7e41114a34f7769a1da4d33eb8967321',1,'main.c']]],
+  ['cfg_1',['cfg',['../main_8c.html#a518aeb300386f32f25c70316aaed0c18',1,'cfg:&#160;main.c'],['../_encoder___handler_8h.html#a518aeb300386f32f25c70316aaed0c18',1,'cfg:&#160;main.c']]],
+  ['changeperiod_2',['changePeriod',['../structstage__t.html#a137afffd316495ad0bf905683242f57d',1,'stage_t']]],
+  ['changeperiodpx_3',['changePeriodPX',['../structstage__t.html#a97b89ddec92881dcc86d1e42cc8a9d85',1,'stage_t']]],
+  ['check_5ferror_4',['check_error',['../_cooking___handler_8h.html#a296e14ea57fa7b575d8588e29f2666c6',1,'Cooking_Handler.h']]],
+  ['clampf_5',['clampf',['../pi__control_8c.html#aef71623dcf78cb5b9ad09b785c20d2f9',1,'pi_control.c']]],
+  ['clear_20structure_20for_20documentation_20and_6',[', providing a clear structure for documentation and',['../group__tags.html',1,'']]],
+  ['common_5fdef_2eh_7',['common_def.h',['../common__def_8h.html',1,'']]],
+  ['control_20screens_8',['Advanced Temp Control Screens',['../group___m_e_n_u___a_d_v_t_e_m_p_c_t_r_l___s_c_r_e_e_n_s.html',1,'']]],
+  ['cooking_9',['COOKING',['../common__def_8h.html#a5df5c90db7aaa4ab75286cdb53affeffa57439ae43177e12da99d6a8ce0fac02f',1,'common_def.h']]],
+  ['cooking_20runtime_20and_20process_20screens_10',['Cooking runtime and process screens',['../group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html',1,'']]],
+  ['cooking_5fduration_11',['COOKING_DURATION',['../common__def_8h.html#a5df5c90db7aaa4ab75286cdb53affeffa3ac0ca8b670529d87531e26813f4afbb',1,'common_def.h']]],
+  ['cooking_5fhandler_12',['Cooking_Handler',['../_cooking___handler_8c.html#ad64b34f6245a4bf4653cc8a8618f79a5',1,'Cooking_Handler(CookingCtx *c, Sens t, PI_Oven *pi1, PI_Oven *pi2, PI_Oven *pi3):&#160;Cooking_Handler.c'],['../_cooking___handler_8h.html#ad64b34f6245a4bf4653cc8a8618f79a5',1,'Cooking_Handler(CookingCtx *c, Sens t, PI_Oven *pi1, PI_Oven *pi2, PI_Oven *pi3):&#160;Cooking_Handler.c']]],
+  ['cooking_5fhandler_2ec_13',['Cooking_Handler.c',['../_cooking___handler_8c.html',1,'']]],
+  ['cooking_5fhandler_2eh_14',['Cooking_Handler.h',['../_cooking___handler_8h.html',1,'']]],
+  ['cooking_5finit_15',['Cooking_Init',['../_cooking___handler_8c.html#ace8a4e57921559cab773713a47591cfb',1,'Cooking_Init(setting_t setting, PI_Oven *pi1, PI_Oven *pi2, PI_Oven *pi3):&#160;Cooking_Handler.c'],['../_cooking___handler_8h.html#ace8a4e57921559cab773713a47591cfb',1,'Cooking_Init(setting_t setting, PI_Oven *pi1, PI_Oven *pi2, PI_Oven *pi3):&#160;Cooking_Handler.c']]],
+  ['cooking_5fpwrchange_16',['COOKING_PWRCHANGE',['../common__def_8h.html#a5df5c90db7aaa4ab75286cdb53affeffaa85cb9c6ccd6fbd8c6414226ae5ff8a2',1,'common_def.h']]],
+  ['cooking_5ftempchange_17',['COOKING_TEMPCHANGE',['../common__def_8h.html#a5df5c90db7aaa4ab75286cdb53affeffad376581e0c5eaca7bd488f67424ed1f3',1,'common_def.h']]],
+  ['cookingctx_18',['CookingCtx',['../struct_cooking_ctx.html',1,'']]],
+  ['cookingflag_19',['CookingFlag',['../common__def_8h.html#aa90716cb0e0853c8c2b401d74085a995',1,'common_def.h']]],
+  ['core_20ui_20screens_20',['Main Menu and Core UI Screens',['../group___m_e_n_u___m_a_i_n___s_c_r_e_e_n_s.html',1,'']]],
+  ['counter_21',['counter',['../struct_cooking_ctx.html#a9e41ccd66325d4f8464fb2334dc5a88e',1,'CookingCtx::counter'],['../struct_menu_ctx.html#a9ff78709b493062de909c220aa02ed9f',1,'MenuCtx::counter'],['../structencoder.html#a495ddaf46123303a0725ab3390541b1e',1,'encoder::counter']]],
+  ['crc32_5fcalc_22',['crc32_calc',['../settings_8c.html#a4e82adbe8e7465e73fe5573e2f23feff',1,'settings.c']]]
+];

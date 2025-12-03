@@ -1,0 +1,15 @@
+<map id="u8g2_WriteBufferPBM2" name="u8g2_WriteBufferPBM2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,163,88"/>
+<area shape="rect" id="Node000002" href="$u8x8__capture_8c.html#ab9ecf78f924459111138a9707bdb39fe" title=" " alt="" coords="211,5,383,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,60,233,34,229,37,136,65"/>
+<area shape="rect" id="Node000003" href="$u8x8__capture_8c.html#a02b86b617850e2593c72c25d8da53c56" title=" " alt="" coords="230,55,364,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,73,217,75,212,76,163,78"/>
+<area shape="rect" id="Node000004" href="$u8x8__capture_8c.html#a5ad11e588f7db9236faa4d21df14453e" title=" " alt="" coords="230,120,364,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,86,217,115,212,117,128,92"/>
+<area shape="rect" id="Node000005" href="$u8x8__u16toa_8c.html#a73ec45819579e8f55c4e75b85ec1d2f7" title=" " alt="" coords="431,128,512,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,138,418,141,413,141,364,143"/>
+<area shape="rect" id="Node000006" href="$u8x8__u16toa_8c.html#ab26e224978fa053827e29dace7bec00c" title=" " alt="" coords="560,128,656,154"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="513,138,547,141,542,141,513,143"/>
+<area shape="rect" id="Node000007" href="$u8x8__u16toa_8c.html#a3702dbb08eb70be0991755a9f14605d6" title=" " alt="" coords="704,128,806,154"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="656,138,691,141,686,141,656,143"/>
+</map>

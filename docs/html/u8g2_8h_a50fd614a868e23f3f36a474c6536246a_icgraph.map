@@ -1,0 +1,36 @@
+<map id="u8g2_DrawXBMP" name="u8g2_DrawXBMP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="739,129,864,155"/>
+<area shape="rect" id="Node000002" href="$group___m_e_n_u___d_r_a_w___p_r_i_m_i_t_i_v_e_s.html#ga3049f0ea6811f8839c44135a75b849af" title=" " alt="" coords="556,153,670,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="721,152,671,162,670,156,726,152"/>
+<area shape="rect" id="Node000009" href="$group___m_e_n_u___d_r_a_w___p_r_i_m_i_t_i_v_e_s.html#gac7742dae2ae601230e06cb6a5006c5e3" title=" " alt="" coords="549,104,677,130"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="720,132,677,128,677,123,726,132"/>
+<area shape="rect" id="Node000010" href="$group___m_e_n_u___d_r_a_w___p_r_i_m_i_t_i_v_e_s.html#ga4488d135ad00c2dd30be5d39fc698bec" title=" " alt="" coords="553,31,673,56"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="759,122,639,60,640,54,765,122"/>
+<area shape="rect" id="Node000012" href="$group___m_e_n_u___d_r_a_w___p_r_i_m_i_t_i_v_e_s.html#ga3f71d1f216b086948a91bf9ab4ba0c3b" title=" " alt="" coords="535,228,691,254"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="764,162,640,230,639,225,759,163"/>
+<area shape="rect" id="Node000003" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga35003e46f145cb8b37d0e7bd73368840" title=" " alt="" coords="268,153,487,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,166,488,169,487,164,544,166"/>
+<area shape="rect" id="Node000006" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga69baf82c0a345baa1390606ef1a7b31f" title=" " alt="" coords="312,203,443,228"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="544,181,443,205,442,199,538,182"/>
+<area shape="rect" id="Node000007" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#gac478658ea78e69d8fbab6f6cdfd234a9" title=" " alt="" coords="284,55,471,80"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="541,146,534,144,519,131,509,118,501,105,486,94,463,83,463,78,489,89,504,102,514,115,523,128,537,140,546,147"/>
+<area shape="rect" id="Node000008" href="$group___m_e_n_u___c_o_o_k_i_n_g___s_c_r_e_e_n_s.html#ga1aa5c3cf6a0d5ca7656b90f312be5366" title=" " alt="" coords="270,104,485,130"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="538,151,442,133,443,128,544,151"/>
+<area shape="rect" id="Node000004" href="$_display___handler_8c.html#abe431c8853e77d3988a3a7b3b177eab2" title="Main display/UI dispatcher for all menu screens." alt="" coords="103,129,220,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="250,153,221,151,220,146,255,152"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,180,55,206"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,164,56,186,54,181,113,159"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="295,200,267,194,224,176,187,158,187,153,226,172,269,189,300,200"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="288,86,269,94,225,112,188,131,185,127,223,107,267,89,292,84"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="253,132,221,138,220,133,258,130"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="531,134,443,155,442,150,537,133"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="546,135,537,143,523,155,514,168,504,181,489,194,444,210,443,205,486,189,501,178,509,165,519,152,534,139,541,137"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="531,101,442,84,442,78,537,100"/>
+<area shape="poly" id="edge15_Node000009_Node000008" title=" " alt="" coords="531,117,485,119,485,114,536,116"/>
+<area shape="rect" id="Node000011" href="$group___m_e_n_u___m_a_i_n___s_c_r_e_e_n_s.html#gab38c33502c246ac95646e229fa5a1e0b" title=" " alt="" coords="319,5,436,31"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="535,36,437,27,437,22,540,35"/>
+<area shape="poly" id="edge18_Node000011_Node000004" title=" " alt="" coords="302,30,269,45,240,64,213,87,175,131,171,127,209,84,236,60,267,40,306,27"/>
+<area shape="rect" id="Node000013" href="$_helper___functions_8c.html#a16325c82330e86bd14a392288c13980e" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="116,204,206,230"/>
+<area shape="poly" id="edge20_Node000012_Node000013" title=" " alt="" coords="522,246,400,251,268,243,207,232,207,227,268,238,400,246,517,246"/>
+<area shape="poly" id="edge21_Node000013_Node000005" title=" " alt="" coords="99,207,55,200,55,195,103,204"/>
+</map>

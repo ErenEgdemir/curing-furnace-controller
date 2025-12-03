@@ -1,0 +1,21 @@
+<map id="HAL_FLASH_Unlock" name="HAL_FLASH_Unlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="797,55,942,80"/>
+<area shape="rect" id="Node000002" href="$settings_8c.html#af838c64d30ac3267d3b35de1a4724ff8" title=" " alt="" coords="610,29,742,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="779,56,742,53,742,48,784,56"/>
+<area shape="rect" id="Node000009" href="$settings_8c.html#aa4ab36820523554e5a8e20e08a1191d5" title=" " alt="" coords="603,79,749,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="784,78,750,85,749,80,779,79"/>
+<area shape="rect" id="Node000003" href="$settings_8c.html#a099d1aa0867c231024cf2b0f510beee0" title=" " alt="" coords="479,55,555,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="597,55,556,64,555,59,592,56"/>
+<area shape="rect" id="Node000004" href="$settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8" title=" " alt="" coords="325,55,431,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,68,432,70,432,65,466,67"/>
+<area shape="rect" id="Node000005" href="$_encoder___handler_8c.html#a7d11b3e0e988dbeb02cdc2c5a498ce1d" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="107,5,273,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="309,51,242,34,242,29,314,50"/>
+<area shape="rect" id="Node000007" href="$settings_8c.html#a2d6f1755dd0652863c8107f515acca76" title=" " alt="" coords="143,55,237,80"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="307,68,238,70,237,65,312,67"/>
+<area shape="rect" id="Node000008" href="$settings_8c.html#aae3244c64654cfc71df22fe4de706775" title=" " alt="" coords="103,104,277,130"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="314,84,242,106,241,101,309,85"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="90,36,56,42,54,37,93,32"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="125,60,55,50,55,44,129,56"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="585,78,555,76,555,71,590,78"/>
+</map>

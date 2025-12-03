@@ -1,0 +1,9 @@
+<map id="u8g2_draw_arc" name="u8g2_draw_arc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,115,31"/>
+<area shape="rect" id="Node000002" href="$u8g2__hvline_8c.html#a3a389e6557911ee8c8b349d89bfca19a" title=" " alt="" coords="163,5,279,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,150,18,145,18,115,21"/>
+<area shape="rect" id="Node000003" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="327,5,457,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,16,314,18,309,18,279,21"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="505,5,663,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,16,492,18,487,18,458,21"/>
+</map>

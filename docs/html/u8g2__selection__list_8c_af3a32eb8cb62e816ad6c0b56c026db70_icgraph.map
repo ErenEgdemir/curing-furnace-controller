@@ -1,0 +1,9 @@
+<map id="u8g2_DrawUTF8Lines" name="u8g2_DrawUTF8Lines">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,55,415,80"/>
+<area shape="rect" id="Node000002" href="$u8g2__input__value_8c.html#a47185b5f901e12ed96bd1a11008571e7" title=" " alt="" coords="12,5,209,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,52,174,34,174,29,264,50"/>
+<area shape="rect" id="Node000003" href="$u8g2__message_8c.html#a493fe8dbe44fc14aa0ad2966231a3203" title=" " alt="" coords="16,55,205,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,68,205,70,205,65,251,67"/>
+<area shape="rect" id="Node000004" href="$u8g2__selection__list_8c.html#a17d2e6bd5891689a450e8d9529805b39" title=" " alt="" coords="5,104,216,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,84,174,106,173,101,259,85"/>
+</map>

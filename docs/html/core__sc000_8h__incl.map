@@ -1,0 +1,10 @@
+<map id="Drivers/CMSIS/Include/core_sc000.h" name="Drivers/CMSIS/Include/core_sc000.h">
+<area shape="rect" id="Node000001" title="CMSIS SC000 Core Peripheral Access Layer Header File." alt="" coords="5,5,162,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="75,168,140,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,49,35,64,19,81,12,100,15,119,36,142,63,161,59,163,32,146,10,121,6,99,15,78,31,60,53,44"/>
+<area shape="rect" id="Node000003" href="$cmsis__version_8h.html" title="CMSIS Core(M) Version definitions." alt="" coords="25,94,142,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="84,44,86,79,81,78,83,49"/>
+<area shape="rect" id="Node000004" href="$cmsis__compiler_8h.html" title="CMSIS compiler generic header file." alt="" coords="166,94,289,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,44,194,85,190,87,119,49"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="210,120,142,162,140,157,205,121"/>
+</map>

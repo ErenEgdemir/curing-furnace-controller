@@ -1,0 +1,9 @@
+<map id="HAL_SPI_Transmit" name="HAL_SPI_Transmit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,5,497,31"/>
+<area shape="rect" id="Node000002" href="$_helper___functions_8c.html#ab7f6f9bf156a55c6aeadedc10dce9b12" title="Low&#45;level SPI byte callback for the U8x8 graphics library." alt="" coords="241,5,314,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,18,315,21,315,16,349,18"/>
+<area shape="rect" id="Node000003" href="$_helper___functions_8c.html#a16325c82330e86bd14a392288c13980e" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="103,5,193,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,18,193,21,193,16,228,18"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,19,55,21,55,16,90,17"/>
+</map>

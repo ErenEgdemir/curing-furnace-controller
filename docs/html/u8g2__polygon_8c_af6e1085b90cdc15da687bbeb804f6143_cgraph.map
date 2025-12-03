@@ -1,0 +1,9 @@
+<map id="pg_prepare" name="pg_prepare">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,91,80"/>
+<area shape="rect" id="Node000002" href="$u8g2__polygon_8c.html#a686c3632a4eebcbcf823bd39aeb7d527" title=" " alt="" coords="170,5,234,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,52,157,31,154,35,92,56"/>
+<area shape="rect" id="Node000003" href="$u8g2__polygon_8c.html#ac884e1b884925a42e1edb9eaa2b6e754" title=" " alt="" coords="139,55,265,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,65,126,66,121,69,92,70"/>
+<area shape="rect" id="Node000004" href="$u8g2__polygon_8c.html#ad3c446a79adc4822c165ebbe9d80bc2b" title=" " alt="" coords="172,104,232,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,78,160,101,155,104,90,84"/>
+</map>

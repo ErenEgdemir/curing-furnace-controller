@@ -1,0 +1,7 @@
+<map id="menu_prg_FastStart_run" name="menu_prg_FastStart_run">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,5,432,31"/>
+<area shape="rect" id="Node000002" href="$_display___handler_8c.html#abe431c8853e77d3988a3a7b3b177eab2" title="Main display/UI dispatcher for all menu screens." alt="" coords="103,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,18,221,21,221,16,255,18"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,19,55,21,55,16,89,17"/>
+</map>

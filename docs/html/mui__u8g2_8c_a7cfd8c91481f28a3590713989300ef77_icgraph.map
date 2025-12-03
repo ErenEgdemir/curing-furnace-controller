@@ -1,0 +1,9 @@
+<map id="u8g2_DrawValueMark" name="u8g2_DrawValueMark">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,78,365,104"/>
+<area shape="rect" id="Node000002" href="$mui__u8g2_8c.html#a8d0522c040de149567835016daad1933" title=" " alt="" coords="5,5,169,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,74,153,49,153,44,236,72"/>
+<area shape="rect" id="Node000003" href="$mui__u8g2_8c.html#a2f21e629d535a622090b32a354de4ef5" title=" " alt="" coords="8,71,166,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,92,167,94,166,88,204,90"/>
+<area shape="rect" id="Node000004" href="$mui__u8g2_8c.html#aaccba43c76394c66624bba2b071a20c0" title=" " alt="" coords="8,136,166,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,108,154,138,152,133,231,110"/>
+</map>

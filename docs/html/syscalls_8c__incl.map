@@ -1,0 +1,19 @@
+<map id="Core/Src/syscalls.c" name="Core/Src/syscalls.c">
+<area shape="rect" id="Node000001" title="STM32CubeIDE Minimal System calls file." alt="" coords="289,5,425,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,85,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,34,101,81,100,75,303,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,79,173,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,31,188,78,187,73,318,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,79,258,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,31,264,74,262,69,332,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="283,79,343,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="352,30,330,68,327,63,347,33"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="368,79,434,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="366,29,388,66,383,65,363,34"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="458,79,515,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="380,29,454,71,448,71,378,34"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="538,79,621,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="395,29,530,74,525,74,394,34"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="644,79,734,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="414,29,632,77,626,78,413,34"/>
+</map>

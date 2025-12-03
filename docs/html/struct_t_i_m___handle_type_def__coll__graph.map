@@ -1,0 +1,13 @@
+<map id="TIM_HandleTypeDef" name="TIM_HandleTypeDef">
+<area shape="rect" id="Node000001" title="TIM Time Base Handle Structure definition." alt="" coords="137,199,278,224"/>
+<area shape="rect" id="Node000002" href="$struct_t_i_m___type_def.html" title="TIM." alt="" coords="5,102,106,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,134,146,172,188,198,182,198,143,177,85,139"/>
+<area shape="rect" id="Node000003" href="$struct_t_i_m___base___init_type_def.html" title="TIM Time base Configuration Structure definition." alt="" coords="130,102,285,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,141,210,199,205,197,205,145"/>
+<area shape="rect" id="Node000004" href="$struct_____d_m_a___handle_type_def.html" title="DMA handle Structure definition." alt="" coords="309,102,471,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,135,232,201,230,196,351,135"/>
+<area shape="rect" id="Node000005" href="$struct_d_m_a___stream___type_def.html" title="DMA Controller." alt="" coords="229,5,386,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="329,40,382,102,377,101,327,45"/>
+<area shape="rect" id="Node000006" href="$struct_d_m_a___init_type_def.html" title="DMA Configuration Structure definition." alt="" coords="410,5,536,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="455,42,424,80,402,104,399,100,420,76,450,44"/>
+</map>

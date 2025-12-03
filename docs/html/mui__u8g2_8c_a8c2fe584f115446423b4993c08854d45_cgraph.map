@@ -1,0 +1,17 @@
+<map id="u8g2_DrawCheckbox" name="u8g2_DrawCheckbox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,152,60"/>
+<area shape="rect" id="Node000002" href="$u8g2__box_8c.html#aec28ed33707a92f88e1dd95ebe43d2bd" title=" " alt="" coords="207,9,317,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,35,194,31,189,33,153,40"/>
+<area shape="rect" id="Node000007" href="$u8g2__box_8c.html#a8971ec9950b207a825f8923e354398d8" title=" " alt="" coords="200,59,324,84"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="152,54,187,61,181,62,152,60"/>
+<area shape="rect" id="Node000003" href="$u8g2__hvline_8c.html#a4743202f437c3528a75001fa602c22ba" title=" " alt="" coords="374,9,505,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,20,362,22,356,23,318,25"/>
+<area shape="rect" id="Node000005" href="$u8g2__intersection_8c.html#a1eb2cace84437c80cb24c8936bcac2da" title=" " alt="" coords="372,59,507,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="311,33,379,54,373,54,311,38"/>
+<area shape="rect" id="Node000004" href="$u8g2__hvline_8c.html#af283a764d5a260fe82ce88863224c72a" title=" " alt="" coords="555,5,713,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="505,18,542,20,537,20,506,23"/>
+<area shape="rect" id="Node000006" href="$u8g2__intersection_8c.html#a3b357b864d8b3e0d3a3f2b74caf6b4ed" title=" " alt="" coords="564,55,704,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="507,70,551,74,546,74,508,76"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="310,55,374,40,379,39,312,61"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="324,69,359,71,354,72,325,74"/>
+</map>

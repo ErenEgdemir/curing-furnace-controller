@@ -1,0 +1,9 @@
+<map id="Cooking_Init" name="Cooking_Init">
+<area shape="rect" id="Node000001" title="Initializes the cooking system and all PI controllers." alt="" coords="5,55,100,80"/>
+<area shape="rect" id="Node000002" href="$pi__control_8c.html#a057099c10c45416289bdafea550d3709" title=" " alt="" coords="163,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,52,159,34,155,38,99,56"/>
+<area shape="rect" id="Node000003" href="$pi__control_8h.html#ae397d6e89eec0e34825f6956a0c44f59" title=" " alt="" coords="148,55,287,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,65,134,66,129,69,101,70"/>
+<area shape="rect" id="Node000004" href="$pi__control_8h.html#a9beed5856360b5acb2809f3e67451110" title=" " alt="" coords="148,104,287,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,78,160,98,155,100,98,84"/>
+</map>

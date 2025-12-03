@@ -1,0 +1,7 @@
+<map id="DS1307_SetMinute" name="DS1307_SetMinute">
+<area shape="rect" id="Node000001" title="Sets the current minute." alt="" coords="5,31,140,56"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a03131e49923848c14db7af42d893af11" title="Encodes a decimal number to binaty&#45;coded decimal for storage in registers." alt="" coords="188,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,32,175,29,170,31,141,37"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="189,55,335,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,49,176,56,170,57,140,55"/>
+</map>

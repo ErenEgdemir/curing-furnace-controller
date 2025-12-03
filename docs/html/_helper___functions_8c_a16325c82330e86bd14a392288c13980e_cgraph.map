@@ -1,0 +1,9 @@
+<map id="Display_Init" name="Display_Init">
+<area shape="rect" id="Node000001" title="Initializes the ST7920&#45;based display and renders the startup logo." alt="" coords="5,55,96,80"/>
+<area shape="rect" id="Node000002" href="$group___m_e_n_u___d_r_a_w___p_r_i_m_i_t_i_v_e_s.html#ga3f71d1f216b086948a91bf9ab4ba0c3b" title=" " alt="" coords="144,5,299,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,52,162,34,158,37,97,57"/>
+<area shape="rect" id="Node000003" href="$_helper___functions_8c.html#a458b1587219ea54dccc399370a0e9813" title="GPIO and delay callback for the U8x8 graphics library." alt="" coords="148,55,294,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,65,135,66,130,69,97,70"/>
+<area shape="rect" id="Node000004" href="$_helper___functions_8c.html#ab7f6f9bf156a55c6aeadedc10dce9b12" title="Low&#45;level SPI byte callback for the U8x8 graphics library." alt="" coords="185,104,258,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,78,172,101,167,103,96,83"/>
+</map>

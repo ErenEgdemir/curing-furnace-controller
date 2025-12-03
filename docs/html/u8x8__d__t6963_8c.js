@@ -1,0 +1,25 @@
+var u8x8__d__t6963_8c =
+[
+    [ "u8x8_d_t6963_128x128", "u8x8__d__t6963_8c.html#a7cf75675919049cf7b00328011fd239e", null ],
+    [ "u8x8_d_t6963_128x64", "u8x8__d__t6963_8c.html#a1cdfb81874416283518fad24d5104579", null ],
+    [ "u8x8_d_t6963_128x64_alt", "u8x8__d__t6963_8c.html#ae38a0de239d96ea8e42b19e2470e4b1d", null ],
+    [ "u8x8_d_t6963_160x80", "u8x8__d__t6963_8c.html#aadf38b5d587781557987405143cbe14c", null ],
+    [ "u8x8_d_t6963_240x128", "u8x8__d__t6963_8c.html#ac4bfd3f27720c65dcf05527773a151bf", null ],
+    [ "u8x8_d_t6963_240x64", "u8x8__d__t6963_8c.html#a5d2f45c4b0d43d35538f151aadaaab63", null ],
+    [ "u8x8_d_t6963_256x64", "u8x8__d__t6963_8c.html#a3547e880acb030eb5dab1d170c50ba3e", null ],
+    [ "u8x8_d_t6963_common", "u8x8__d__t6963_8c.html#adb35a92e05142e7058292c57615d7c26", null ],
+    [ "u8x8_d_t6963_128x128_init_seq", "u8x8__d__t6963_8c.html#ae449e462a12b58c2357f8c2335be4732", null ],
+    [ "u8x8_d_t6963_128x64_init_seq", "u8x8__d__t6963_8c.html#a94c5c3c3af37e67c304f2ac0493de5cd", null ],
+    [ "u8x8_d_t6963_160x80_init_seq", "u8x8__d__t6963_8c.html#acb46a1183ba16bb581dbc74a2e0a9738", null ],
+    [ "u8x8_d_t6963_240x128_init_seq", "u8x8__d__t6963_8c.html#a4a049df37cb37c223c7367ef98b35c26", null ],
+    [ "u8x8_d_t6963_240x64_init_seq", "u8x8__d__t6963_8c.html#a6183a243e745b56c080191e1d91b1980", null ],
+    [ "u8x8_d_t6963_256x64_init_seq", "u8x8__d__t6963_8c.html#a28b1aebe1d925818f232e31f725c2d41", null ],
+    [ "u8x8_d_t6963_powersave0_seq", "u8x8__d__t6963_8c.html#a3ff287483e7cae02c38a6b84751ba8ee", null ],
+    [ "u8x8_d_t6963_powersave1_seq", "u8x8__d__t6963_8c.html#a12ea00cb5c922140b08944aeb4a037f6", null ],
+    [ "u8x8_t6963_128x128_display_info", "u8x8__d__t6963_8c.html#ab337d6cfff44aba8fdd7175a8f124cb7", null ],
+    [ "u8x8_t6963_128x64_display_info", "u8x8__d__t6963_8c.html#a2d2cd5ea6f849d3b7ab411c7084d5913", null ],
+    [ "u8x8_t6963_160x80_display_info", "u8x8__d__t6963_8c.html#acf39ed2d0ff904a3532c053a16a3e8be", null ],
+    [ "u8x8_t6963_240x128_display_info", "u8x8__d__t6963_8c.html#a8c0f38fdf76fbff6596259c54a96f4f9", null ],
+    [ "u8x8_t6963_240x64_display_info", "u8x8__d__t6963_8c.html#a3f6166c6cbf60fd3ad88a627ac4058d7", null ],
+    [ "u8x8_t6963_256x64_display_info", "u8x8__d__t6963_8c.html#a31b03e4c75c9e4612f3504083376c5c6", null ]
+];

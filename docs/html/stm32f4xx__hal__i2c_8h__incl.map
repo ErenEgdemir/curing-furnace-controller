@@ -1,0 +1,13 @@
+<map id="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h" name="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h">
+<area shape="rect" id="Node000001" title="Header file of I2C HAL module." alt="" coords="216,5,387,61"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="142,109,284,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,60,238,100,235,96,272,63"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__i2c__ex_8h.html" title="Header file of I2C HAL Extension module." alt="" coords="308,109,470,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="329,59,369,98,363,97,328,64"/>
+<area shape="rect" id="Node000003" href="$stm32f4xx_8h.html" title="CMSIS STM32F4xx Device Peripheral Access Layer Header File." alt="" coords="5,183,99,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,137,94,178,92,174,184,133"/>
+<area shape="rect" id="Node000004" href="$stm32__hal__legacy_8h.html" title="This file contains aliases definition for the STM32Cube HAL constants macros and functions maintained..." alt="" coords="123,183,304,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,133,216,168,211,165,211,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="328,183,397,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="239,133,326,175,321,176,238,138"/>
+</map>

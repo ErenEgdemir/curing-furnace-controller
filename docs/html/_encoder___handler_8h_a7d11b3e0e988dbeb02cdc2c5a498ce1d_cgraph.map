@@ -1,0 +1,41 @@
+<map id="button_handler_encoder1" name="button_handler_encoder1">
+<area shape="rect" id="Node000001" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="5,179,172,204"/>
+<area shape="rect" id="Node000002" href="$_encoder___handler_8h.html#ae5c3ad75a7fc87df00c48b3aba560b27" title="Switches the menu context to a new state and resets its counter." alt="" coords="240,5,334,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,177,142,112,178,74,218,40,228,36,224,40,221,44,181,78,147,116,100,180"/>
+<area shape="rect" id="Node000003" href="$_encoder___handler_8h.html#a60bb70b85e7c5bc72558311b663c77a8" title="Sets the active menu state and its associated counter value." alt="" coords="243,55,330,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,176,152,134,218,89,231,85,227,89,221,94,155,139,106,180"/>
+<area shape="rect" id="Node000004" href="$ds1307__for__stm32__hal_8c.html#a9cdc8cc7acce7e7040fda3858d90abf1" title="Sets the current day of month." alt="" coords="225,104,348,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,176,219,138,236,134,232,137,221,143,125,180"/>
+<area shape="rect" id="Node000007" href="$ds1307__for__stm32__hal_8c.html#a29f106fdbec6282977e1c90a5db8bdfb" title="Sets the current hour, in 24h format." alt="" coords="225,153,348,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,178,212,175,207,178,173,183"/>
+<area shape="rect" id="Node000008" href="$ds1307__for__stm32__hal_8c.html#a6815582909a22d9435ce74cbaae827f6" title="Sets the current minute." alt="" coords="220,203,354,228"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="171,199,206,204,202,207,173,204"/>
+<area shape="rect" id="Node000009" href="$ds1307__for__stm32__hal_8c.html#ad949821dfc9a11678ac18141333fab86" title="Sets the current month." alt="" coords="221,252,352,278"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="124,202,221,238,237,246,231,247,219,243,125,207"/>
+<area shape="rect" id="Node000010" href="$ds1307__for__stm32__hal_8c.html#a06c53178d7295510605b2714727f3fe7" title="Sets the current year." alt="" coords="226,301,348,327"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="105,202,155,244,221,288,232,295,226,295,218,292,152,248,104,208"/>
+<area shape="rect" id="Node000011" href="$settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8" title=" " alt="" coords="234,351,340,376"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="99,202,147,267,182,304,221,337,229,344,223,343,218,342,178,308,143,270,98,208"/>
+<area shape="rect" id="Node000005" href="$ds1307__for__stm32__hal_8c.html#a03131e49923848c14db7af42d893af11" title="Encodes a decimal number to binaty&#45;coded decimal for storage in registers." alt="" coords="402,228,550,254"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="336,128,356,139,372,158,380,178,388,197,404,215,409,220,404,220,400,219,383,200,375,180,368,161,352,143,337,133"/>
+<area shape="rect" id="Node000006" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="403,179,549,204"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="326,128,355,138,433,172,428,173,353,143,326,133"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="328,177,355,188,403,214,418,222,413,223,401,219,353,193,328,182"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="348,172,391,179,385,180,349,177"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="354,222,389,228,384,229,355,227"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="354,204,390,202,385,204,355,210"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="352,254,389,251,384,253,354,259"/>
+<area shape="poly" id="edge14_Node000009_Node000006" title=" " alt="" coords="327,249,353,238,401,213,418,209,413,211,403,218,355,243,329,254"/>
+<area shape="poly" id="edge16_Node000010_Node000005" title=" " alt="" coords="325,298,353,288,427,261,432,259,355,293,327,303"/>
+<area shape="poly" id="edge17_Node000010_Node000006" title=" " alt="" coords="335,298,352,288,368,270,375,252,383,232,400,214,405,213,409,211,404,217,388,235,380,254,372,273,356,292,338,303"/>
+<area shape="rect" id="Node000012" href="$settings_8c.html#a099d1aa0867c231024cf2b0f510beee0" title=" " alt="" coords="438,351,514,376"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="340,361,426,363,420,364,341,366"/>
+<area shape="rect" id="Node000013" href="$settings_8c.html#a4e82adbe8e7465e73fe5573e2f23feff" title=" " alt="" coords="629,301,714,327"/>
+<area shape="poly" id="edge20_Node000012_Node000013" title=" " alt="" coords="514,351,612,329,617,328,515,357"/>
+<area shape="rect" id="Node000014" href="$settings_8c.html#af838c64d30ac3267d3b35de1a4724ff8" title=" " alt="" coords="605,351,738,376"/>
+<area shape="poly" id="edge21_Node000012_Node000014" title=" " alt="" coords="514,361,592,363,587,364,514,366"/>
+<area shape="rect" id="Node000016" href="$settings_8c.html#aa4ab36820523554e5a8e20e08a1191d5" title=" " alt="" coords="598,400,745,426"/>
+<area shape="poly" id="edge23_Node000012_Node000016" title=" " alt="" coords="515,370,606,396,600,396,514,376"/>
+<area shape="rect" id="Node000015" href="$settings_8c.html#a952de060fcbb978749e6a5476bba9775" title=" " alt="" coords="793,351,873,376"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="738,361,780,363,774,364,738,366"/>
+</map>

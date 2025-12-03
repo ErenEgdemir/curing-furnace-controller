@@ -1,0 +1,28 @@
+<map id="Core/Src/UserLibraries/Helper_Functions.c" name="Core/Src/UserLibraries/Helper_Functions.c">
+<area shape="rect" id="Node000001" title="Hardware abstraction and display helper functions for the UI layer." alt="" coords="103,5,257,46"/>
+<area shape="rect" id="Node000002" href="$_helper___functions_8h.html" title="Hardware&#45;abstraction helper layer for SPI&#45;driven ST7920 LCD using U8g2." alt="" coords="113,94,247,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,44,183,79,177,78,179,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,315,123,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,122,138,142,107,170,79,204,57,242,53,271,57,300,52,300,48,271,52,240,74,201,104,166,134,138,164,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="151,241,212,267"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="182,118,184,227,178,225,178,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="306,168,454,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="214,118,334,161,329,163,214,123"/>
+<area shape="rect" id="Node000006" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="67,241,128,267"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="175,119,114,229,109,226,171,121"/>
+<area shape="rect" id="Node000007" href="$menu_8h.html" title="UI rendering and menu&#45;state interface for the curing furnace controller." alt="" coords="217,168,282,193"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="192,117,230,156,225,157,191,123"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="94,266,78,302,74,299,90,269"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="240,192,205,232,201,228,236,195"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="222,196,138,237,136,232,226,192"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="245,315,310,341"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="254,192,275,300,270,299,250,196"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="375,241,436,267"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="276,191,368,234,362,235,275,197"/>
+<area shape="rect" id="Node000010" href="$common__def_8h.html" title=" " alt="" coords="390,315,498,341"/>
+<area shape="poly" id="edge12_Node000007_Node000010" title=" " alt="" coords="282,188,385,216,450,239,457,254,460,270,455,302,451,299,454,270,452,256,446,243,383,221,282,193"/>
+<area shape="rect" id="Node000011" href="$types_8h.html" title="Core data structures used across the composite curing furnace controller, including settings,..." alt="" coords="286,241,351,267"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="262,191,299,230,294,230,260,196"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="314,266,294,304,290,299,310,269"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="341,265,412,307,407,307,339,270"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HAL_SPI_MspDeInit" name="HAL_SPI_MspDeInit">
+<area shape="rect" id="Node000001" title="SPI MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="5,31,149,56"/>
+<area shape="rect" id="Node000002" href="$group___d_m_a___exported___functions___group1.html#ga7bb8587d642da11252a97f5c41c389ef" title=" " alt="" coords="198,5,324,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,31,186,28,180,30,150,36"/>
+<area shape="rect" id="Node000003" href="$group___g_p_i_o___exported___functions___group1.html#gafe9c756b5aa18961032a3f8aa572959b" title=" " alt="" coords="197,55,326,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,50,184,57,179,57,149,56"/>
+</map>

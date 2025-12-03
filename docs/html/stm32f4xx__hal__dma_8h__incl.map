@@ -1,0 +1,14 @@
+<map id="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h" name="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h">
+<area shape="rect" id="Node000001" title="Header file of DMA HAL module." alt="" coords="128,5,299,61"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="142,183,284,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,59,181,97,178,115,180,134,197,170,192,170,175,135,173,115,176,95,193,64"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__dma__ex_8h.html" title="Header file of DMA HAL extension module." alt="" coords="190,109,360,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="233,59,260,96,255,96,232,64"/>
+<area shape="rect" id="Node000003" href="$stm32f4xx_8h.html" title="CMSIS STM32F4xx Device Peripheral Access Layer Header File." alt="" coords="5,256,99,282"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,211,94,252,92,247,184,207"/>
+<area shape="rect" id="Node000004" href="$stm32__hal__legacy_8h.html" title="This file contains aliases definition for the STM32Cube HAL constants macros and functions maintained..." alt="" coords="123,256,304,282"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,207,216,242,211,239,211,210"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="328,256,397,282"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="239,206,326,249,321,250,238,211"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="267,133,235,173,232,169,262,136"/>
+</map>

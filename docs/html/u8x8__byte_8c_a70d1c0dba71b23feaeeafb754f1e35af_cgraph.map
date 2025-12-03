@@ -1,0 +1,12 @@
+<map id="i2c_stop" name="i2c_stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,76,107"/>
+<area shape="rect" id="Node000002" href="$u8x8__byte_8c.html#aa731d0a8321bea3da51222d543fd7321" title=" " alt="" coords="153,5,254,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,79,123,48,155,36,151,39,125,53,67,83"/>
+<area shape="rect" id="Node000003" href="$u8x8__byte_8c.html#a6c4212d071e31f948d32cad6f3656daf" title=" " alt="" coords="332,81,408,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,92,317,92,316,97,76,97"/>
+<area shape="rect" id="Node000004" href="$u8x8__byte_8c.html#af248e314cee68373afe0009d30e9089e" title=" " alt="" coords="124,107,284,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="76,97,111,103,106,106,77,102"/>
+<area shape="rect" id="Node000005" href="$u8x8__byte_8c.html#a350aa3d28416afe65ee9875dbffb9578" title=" " alt="" coords="155,156,253,182"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="60,105,91,124,125,142,143,151,138,152,123,147,88,129,60,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="284,105,319,102,314,103,285,110"/>
+</map>

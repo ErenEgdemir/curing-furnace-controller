@@ -1,0 +1,8 @@
+<map id="u8x8_cad_st7920_spi" name="u8x8_cad_st7920_spi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,153,56"/>
+<area shape="rect" id="Node000002" href="$u8x8__byte_8c.html#aecb342cd924f2f20031fd2d536e78e00" title=" " alt="" coords="201,5,346,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,31,188,29,182,30,153,37"/>
+<area shape="rect" id="Node000003" href="$u8x8__byte_8c.html#a80e0a6948c585b773fc0816519546000" title=" " alt="" coords="394,31,546,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="153,41,379,41,379,46,153,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,25,381,32,376,32,346,30"/>
+</map>

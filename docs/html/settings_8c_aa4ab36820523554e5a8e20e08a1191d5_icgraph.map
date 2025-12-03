@@ -1,0 +1,16 @@
+<map id="Flash_ProgramWords" name="Flash_ProgramWords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="603,55,749,80"/>
+<area shape="rect" id="Node000002" href="$settings_8c.html#a099d1aa0867c231024cf2b0f510beee0" title=" " alt="" coords="479,55,555,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,68,555,70,555,65,590,67"/>
+<area shape="rect" id="Node000003" href="$settings_8c.html#ad6db71f0f06dcd2233319eb2afb06dc8" title=" " alt="" coords="325,55,431,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,68,432,70,432,65,466,67"/>
+<area shape="rect" id="Node000004" href="$_encoder___handler_8c.html#a7d11b3e0e988dbeb02cdc2c5a498ce1d" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="107,5,273,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="309,51,242,34,242,29,314,50"/>
+<area shape="rect" id="Node000006" href="$settings_8c.html#a2d6f1755dd0652863c8107f515acca76" title=" " alt="" coords="143,55,237,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="307,68,238,70,237,65,312,67"/>
+<area shape="rect" id="Node000007" href="$settings_8c.html#aae3244c64654cfc71df22fe4de706775" title=" " alt="" coords="103,104,277,130"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="314,84,242,106,241,101,309,85"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,36,56,42,54,37,93,32"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="125,60,55,50,55,44,129,56"/>
+</map>

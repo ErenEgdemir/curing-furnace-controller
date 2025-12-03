@@ -1,0 +1,5 @@
+<map id="HAL_TIM_Base_Stop_IT" name="HAL_TIM_Base_Stop_IT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,5,440,31"/>
+<area shape="rect" id="Node000002" href="$group___t_i_m___exported___functions___group9.html#ga8a3b0ad512a6e6c6157440b68d395eac" title="Period elapsed interrupt callback for sensor acquisition and encoder button debouncing." alt="" coords="5,5,225,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,18,225,21,225,16,260,18"/>
+</map>

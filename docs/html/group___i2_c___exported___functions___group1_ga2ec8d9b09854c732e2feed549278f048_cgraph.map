@@ -1,0 +1,5 @@
+<map id="HAL_I2C_MspDeInit" name="HAL_I2C_MspDeInit">
+<area shape="rect" id="Node000001" title="I2C MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="5,5,148,31"/>
+<area shape="rect" id="Node000002" href="$group___g_p_i_o___exported___functions___group1.html#gafe9c756b5aa18961032a3f8aa572959b" title=" " alt="" coords="196,5,325,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,182,18,177,18,148,21"/>
+</map>

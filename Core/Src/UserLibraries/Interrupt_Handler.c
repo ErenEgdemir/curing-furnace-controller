@@ -31,7 +31,7 @@ volatile uint8_t sensorRead_flag = 0;
 volatile uint8_t IRQ_enc1_btn_flag = 0;
 volatile uint8_t IRQ_enc2_btn_flag = 0;
 volatile uint8_t IRQ_enc3_btn_flag = 0;
-volatile uint8_t buttonState = 0;
+volatile uint8_t buttonState = TRUE;
 volatile uint8_t SPI_flag = 0;
 
 /**

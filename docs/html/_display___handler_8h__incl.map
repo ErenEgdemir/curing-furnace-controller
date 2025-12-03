@@ -1,0 +1,24 @@
+<map id="Core/Inc/UserLibraries/Display_Handler.h" name="Core/Inc/UserLibraries/Display_Handler.h">
+<area shape="rect" id="Node000001" title="Central UI rendering and menu&#45;screen dispatch module." alt="" coords="87,5,239,46"/>
+<area shape="rect" id="Node000002" href="$common__def_8h.html" title=" " alt="" coords="5,241,113,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,49,82,98,56,132,36,169,33,183,35,198,46,228,40,229,29,200,28,183,31,167,51,129,78,95,137,44"/>
+<area shape="rect" id="Node000003" href="$types_8h.html" title="Core data structures used across the composite curing furnace controller, including settings,..." alt="" coords="46,168,110,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,45,94,155,89,153,150,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="404,168,464,193"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="199,44,401,158,397,161,197,49"/>
+<area shape="rect" id="Node000006" href="$menu_8h.html" title="UI rendering and menu&#45;state interface for the curing furnace controller." alt="" coords="166,94,230,120"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="172,44,189,80,184,79,171,49"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="77,192,68,227,64,225,73,195"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="136,241,200,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,191,144,231,139,233,92,196"/>
+<area shape="poly" id="edge12_Node000006_Node000002" title=" " alt="" coords="190,119,124,195,85,233,82,228,120,191,185,121"/>
+<area shape="poly" id="edge13_Node000006_Node000003" title=" " alt="" coords="175,122,113,162,110,157,179,118"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="198,119,176,227,171,225,193,121"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="231,115,391,164,386,167,230,121"/>
+<area shape="rect" id="Node000007" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="236,168,296,193"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="210,117,247,156,241,156,208,122"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="320,168,380,193"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="224,118,313,160,307,161,223,123"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="224,241,342,267"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="270,191,279,227,274,225,267,196"/>
+</map>

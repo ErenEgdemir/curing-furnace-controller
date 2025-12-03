@@ -1,0 +1,71 @@
+<map id="HAL_I2C_Master_Transmit" name="HAL_I2C_Master_Transmit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="770,501,950,527"/>
+<area shape="rect" id="Node000002" href="$ds1307__for__stm32__hal_8c.html#a79774ef6c6e4636ea9266e7bf2e17fa5" title="Gets the byte in the designated DS1307 register." alt="" coords="574,673,722,699"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="833,536,667,675,664,671,828,538"/>
+<area shape="rect" id="Node000020" href="$ds1307__for__stm32__hal_8c.html#ae2064f9b500a3aa30d2227f222f3246e" title="Sets the byte in the designated DS1307 register to value." alt="" coords="575,279,721,304"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="833,491,661,308,663,302,839,490"/>
+<area shape="rect" id="Node000003" href="$ds1307__for__stm32__hal_8c.html#aa2c5aaf11c6e23e9ba18170b71176693" title="Gets clock halt bit." alt="" coords="344,551,499,576"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="621,662,579,625,525,590,499,580,499,574,528,585,583,621,627,662"/>
+<area shape="rect" id="Node000005" href="$ds1307__for__stm32__hal_8c.html#aa961deee87496382285dca72627fed53" title="Gets the current day of month." alt="" coords="360,797,484,823"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="627,709,583,752,556,772,527,789,485,803,483,798,525,784,553,767,580,748,622,712"/>
+<area shape="rect" id="Node000008" href="$ds1307__for__stm32__hal_8c.html#aac8fd96cb35a65002afc16e18fe76629" title="Gets the current day of week." alt="" coords="338,649,505,675"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="556,677,506,674,505,668,561,676"/>
+<area shape="rect" id="Node000009" href="$ds1307__for__stm32__hal_8c.html#af0495f5b6499396a3a434d37ff17bedc" title="Gets the current hour in 24h format." alt="" coords="360,847,484,872"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="635,711,593,777,563,810,528,838,507,848,485,855,483,850,505,843,525,833,559,806,589,774,631,714"/>
+<area shape="rect" id="Node000010" href="$ds1307__for__stm32__hal_8c.html#ab7744b0b5742b9fc43d7d0909e755a53" title="Gets the current minute." alt="" coords="354,896,489,922"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="640,712,625,754,601,801,569,848,528,887,491,904,489,899,525,883,565,844,597,798,620,752,636,716"/>
+<area shape="rect" id="Node000011" href="$ds1307__for__stm32__hal_8c.html#aba2005d9a4923ebcb455f85983796cf3" title="Gets the current month." alt="" coords="356,945,488,971"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="643,712,631,763,609,823,575,884,553,912,528,936,509,948,489,955,488,950,507,943,525,932,549,909,571,881,604,821,626,762,639,716"/>
+<area shape="rect" id="Node000012" href="$ds1307__for__stm32__hal_8c.html#afaffd23a700803552aff37aa5223fb36" title="Gets the current second. Clock halt bit not included." alt="" coords="352,699,492,724"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="556,697,493,706,491,701,561,695"/>
+<area shape="rect" id="Node000013" href="$ds1307__for__stm32__hal_8c.html#a2d4eedd9a75103ce8e7c25f5d46ef7ae" title="Gets the stored UTC hour offset." alt="" coords="330,748,513,774"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="603,707,527,739,489,750,488,745,525,734,608,705"/>
+<area shape="rect" id="Node000014" href="$ds1307__for__stm32__hal_8c.html#a5216d7e012fd94bf7da9509a0e80929c" title="Gets the stored UTC minute offset." alt="" coords="334,600,509,626"/>
+<area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="601,667,525,639,488,629,488,624,527,634,607,666"/>
+<area shape="rect" id="Node000015" href="$ds1307__for__stm32__hal_8c.html#af8211d19e8fa9c362c6b3d42e3ec27f1" title="Gets the current year." alt="" coords="360,995,483,1020"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="646,712,637,772,616,845,601,884,581,921,557,956,528,986,507,998,484,1006,483,1001,505,994,525,981,553,952,577,918,596,882,611,844,631,771,642,716"/>
+<area shape="rect" id="Node000016" href="$ds1307__for__stm32__hal_8c.html#ab5e25ca784eb54cef145b064d98519b8" title="Sets clock halt bit." alt="" coords="345,403,498,428"/>
+<area shape="poly" id="edge19_Node000002_Node000016" title=" " alt="" coords="639,657,626,611,604,552,571,492,549,465,525,442,499,427,498,422,528,437,553,461,575,489,609,550,631,609,644,659"/>
+<area shape="rect" id="Node000018" href="$ds1307__for__stm32__hal_8c.html#ab3cb75866d2771152702ca6ec7350084" title="Toggle square wave output on pin 7." alt="" coords="317,452,526,478"/>
+<area shape="poly" id="edge22_Node000002_Node000018" title=" " alt="" coords="635,658,620,621,596,575,565,529,525,491,508,481,507,476,528,487,569,526,601,572,625,619,640,659"/>
+<area shape="rect" id="Node000019" href="$ds1307__for__stm32__hal_8c.html#a60ad5928dcab6e7832d44b03c74ca4e5" title="Set square wave output frequency." alt="" coords="336,501,507,527"/>
+<area shape="poly" id="edge23_Node000002_Node000019" title=" " alt="" coords="630,660,589,600,559,567,525,540,505,530,504,525,528,536,563,563,593,596,635,660"/>
+<area shape="rect" id="Node000004" href="$ds1307__for__stm32__hal_8c.html#a45354642733d85f6e7f54792e23e2cde" title="Sets the current second." alt="" coords="116,501,256,527"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="340,548,252,530,250,525,344,546"/>
+<area shape="rect" id="Node000006" href="$_sensor___handler_8c.html#adccd83099f4e278b9b879adc6dc2bab3" title="Sequential sensor and RTC acquisition handler for time&#45;sliced sampling." alt="" coords="134,871,238,896"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="342,828,318,837,220,873,218,868,316,832,347,825"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,403,55,428"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="173,857,33,430,38,427,178,856"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="342,869,238,881,237,876,346,866"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="336,901,238,892,238,886,341,899"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="339,941,316,937,217,899,218,894,318,932,344,941"/>
+<area shape="poly" id="edge18_Node000015_Node000006" title=" " alt="" coords="343,994,316,986,280,966,247,942,199,899,201,894,251,938,283,961,318,981,348,994"/>
+<area shape="rect" id="Node000017" href="$ds1307__for__stm32__hal_8c.html#a7bf505f4dbf4253388c91a262cdd416c" title="Initializes the DS1307 module. Sets clock halt bit to 0 to start timing." alt="" coords="139,403,232,428"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="328,417,234,418,232,413,332,414"/>
+<area shape="poly" id="edge21_Node000017_Node000007" title=" " alt="" coords="121,417,57,418,53,413,125,414"/>
+<area shape="poly" id="edge38_Node000020_Node000004" title=" " alt="" coords="591,275,531,263,459,256,422,257,385,264,350,275,319,294,302,309,294,325,289,360,287,399,282,420,271,442,241,477,210,502,205,499,237,473,267,439,277,418,282,398,283,359,289,323,298,306,315,289,348,271,384,258,421,252,459,250,532,257,595,273"/>
+<area shape="poly" id="edge25_Node000020_Node000016" title=" " alt="" coords="622,318,583,357,556,377,527,394,500,404,497,400,525,389,553,373,580,353,626,314"/>
+<area shape="poly" id="edge30_Node000020_Node000018" title=" " alt="" coords="634,316,593,382,563,415,528,443,506,454,503,449,525,439,559,411,589,379,631,320"/>
+<area shape="poly" id="edge33_Node000020_Node000019" title=" " alt="" coords="639,317,625,359,601,406,569,453,528,492,509,503,506,499,525,488,565,449,597,403,620,357,636,321"/>
+<area shape="rect" id="Node000021" href="$ds1307__for__stm32__hal_8c.html#a9cdc8cc7acce7e7040fda3858d90abf1" title="Sets the current day of month." alt="" coords="360,203,483,228"/>
+<area shape="poly" id="edge26_Node000020_Node000021" title=" " alt="" coords="595,274,525,250,469,231,467,226,527,245,600,272"/>
+<area shape="rect" id="Node000023" href="$ds1307__for__stm32__hal_8c.html#ab15a7955d001b5f32baf4717ed22f2ef" title="Sets the current day of week." alt="" coords="338,304,505,330"/>
+<area shape="poly" id="edge29_Node000020_Node000023" title=" " alt="" coords="558,303,507,310,504,305,562,300"/>
+<area shape="rect" id="Node000024" href="$ds1307__for__stm32__hal_8c.html#a29f106fdbec6282977e1c90a5db8bdfb" title="Sets the current hour, in 24h format." alt="" coords="360,5,483,31"/>
+<area shape="poly" id="edge31_Node000020_Node000024" title=" " alt="" coords="639,263,626,216,604,156,571,95,550,68,525,44,505,33,485,25,483,21,507,28,528,40,553,64,575,92,609,154,631,214,644,264"/>
+<area shape="rect" id="Node000025" href="$ds1307__for__stm32__hal_8c.html#a6815582909a22d9435ce74cbaae827f6" title="Sets the current minute." alt="" coords="354,55,489,80"/>
+<area shape="poly" id="edge34_Node000020_Node000025" title=" " alt="" coords="635,264,620,226,597,179,565,133,525,94,508,84,490,77,488,72,510,79,528,89,569,129,602,177,625,224,641,265"/>
+<area shape="rect" id="Node000026" href="$ds1307__for__stm32__hal_8c.html#ad949821dfc9a11678ac18141333fab86" title="Sets the current month." alt="" coords="356,104,487,130"/>
+<area shape="poly" id="edge36_Node000020_Node000026" title=" " alt="" coords="630,265,589,203,559,170,525,143,489,128,487,122,528,139,563,167,593,200,635,265"/>
+<area shape="rect" id="Node000027" href="$ds1307__for__stm32__hal_8c.html#a39c77986dba8831c1ac69ec9421725ef" title="Sets UTC offset." alt="" coords="345,353,498,379"/>
+<area shape="poly" id="edge39_Node000020_Node000027" title=" " alt="" coords="603,313,527,345,490,355,487,350,525,340,607,309"/>
+<area shape="rect" id="Node000028" href="$ds1307__for__stm32__hal_8c.html#a06c53178d7295510605b2714727f3fe7" title="Sets the current year." alt="" coords="361,153,482,179"/>
+<area shape="poly" id="edge40_Node000020_Node000028" title=" " alt="" coords="622,267,580,229,553,209,525,193,483,178,482,172,527,188,556,205,583,225,627,267"/>
+<area shape="rect" id="Node000022" href="$_encoder___handler_8c.html#a7d11b3e0e988dbeb02cdc2c5a498ce1d" title="Handles encoder 1 push&#45;button actions for the main UI state machine." alt="" coords="103,129,269,155"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="343,201,316,194,220,158,218,153,318,189,347,198"/>
+<area shape="poly" id="edge28_Node000022_Node000007" title=" " alt="" coords="169,171,41,403,36,401,170,166"/>
+<area shape="poly" id="edge32_Node000024_Node000022" title=" " alt="" coords="343,34,318,45,283,64,251,88,202,130,198,127,247,84,280,60,316,40,347,30"/>
+<area shape="poly" id="edge35_Node000025_Node000022" title=" " alt="" coords="339,86,318,94,220,131,216,127,316,89,343,83"/>
+<area shape="poly" id="edge37_Node000026_Node000022" title=" " alt="" coords="339,127,271,135,268,131,343,124"/>
+<area shape="poly" id="edge41_Node000028_Node000022" title=" " alt="" coords="344,160,271,153,268,148,348,157"/>
+</map>
