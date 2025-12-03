@@ -1,0 +1,25 @@
+# Build outputs
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.lst
+*.axf
+
+# CubeIDE metadata
+.settings/
+.vscode/
+*.project
+*.cproject
+*.launch
+
+# Doxygen output
+docs/html/
+docs/latex/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
